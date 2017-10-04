@@ -30,3 +30,9 @@ jupyter notebook
 `
 
 The homepage of the notebook should open automatically in your preferred browser. Notebooks generally run on `localhost:8888` if it is the sole notebook running.
+
+Sources
+-------
+
+[Federal Student Loan Portfolio](https://studentaid.ed.gov/sa/about/data-center/student/portfolio)
+[Default Management](https://ifap.ed.gov/DefaultManagement/DefaultManagement.html)
