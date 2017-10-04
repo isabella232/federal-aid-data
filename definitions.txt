@@ -1,0 +1,11 @@
+Data: Location of Federal Family Education Loan (FFEL) Program Loans
+Source: National Student Loan Data System
+Note: Recipient counts are based at the loan level. As a result, recipients may be counted multiple times across varying loan statuses. As such, the last columns report unduplicated counts for the FFEL Portfolio.
+Definitions:
+Commercial Held Lender: Includes FFEL Program loans owned by commercial lenders.
+ED Federal Loan Servicers: Includes FFEL Program loans that are owned by the Department of Education and serviced by ED's federal loan servicers. These loans are largely made up of loans purchased under the Ensuring Continued Access to Student Loans Act (ECASLA), but may also include some rehabilitated loans and some loans reassigned to active servicing from the TPD process.
+ED Total & Permanent Disability (TPD) Servicer: Includes FFEL Program loans in a disability status that are owned by the Department of Education and serviced by ED's Total and Permanent Disability Servicer.
+ED Default Management System: Includes FFEL Program loans in default owned by the Department of Education. These loans include defaulted ECASLA loans as well as defaulted loans that guaranty agencies have assigned to the Department.
+Guaranty Agency Held: Includes FFEL Program loans assigned to guaranty agencies. These loans are largely defaulted loans, but also include non-defaulted bankruptcies.
+Dollars Outstanding: Includes the outstanding principal and interest balance of loans in the specified status.
+Recipients: Includes the number of recipients with loans in the specified status.  The recipient is the student that benefits from the federal student loan. In most cases, the recipient is the borrower, but in parent PLUS loans, the parent is the borrower and their child is the recipient.
