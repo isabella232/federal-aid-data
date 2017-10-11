@@ -1,0 +1,48 @@
+,opeid,name,state,"prog
+length","school
+type","dual
+num-2014","dual
+denom-2014",drate-2014,prate-2014,ethnic-code,program,"dual
+num-2013","dual
+denom-2013",drate-2013,prate-2013,"dual
+num-2012","dual
+denom-2012",drate-2012,prate-2012,non_default
+111,1170,CLAREMONT MCKENNA COLLEGE                                        ,CA,8,2,0,56,0.0,A,5,D,0,63,0.0,A,0,64,0.0,A,abcd
+155,1230,MARSHALL B. KETCHUM UNIVERSITY                                   ,CA,8,2,0,114,0.0,P,5,D,0,102,0.0,P,0,102,0.0,P,abcd
+408,1637,BETHANY THEOLOGICAL SEMINARY                                     ,IN,8,2,0,33,0.0,B,5,D,0,23,0.0,B,0,24,0.0,B,abcd
+576,1897,WARTBURG THEOLOGICAL SEMINARY                                    ,IA,8,2,0,30,0.0,A,5,D,0,38,0.0,A,0,35,0.0,A,abcd
+868,2331,WESTERN THEOLOGICAL SEMINARY                                     ,MI,8,2,0,30,0.0,A,5,D,0,36,0.0,A,0,36,0.0,A,abcd
+1616,3517,SOUTHERN COLLEGE OF OPTOMETRY                                    ,TN,7,2,0,124,0.0,P,5,D,0,124,0.0,P,0,119,0.0,P,abcd
+2358,7705,ROYAL COLLEGE OF SURGEONS IN IRELAND                             ,FC,8,6,0,42,0.0,B,5,D,0,67,0.0,B,0,55,0.0,B,abcd
+2370,7783,MIDDLE TENNESSEE SCHOOL OF ANESTHESIA                            ,TN,8,2,0,59,0.0,A,5,D,0,73,0.0,A,0,70,0.0,A,abcd
+2633,9860,UNIVERSITY OF SURREY                                             ,FC,8,5,0,41,0.0,P,5,D,0,41,0.0,P,0,34,0.0,P,abcd
+2646,9929,SUNY COLLEGE OF OPTOMETRY                                        ,NY,8,1,0,77,0.0,P,5,D,0,68,0.0,P,0,67,0.0,P,abcd
+2654,9987,SAINT ANTHONY COLLEGE OF NURSING                                 ,IL,8,2,0,105,0.0,A,5,D,0,88,0.0,A,0,69,0.0,A,abcd
+2725,10472,INSEAD                                                           ,FC,8,6,0,33,0.0,A,5,D,0,100,0.0,B,0,34,0.0,A,abcd
+2930,12766,"NATIONAL UNIVERSITY OF IRELAND, GALWAY                           ",FC,8,5,0,41,0.0,A,5,D,0,35,0.0,A,0,57,0.0,B,abcd
+2968,13134,YESHIVATH BETH MOSHE                                             ,PA,8,2,0,43,0.0,B,5,D,0,47,0.0,B,0,44,0.0,B,abcd
+3094,21200,UNIVERSITY OF LONDON - THE COURTAULD INSTITUTE OF ART            ,FC,8,5,0,56,0.0,B,5,D,0,57,0.0,B,0,50,0.0,B,abcd
+3165,21623,"IESE BUSINESS SCHOOL, UNIVERSITY OF NAVARRA                      ",FC,8,6,0,46,0.0,B,5,D,0,68,0.0,B,0,81,0.0,B,abcd
+3250,22100,UNIVERSITY OF LONDON - LONDON SCHOOL OF HYGIENE & TROPICAL MEDICI,FC,8,5,0,33,0.0,A,5,D,0,30,0.0,A,0,32,0.0,A,abcd
+3279,22296,TEL AVIV UNIVERSITY SACKLER SCHOOL OF MEDICINE                   ,FC,8,5,0,39,0.0,A,5,D,0,46,0.0,A,0,55,0.0,A,abcd
+3395,22993,TRINITY EPISCOPAL SCHOOL FOR MINISTRY                            ,PA,8,2,0,35,0.0,B,5,D,0,39,0.0,B,0,30,0.0,B,abcd
+3764,30501,STUDIO ARTS COLLEGE INTERNATIONAL                                ,FC,8,6,0,32,0.0,B,5,D,0,38,0.0,B,0,42,0.0,B,abcd
+3799,30761,SOUTHWESTERN COLLEGE                                             ,NM,8,2,0,54,0.0,A,5,D,0,48,0.0,A,0,53,0.0,A,abcd
+3816,30887,ROYAL CONSERVATOIRE OF SCOTLAND                                  ,FC,8,5,0,34,0.0,B,5,D,0,42,0.0,B,0,40,0.0,B,abcd
+3882,31169,BAPTIST THEOLOGICAL SEMINARY AT RICHMOND                         ,VA,8,2,0,33,0.0,B,5,D,0,37,0.0,B,0,35,0.0,B,abcd
+3950,32803,SEATTLE INSTITUTE OF ORIENTAL MEDICINE                           ,WA,7,3,0,35,0.0,B,5,D,0,41,0.0,B,0,37,0.0,B,abcd
+3971,33333,MEDICAL UNIVERSITY OF LUBLIN                                     ,FC,7,5,0,73,0.0,A,5,D,0,83,0.0,A,0,86,0.0,A,abcd
+4015,34373,UPPER VALLEY EDUCATORS INSTITUTE                                 ,NH,3,2,0,81,0.0,B,5,D,0,72,0.0,B,0,41,0.0,A,abcd
+4079,36143,DAVID'S ACADEMY OF BEAUTY                                        ,CA,3,3,0,49,0.0,B,5,D,0,32,0.0,A,0,0,0.0,A,abcd
+4170,38243,"ROYAL VETERINARY COLLEGE (THE), UNIVERSITY OF LONDON             ",FC,8,5,0,56,0.0,B,5,D,0,51,0.0,B,0,46,0.0,B,abcd
+4189,38724,DIVINE MERCY UNIVERSITY                                          ,VA,8,2,0,41,0.0,B,5,D,0,47,0.0,B,0,44,0.0,B,abcd
+4214,39393,WOLFORD COLLEGE                                                  ,FL,8,3,0,90,0.0,A,5,D,0,92,0.0,A,0,103,0.0,A,abcd
+4218,39463,FRANKLIN W. OLIN COLLEGE OF ENGINEERING                          ,MA,6,2,0,64,0.0,B,5,D,0,57,0.0,B,0,50,0.0,B,abcd
+4361,41305,PACIFIC NORTHWEST UNIVERSITY OF HEALTH SCIENCES                  ,WA,7,2,0,85,0.0,A,5,D,0,59,0.0,A,0,21,0.0,B,abcd
+4415,41427,PONTIFICAL JOHN PAUL II INSTITUTE FOR STUDIES ON MARRIAGE AND FAM,DC,8,2,0,34,0.0,B,5,D,0,29,0.0,B,0,22,0.0,B,abcd
+4419,41437,ST MARY'S UNIVERSITY TWICKENHAM                                  ,FC,8,5,0,109,0.0,B,5,D,0,33,0.0,A,0,53,0.0,A,abcd
+4434,41464,DAOIST TRADITIONS COLLEGE OF CHINESE MEDICAL ARTS                ,NC,8,3,0,35,0.0,B,5,D,0,18,0.0,B,0,18,0.0,B,abcd
+4563,41725,ROLF INSTITUTE OF STRUCTURAL INTEGRATION (THE)                   ,CO,2,2,0,62,0.0,B,5,D,0,43,0.0,B,0,18,0.0,B,abcd
+4581,41759,GEISINGER-LEWISTOWN HOSPITAL SCHOOL OF NURSING                   ,PA,3,2,0,41,0.0,B,5,D,0,16,0.0,B,0,3,0.0,B,abcd
+4692,42138,SALON PROFESSIONAL ACADEMY (THE)                                 ,TN,3,3,0,31,0.0,A,5,D,0,13,0.0,B,0,0,0.0,A,abcd
+4698,42189,ROCKY VISTA UNIVERSITY                                           ,CO,8,3,0,78,0.0,A,5,D,0,5,0.0,B,0,0,0.0,A,abcd
