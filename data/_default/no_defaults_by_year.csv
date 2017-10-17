@@ -1,12 +1,4 @@
-,opeid,name,state,"prog
-length","school
-type","dual
-num-2014","dual
-denom-2014",drate-2014,prate-2014,ethnic-code,program,"dual
-num-2013","dual
-denom-2013",drate-2013,prate-2013,"dual
-num-2012","dual
-denom-2012",drate-2012,prate-2012,non_default
+,opeid,name,state,prog-length,school-type,dual-num-2014,dual-denom-2014,drate-2014,prate-2014,ethnic-code,program,dual-num-2013,dual-denom-2013,drate-2013,prate-2013,dual-num-2012,dual-denom-2012,drate-2012,prate-2012,non_default
 22,1038,SNEAD STATE COMMUNITY COLLEGE                                    ,AL,5,1,113,372,30.3,A,5,D,36,106,33.9,A,0,0,0.0,A,2012
 66,1105,SHORTER COLLEGE                                                  ,AR,5,2,19,82,23.1,A,2,D,8,17,47.0,B,0,0,0.0,A,2012
 82,1131,CALIFORNIA INSTITUTE OF TECHNOLOGY                               ,CA,8,2,0,37,0.0,A,5,D,2,104,1.9,B,1,39,2.5,A,2014
