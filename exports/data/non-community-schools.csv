@@ -1,0 +1,1118 @@
+,opeid,name,state,prog-length,school-type-num,dual-num-2014,dual-denom-2014,drate-2014,prate-2014,ethnic-code,program,dual-num-2013,dual-denom-2013,drate-2013,prate-2013,dual-num-2012,dual-denom-2012,drate-2012,prate-2012,school-type-label,non_default,community-schools
+3523,24978,GREENE COUNTY CAREER CENTER                                      ,OH,2,1,17,78,21.7,A,5,D,16,72,22.2,A,13,65,20.0,A,public,,False
+3221,21921,BUTLER TECHNOLOGY AND CAREER DEVELOPMENT SCHOOLS                 ,OH,3,1,36,228,15.7,P,5,D,41,249,16.4,P,42,327,12.8,P,public,,False
+3125,21407,CANTON CITY SCHOOL DISTRICT ADULT CAREER & TECHNICAL EDUCATION   ,OH,3,1,14,78,17.9,A,5,D,6,63,9.5,A,8,75,10.6,A,public,,False
+3128,21422,LEX LA RAY TECHNICAL CENTER                                      ,MO,3,1,3,82,3.6,B,5,D,2,30,6.6,A,10,77,12.9,B,public,,False
+3134,21458,CAYUGA ONONDAGA BOCES                                            ,NY,3,1,3,33,9.0,A,5,D,3,33,9.0,A,5,33,15.1,A,public,,False
+3135,21460,WAYNE - FINGER LAKES BOCES                                       ,NY,3,1,19,149,12.7,A,5,D,10,122,8.1,A,16,149,10.7,A,public,,False
+3142,21515,CENTRAL SUSQUEHANNA LPN CAREER CENTER                            ,PA,3,1,6,72,8.3,A,5,D,4,72,5.5,A,6,73,8.2,A,public,,False
+3145,21536,BROOME DELAWARE TIOGA BOCES PROGRAM OF PRACTICAL NURSING         ,NY,3,1,11,89,12.3,B,5,D,5,31,16.1,A,5,34,14.7,A,public,,False
+3149,21562,TECHNICAL COLLEGE OF THE ROCKIES                                 ,CO,3,1,7,89,7.8,A,5,D,15,83,18.0,A,15,81,18.5,A,public,,False
+3153,21582,WASHINGTON SARATOGA WARREN HAMILTON ESSEX BOCES                  ,NY,3,1,1,40,2.5,P,5,D,5,54,9.2,P,7,61,11.4,P,public,,False
+3154,21583,MIFFLIN COUNTY ACADEMY OF SCIENCE AND TECHNOLOGY                 ,PA,3,1,3,38,7.8,A,5,D,2,44,4.5,A,4,39,10.2,A,public,,False
+3179,21696,CLEARFIELD COUNTY CAREER AND TECHNOLOGY CENTER                   ,PA,3,1,7,48,14.5,A,5,D,7,52,13.4,A,2,50,4.0,A,public,,False
+3180,21699,ASSABET VALLEY REGIONAL VOCATIONAL SCHOOL                        ,MA,3,1,0,32,0.0,A,5,D,3,31,9.6,A,10,77,12.9,B,public,2014,False
+3182,21702,ALBANY SCHOHARIE SCHENECTADY SARATOGA BOCES PRACTICAL NURSING PRO,NY,3,1,12,125,9.6,A,5,D,14,145,9.6,A,13,120,10.8,A,public,,False
+3186,21721,HAMILTON - FULTON - MONTGOMERY BOCES                             ,NY,3,1,14,83,16.8,B,5,D,4,32,12.5,A,13,59,22.0,B,public,,False
+3188,21728,DUTCHESS BOCES SCHOOL OF PRACTICAL NURSING                       ,NY,3,1,18,102,17.6,A,5,D,13,89,14.6,A,11,85,12.9,A,public,,False
+3190,21739,ULSTER COUNTY BOCES SCHOOL OF PRACTICAL NURSING                  ,NY,3,1,10,65,15.3,A,5,D,8,86,9.3,A,19,116,16.3,A,public,,False
+3199,21794,EASTERN SUFFOLK BOCES                                            ,NY,3,1,20,202,9.9,A,5,D,10,142,7.0,A,22,335,6.5,A,public,,False
+3366,22825,LENAPE TECHNICAL SCHOOL                                          ,PA,3,1,1,52,1.9,A,5,D,6,76,7.8,A,2,72,2.7,A,public,,False
+3346,22729,ROCKLAND COUNTY BOCES ADULT EDUCATION                            ,NY,3,1,6,63,9.5,A,5,D,4,65,6.1,A,5,82,6.0,A,public,,False
+3331,22637,MIAMI VALLEY CAREER TECHNOLOGY CENTER                            ,OH,3,1,18,191,9.4,A,5,D,31,185,16.7,A,22,204,10.7,A,public,,False
+2407,8132,TOLEDO PUBLIC SCHOOLS ADULT AND CONTINUING EDUCATION             ,OH,3,1,16,116,13.7,A,5,D,15,98,15.3,A,15,96,15.6,A,public,,False
+3300,22424,HENRICO COUNTY-SAINT MARY'S HOSPITAL SCHOOL OF PRACTICAL NURSING ,VA,3,1,5,48,10.4,B,5,D,1,39,2.5,B,2,40,5.0,B,public,,False
+3291,22356,ERIE 2 - CHAUTAUQUA - CATTARAUGUS BOCES                          ,NY,3,1,11,70,15.7,P,5,D,15,104,14.4,P,2,75,2.6,P,public,,False
+3107,21263,MADISON ONEIDA BOCES PRACTICAL NURSING PROGRAM                   ,NY,3,1,6,50,12.0,A,5,D,5,60,8.3,A,21,163,12.8,B,public,,False
+3285,22325,UNION COUNTY VOCATIONAL TECHNICAL SCHOOLS                        ,NJ,3,1,7,65,10.7,B,5,D,5,73,6.8,B,14,80,17.5,B,public,,False
+3241,22034,NEVADA REGIONAL TECHNICAL CENTER                                 ,MO,3,1,6,59,10.1,B,5,D,8,61,13.1,B,14,62,22.5,B,public,,False
+3231,21993,ORLEANS NIAGARA BOCES                                            ,NY,3,1,14,94,14.8,B,5,D,9,86,10.4,B,5,40,12.5,A,public,,False
+2667,10055,CRAWFORD COUNTY CAREER & TECHNICAL CENTER                        ,PA,3,1,2,32,6.2,A,5,D,9,76,11.8,B,12,72,16.6,B,public,,False
+3217,21890,MID-EAST CAREER AND TECHNOLOGY CENTERS - ADULT EDUCATION         ,OH,3,1,36,178,20.2,A,5,D,37,177,20.9,A,28,188,14.8,A,public,,False
+3214,21881,NORTHLAND CAREER CENTER                                          ,MO,3,1,6,88,6.8,B,5,D,1,31,3.2,A,12,87,13.7,B,public,,False
+3213,21879,ASHTABULA COUNTY TECHNICAL AND CAREER CAMPUS                     ,OH,3,1,11,87,12.6,A,5,D,5,88,5.6,A,5,86,5.8,A,public,,False
+2666,10052,JEFFERSON LEWIS BOCES PROGRAM OF PRACTICAL NURSING               ,NY,3,1,7,65,10.7,A,5,D,6,66,9.0,A,6,40,15.0,A,public,,False
+3101,21245,FRANKLIN TECHNOLOGY CENTER                                       ,MO,3,1,16,109,14.6,A,5,D,22,114,19.2,A,35,162,21.6,A,public,,False
+3099,21240,ORANGE ULSTER BOCES SCHOOL OF PRACTICAL NURSING                  ,NY,3,1,7,59,11.8,A,5,D,6,49,12.2,A,4,66,6.0,A,public,,False
+2314,7473,CHOFFIN CAREER & TECHNICAL CENTER                                ,OH,3,1,14,88,15.9,A,5,D,5,58,8.6,A,7,71,9.8,A,public,,False
+2903,12386,SOUTHEASTERN REGIONAL VOCATIONAL TECHNICAL SCHOOL                ,MA,3,1,13,107,12.1,A,5,D,6,81,7.4,A,11,91,12.0,A,public,,False
+2890,12293,VEEB NASSAU COUNTY SCHOOL OF PRACTICAL NURSING                   ,NY,3,1,21,137,15.3,A,5,D,25,153,16.3,A,10,162,6.1,A,public,,False
+2064,5288,KIRKSVILLE AREA TECHNICAL CENTER                                 ,MO,3,1,9,59,15.2,B,5,D,8,68,11.7,B,3,56,5.3,B,public,,False
+2880,12187,BLACKSTONE VALLEY VOCATIONAL REGIONAL SCHOOL DISTRICT            ,MA,3,1,2,37,5.4,B,5,D,1,20,5.0,B,0,7,0.0,B,public,2012,False
+2063,5279,GREATER LOWELL REGIONAL VOCATIONAL TECHNICAL SCHOOL              ,MA,3,1,6,41,14.6,A,5,D,0,38,0.0,A,1,39,2.5,A,public,2013,False
+2844,11735,PIKE LINCOLN TECHNICAL CENTER                                    ,MO,3,1,7,93,7.5,B,5,D,3,30,10.0,A,3,38,7.8,A,public,,False
+2905,12407,SCHUYLER STEUBEN CHEMUNG TIOGA ALLEGANY BOCES                    ,NY,3,1,13,72,18.0,P,5,D,7,74,9.4,P,12,96,12.5,P,public,,False
+2821,11523,MORRIS COUNTY SCHOOL OF TECHNOLOGY                               ,NJ,3,1,7,56,12.5,B,5,D,7,60,11.6,B,3,45,6.6,B,public,,False
+2381,7916,FRANKLIN COUNTY CAREER AND TECHNOLOGY CENTER                     ,PA,3,1,1,52,1.9,A,5,D,3,41,7.3,A,3,52,5.7,A,public,,False
+2793,11026,WARRENSBURG AREA CAREER CENTER                                   ,MO,3,1,3,33,9.0,A,5,D,4,69,5.7,B,8,76,10.5,B,public,,False
+2787,10963,GREENE COUNTY CAREER & TECHNOLOGY CENTER                         ,PA,3,1,9,78,11.5,B,5,D,13,85,15.2,B,4,30,13.3,A,public,,False
+2786,10952,PUTNAM-WESTCHESTER BOCES                                         ,NY,3,1,6,72,8.3,B,5,D,3,35,8.5,A,14,98,14.2,B,public,,False
+2748,10641,SOUTHERN WESTCHESTER BOCES                                       ,NY,3,1,4,70,5.7,A,5,D,4,83,4.8,A,2,66,3.0,A,public,,False
+2775,10860,GREATER ALTOONA CAREER & TECHNOLOGY CENTER                       ,PA,3,1,22,132,16.6,A,5,D,22,130,16.9,A,16,102,15.6,A,public,,False
+2415,8194,AKRON SCHOOL OF PRACTICAL NURSING                                ,OH,3,1,12,134,8.9,B,5,D,3,36,8.3,A,6,74,8.1,A,public,,False
+3380,22892,COLUMBIA AREA CAREER CENTER                                      ,MO,3,1,8,98,8.1,B,5,D,5,54,9.2,A,7,48,14.5,B,public,,False
+2065,5289,WAYNESVILLE CAREER CENTER                                        ,MO,3,1,1,37,2.7,A,5,D,4,47,8.5,A,1,32,3.1,A,public,,False
+2925,12652,ONONDAGA CORTLAND MADISON BOCES                                  ,NY,3,1,94,543,17.3,A,5,D,86,580,14.8,A,80,565,14.1,A,public,,False
+3089,21174,BECK SCHOOL OF PRACTICAL NURSING                                 ,IL,3,1,2,75,2.6,A,5,D,2,77,2.5,A,5,57,8.7,A,public,,False
+3088,21173,GREAT OAKS CAREER CAMPUSES-SCARLET OAKS                          ,OH,3,1,15,211,7.1,P,5,D,31,223,13.9,P,38,213,17.8,P,public,,False
+3086,21169,UPPER VALLEY JOINT VOCATIONAL SCHOOL                             ,OH,3,1,9,54,16.6,A,5,D,3,44,6.8,A,4,49,8.1,A,public,,False
+2321,7529,CHESTER COUNTY INTERMEDIATE UNIT PRACTICAL NURSING PROGRAM       ,PA,3,1,11,79,13.9,A,5,D,5,78,6.4,A,7,96,7.2,A,public,,False
+3076,21109,CATTARAUGUS/ALLEGANY/ERIE/WYOMING BOCES                          ,NY,3,1,8,46,17.3,P,5,D,8,44,18.1,P,9,73,12.3,P,public,,False
+3062,21043,OTSEGO DELAWARE SCHOHARIE GREENE BOCES                           ,NY,3,1,8,39,20.5,A,5,D,3,40,7.5,A,19,117,16.2,B,public,,False
+2922,12589,ERIE 1 BOARD OF COOPERATIVE EDUCATIONAL SERVICES                 ,NY,3,1,27,205,13.1,A,5,D,28,193,14.5,A,24,177,13.5,A,public,,False
+2078,5330,FAYETTE COUNTY CAREER & TECHNICAL INSTITUTE                      ,PA,3,1,6,63,9.5,A,5,D,5,52,9.6,A,7,48,14.5,A,public,,False
+1983,4669,UPPER CAPE COD REGIONAL TECHNICAL SCHOOL                         ,MA,3,1,9,117,7.6,B,5,D,2,43,4.6,A,4,51,7.8,A,public,,False
+3008,20733,GALLIA JACKSON VINTON JOINT SCHOOL ADULT EDUCATION               ,OH,3,1,4,51,7.8,A,5,D,4,83,4.8,A,8,57,14.0,A,public,,False
+2987,20561,FOUR RIVERS CAREER CENTER                                        ,MO,3,1,13,80,16.2,B,5,D,6,30,20.0,A,11,81,13.5,B,public,,False
+2942,12881,MONTACHUSETT REGIONAL VOCATIONAL TECHNICAL SCHOOL                ,MA,3,1,4,32,12.5,A,5,D,10,83,12.0,B,5,34,14.7,A,public,,False
+2703,10323,HANNAH E MULLINS SCHOOL OF PRACTICAL NURSING                     ,OH,3,1,4,43,9.3,A,5,D,4,63,6.3,A,9,78,11.5,A,public,,False
+2931,12783,OSWEGO COUNTY BOCES                                              ,NY,3,1,8,47,17.0,A,5,D,8,109,7.3,B,6,35,17.1,A,public,,False
+3047,20984,HERKIMER COUNTY  BOCES PRACTICAL NURSING PROGRAM                 ,NY,3,1,13,69,18.8,A,5,D,8,63,12.6,A,9,73,12.3,A,public,,False
+3399,23047,TRI-RIVERS CAREER CENTER                                         ,OH,3,1,15,102,14.7,A,5,D,9,83,10.8,A,8,87,9.1,A,public,,False
+3312,22512,SCHUYLKILL TECHNOLOGY CENTERS                                    ,PA,3,1,14,79,17.7,A,5,D,13,72,18.0,A,11,78,14.1,A,public,,False
+2092,5399,MONMOUTH COUNTY VOCATIONAL SCHOOL DISTRICT                       ,NJ,3,1,7,33,21.2,P,5,D,11,110,10.0,P,13,136,9.5,P,public,,False
+3721,30151,ALLIANCE CITY SCHOOLS CAREER CENTRE                              ,OH,3,1,20,76,26.3,A,5,D,20,96,20.8,A,21,88,23.8,A,public,,False
+2502,8886,PORTAGE LAKES CAREER CENTER                                      ,OH,3,1,6,59,10.1,P,5,D,6,78,7.6,P,9,71,12.6,P,public,,False
+3765,30514,AUBURN CAREER CENTER                                             ,OH,3,1,12,54,22.2,A,5,D,8,56,14.2,A,0,0,0.0,A,public,2012,False
+3403,23062,VENANGO COUNTY AREA VOCATIONAL TECHNICAL SCHOOL                  ,PA,3,1,9,60,15.0,A,5,D,5,66,7.5,A,5,51,9.8,A,public,,False
+2093,5424,SOUTH CENTRAL CAREER CENTER                                      ,MO,3,1,12,52,23.0,A,5,D,13,55,23.6,A,14,55,25.4,A,public,,False
+3789,30686,SPECIAL SCHOOL DISTRICT OF ST. LOUIS COUNTY                      ,MO,3,1,11,135,8.1,A,5,D,15,110,13.6,A,19,98,19.3,A,public,,False
+3815,30847,VENTURA ADULT AND CONTINUING EDUCATION                           ,CA,3,1,4,30,13.3,A,5,D,5,54,9.2,A,7,61,11.4,A,public,,False
+3838,30986,CAREER TECHNOLOGY CENTER OF LACKAWANNA COUNTY                    ,PA,3,1,5,59,8.4,P,5,D,2,37,5.4,P,16,81,19.7,P,public,,False
+3855,31040,SHAWSHEEN VALLEY SCHOOL OF PRACTICAL NURSING                     ,MA,3,1,2,35,5.7,A,5,D,4,30,13.3,A,8,79,10.1,B,public,,False
+2094,5426,SIKESTON CAREER AND TECHNOLOGY CENTER                            ,MO,3,1,5,38,13.1,A,5,D,3,41,7.3,A,13,81,16.0,B,public,,False
+3878,31153,GENESEE-LIVINGSTON-STEUBEN-WYOMING BOCES                         ,NY,3,1,13,119,10.9,A,5,D,15,148,10.1,A,5,105,4.7,A,public,,False
+3883,31170,ASHLAND COUNTY - WEST HOLMES CAREER CENTER - ADULT EDUCATION     ,OH,3,1,4,73,5.4,A,5,D,4,72,5.5,A,14,86,16.2,A,public,,False
+3899,31284,DELAWARE COUNTY TECHNICAL SCHOOL                                 ,PA,3,1,7,82,8.5,A,5,D,10,74,13.5,A,6,79,7.5,A,public,,False
+3644,25864,TRUMBULL CAREER AND TECHNICAL CENTER-ADULT TRAINING CENTER       ,OH,3,1,20,116,17.2,A,5,D,29,137,21.1,A,20,166,12.0,A,public,,False
+2096,5430,POPLAR BLUFF TECHNICAL CAREER CENTER                             ,MO,3,1,7,35,20.0,A,5,D,18,82,21.9,B,6,31,19.3,A,public,,False
+2097,5438,SALINE COUNTY CAREER CENTER                                      ,MO,3,1,7,62,11.2,B,5,D,5,56,8.9,B,8,56,14.2,B,public,,False
+4048,35353,HUNTINGDON COUNTY CAREER AND TECHNOLOGY CENTER                   ,PA,3,1,3,49,6.1,B,5,D,2,44,4.5,B,2,38,5.2,B,public,,False
+4061,35614,SUSQUEHANNA COUNTY CAREER & TECHNOLOGY CENTER                    ,PA,3,1,9,48,18.7,B,5,D,7,34,20.5,B,6,38,15.7,B,public,,False
+4129,37343,JOHN D. ROCKEFELLER IV CAREER CENTER                             ,WV,3,1,5,45,11.1,B,5,D,6,46,13.0,B,10,49,20.4,B,public,,False
+2533,9156,WAYNE COUNTY SCHOOLS CAREER CENTER                               ,OH,3,1,16,72,22.2,P,5,D,14,113,12.3,P,13,120,10.8,P,public,,False
+4192,38763,CULPEPER COSMETOLOGY TRAINING CENTER                             ,VA,3,1,19,55,34.5,B,5,D,15,42,35.7,B,12,32,37.5,B,public,,False
+4247,39993,BEAUMONT ADULT SCHOOL                                            ,CA,3,1,9,68,13.2,A,5,D,13,72,18.0,A,8,64,12.5,A,public,,False
+2105,5519,DIMAN REGIONAL VOCATIONAL TECHNICAL INSTITUTE                    ,MA,3,1,6,42,14.2,A,5,D,6,80,7.5,B,1,53,1.8,A,public,,False
+4315,41177,"MONROE 2 - ORLEANS BOCES, CENTER FOR WORKFORCE DEVELOPMENT       ",NY,3,1,19,115,16.5,A,5,D,19,96,19.7,A,15,103,14.5,A,public,,False
+4456,41498,SOMERSET COUNTY TECHNOLOGY CENTER                                ,PA,3,1,4,36,11.1,A,5,D,5,39,12.8,A,3,32,9.3,B,public,,False
+4474,41532,SOUTHERN WORCESTER COUNTY REGIONAL VOC SCHOOL DISTRICT           ,MA,3,1,8,65,12.3,B,5,D,7,50,14.0,B,3,32,9.3,B,public,,False
+2106,5523,BLUE HILLS REGIONAL TECHNICAL SCHOOL                             ,MA,3,1,7,61,11.4,A,5,D,2,47,4.2,A,5,44,11.3,A,public,,False
+4650,41943,COLTON-REDLANDS-YUCAIPA REGIONAL OCCUPATIONAL PROGRAM            ,CA,3,1,4,45,8.8,A,5,D,0,4,0.0,B,0,0,0.0,A,public,2013 2012,False
+3911,31603,AVTEC - ALASKA'S INSTITUTE OF TECHNOLOGY                         ,AK,3,1,9,57,15.7,A,5,D,7,69,10.1,A,9,67,13.4,A,public,,False
+3618,25686,MAHONING COUNTY CAREER AND TECHNICAL CENTER                      ,OH,3,1,3,48,6.2,A,5,D,11,36,30.5,B,5,17,29.4,B,public,,False
+2756,10710,CAPITAL AREA CAREER CENTER                                       ,IL,3,1,11,148,7.4,A,5,D,12,118,10.1,A,11,162,6.7,A,public,,False
+3612,25607,PICKAWAY ROSS COUNTY JOINT VOCATIONAL SCHOOL DISTRICT            ,OH,3,1,15,154,9.7,A,5,D,23,156,14.7,A,33,154,21.4,A,public,,False
+2477,8653,JEFFERSON COUNTY DUBOIS AREA VOCATIONAL TECHL SCHOOL PRACTICAL NU,PA,3,1,4,41,9.7,A,5,D,3,32,9.3,A,4,37,10.8,A,public,,False
+2083,5365,YORK COUNTY SCHOOL OF TECHNOLOGY                                 ,PA,3,1,8,70,11.4,A,5,D,3,59,5.0,A,6,60,10.0,A,public,,False
+3482,23502,INDIANA COUNTY TECHNOLOGY CENTER                                 ,PA,3,1,13,78,16.6,A,5,D,15,88,17.0,A,7,65,10.7,A,public,,False
+3613,25623,APOLLO CAREER CENTER                                             ,OH,3,1,23,120,19.1,A,5,D,8,58,13.7,A,7,38,18.4,A,public,,False
+3483,23515,NORTHERN CAREER INSTITUTE                                        ,OH,3,1,4,52,7.6,A,5,D,9,61,14.7,A,7,55,12.7,A,public,,False
+3488,23528,POLARIS CAREER CENTER - ADULT EDUCATION DEPARTMENT               ,OH,3,1,11,128,8.5,A,5,D,19,204,9.3,A,18,118,15.2,A,public,,False
+3455,23363,KNOX COUNTY CAREER CENTER                                        ,OH,3,1,20,136,14.7,A,5,D,29,147,19.7,A,26,130,20.0,A,public,,False
+3489,23531,NORTHERN TIER CAREER CENTER                                      ,PA,3,1,4,40,10.0,A,5,D,7,35,20.0,A,6,34,17.6,A,public,,False
+3442,23303,LEBANON COUNTY CAREER AND TECHNOLOGY CENTER                      ,PA,3,1,15,77,19.4,A,5,D,9,88,10.2,A,6,102,5.8,A,public,,False
+3490,23542,SCIOTO COUNTY CAREER TECHNICAL CENTER                            ,OH,3,1,13,182,7.1,A,5,D,10,146,6.8,A,13,162,8.0,A,public,,False
+3481,23501,WESTERN AREA CAREER & TECHNOLOGY CENTER                          ,PA,3,1,17,84,20.2,A,5,D,7,75,9.3,A,9,64,14.0,A,public,,False
+3503,23623,MERCER COUNTY CAREER CENTER                                      ,PA,3,1,4,38,10.5,P,5,D,9,43,20.9,P,4,38,10.5,P,public,,False
+2658,10006,GREATER JOHNSTOWN AREA VOCATIONAL TECHNICAL SCHOOL               ,PA,3,1,17,142,11.9,A,5,D,19,158,12.0,A,24,205,11.7,A,public,,False
+3522,24975,CLINTON TECHNICAL SCHOOL                                         ,MO,3,1,5,71,7.0,B,5,D,8,71,11.2,B,7,44,15.9,B,public,,False
+3547,25227,EASTLAND-FAIRFIELD CAREER AND TECHNICAL SCHOOLS                  ,OH,3,1,23,176,13.0,A,5,D,17,109,15.5,A,41,246,16.6,A,public,,False
+3549,25237,OCEAN COUNTY VOCATIONAL - TECHNICAL SCHOOLS                      ,NJ,3,1,20,118,16.9,P,5,D,16,118,13.5,P,13,116,11.2,P,public,,False
+3556,25298,WILKES BARRE AREA CAREER AND TECHNICAL CENTER PRACTICAL NURSING P,PA,3,1,14,121,11.5,A,5,D,8,103,7.7,A,19,115,16.5,A,public,,False
+3413,23130,CASS CAREER CENTER                                               ,MO,3,1,3,60,5.0,B,5,D,4,62,6.4,B,8,72,11.1,B,public,,False
+3596,25545,HAZLETON AREA CAREER CENTER                                      ,PA,3,1,2,61,3.2,B,5,D,6,63,9.5,B,10,80,12.5,B,public,,False
+3515,24926,EASTERN CENTER FOR ARTS AND TECHNOLOGY-PRACTICAL NURSING         ,PA,3,1,7,65,10.7,A,5,D,10,98,10.2,A,9,84,10.7,A,public,,False
+3590,25500,CLARION COUNTY CAREER CENTER PRACTICAL NURSING                   ,PA,3,1,10,50,20.0,A,5,D,12,85,14.1,B,3,35,8.5,A,public,,False
+3410,23120,BERGEN COUNTY TECHNICAL SCHOOLS                                  ,NJ,3,1,9,56,16.0,A,5,D,6,38,15.7,A,6,57,10.5,A,public,,False
+2769,10826,TOM P. HANEY TECHNICAL CENTER                                    ,FL,4,1,14,52,26.9,B,5,D,22,69,31.8,B,9,37,24.3,A,public,,False
+2115,5594,ERWIN TECHNICAL COLLEGE                                          ,FL,4,1,10,58,17.2,B,5,D,33,141,23.4,B,8,33,24.2,A,public,,False
+2108,5532,CAPE GIRARDEAU CAREER AND TECHNOLOGY CENTER                      ,MO,4,1,12,108,11.1,A,5,D,19,140,13.5,A,14,70,20.0,A,public,,False
+3307,22456,WARREN COUNTY CAREER CENTER                                      ,OH,4,1,49,184,26.6,A,5,D,43,215,20.0,A,30,114,26.3,A,public,,False
+2057,5265,NORTH CENTRAL KANSAS TECHNICAL COLLEGE                           ,KS,4,1,34,315,10.7,A,5,D,53,337,15.7,A,44,323,13.6,A,public,,False
+3456,23367,CUYAHOGA VALLEY CAREER CENTER                                    ,OH,4,1,9,80,11.2,A,5,D,8,87,9.1,A,4,85,4.7,A,public,,False
+2081,5359,TENNESSEE COLLEGE OF APPLIED TECHNOLOGY - NASHVILLE              ,TN,4,1,76,309,24.5,B,5,D,17,71,23.9,A,55,222,24.7,A,public,,False
+2080,5339,METRO TECHNOLOGY CENTERS SCHOOL DISTRICT #22                     ,OK,4,1,49,294,16.6,P,5,D,49,308,15.9,P,61,310,19.6,P,public,,False
+1951,4117,GRADY HEALTH SYSTEM                                              ,GA,4,1,2,30,6.6,A,5,D,1,34,2.9,A,1,48,2.0,A,public,,False
+3269,22227,FRANCIS TUTTLE TECHNOLOGY CENTER SCHOOL DISTRICT NO. 21          ,OK,4,1,21,191,10.9,A,5,D,44,308,14.2,A,52,324,16.0,A,public,,False
+2447,8437,CHAMPLAIN VALLEY EDUCATIONAL SERVICES                            ,NY,4,1,7,71,9.8,B,5,D,7,74,9.4,B,8,71,11.2,B,public,,False
+3668,26038,LORAIN COUNTY JVS ADULT CAREER CENTER                            ,OH,4,1,1,38,2.6,A,5,D,4,31,12.9,A,8,47,17.0,A,public,,False
+3688,26200,SANDUSKY CAREER CENTER                                           ,OH,4,1,16,66,24.2,A,5,D,7,78,8.9,A,12,77,15.5,A,public,,False
+3722,30153,EHOVE CAREER CENTER                                              ,OH,4,1,18,175,10.2,A,5,D,34,184,18.4,A,28,198,14.1,A,public,,False
+3732,30237,MADISON ADULT CAREER CENTER                                      ,OH,4,1,7,83,8.4,A,5,D,5,77,6.4,A,6,64,9.3,A,public,,False
+2089,5387,NORTHCENTRAL TECHNICAL COLLEGE                                   ,WI,4,1,278,1339,20.7,P,5,D,255,1277,19.9,P,220,1022,21.5,P,public,,False
+2161,6478,MERCY SCHOOL OF NURSING                                          ,NC,4,1,3,52,5.7,A,5,D,2,52,3.8,A,0,42,0.0,A,public,2012,False
+2095,5429,ROLLA TECHNICAL INSTITUTE CENTER                                 ,MO,4,1,8,90,8.8,A,5,D,12,95,12.6,A,8,79,10.1,A,public,,False
+2681,10147,WESTERN SUFFOLK BOCES                                            ,NY,4,1,11,125,8.8,A,5,D,21,182,11.5,A,10,169,5.9,A,public,,False
+3227,21963,COLLINS CAREER TECHNICAL CENTER                                  ,OH,4,1,52,229,22.7,A,5,D,27,221,12.2,A,38,283,13.4,A,public,,False
+3267,22208,CAREER & TECHNOLOGY EDUCATION CENTERS OF LICKING COUNTY          ,OH,4,1,19,94,20.2,A,5,D,15,74,20.2,A,1,7,14.2,B,public,,False
+1988,4711,STATE TECHNICAL COLLEGE OF MISSOURI                              ,MO,5,1,39,445,8.7,A,5,D,51,485,10.5,A,34,444,7.6,A,public,,False
+2018,4926,TRI-COUNTY TECHNICAL COLLEGE                                     ,SC,5,1,171,1066,16.0,A,5,D,187,1093,17.1,A,240,1148,20.9,A,public,,False
+1955,4481,OHLONE COLLEGE                                                   ,CA,5,1,18,127,14.1,A,5,D,30,159,18.8,A,15,116,12.9,A,public,,False
+2014,4920,TRIDENT TECHNICAL COLLEGE                                        ,SC,5,1,798,4928,16.1,P,5,D,1006,4914,20.4,P,796,4193,18.9,P,public,,False
+1989,4713,THREE RIVERS COLLEGE                                             ,MO,5,1,198,851,23.2,A,5,D,247,920,26.8,A,199,704,28.2,A,public,,False
+1936,4024,GEORGIA NORTHWESTERN TECHNICAL COLLEGE                           ,GA,5,1,243,961,25.2,P,5,D,218,783,27.8,P,46,202,22.7,P,public,,False
+1953,4453,EL CENTRO COLLEGE                                                ,TX,5,1,239,1135,21.0,A,5,D,203,1013,20.0,A,128,688,18.6,A,public,,False
+2017,4925,HORRY - GEORGETOWN TECHNICAL COLLEGE                             ,SC,5,1,487,2941,16.5,A,5,D,556,2673,20.8,A,462,2286,20.2,A,public,,False
+1957,4502,CITY COLLEGE OF SAN FRANCISCO                                    ,CA,5,1,213,1049,20.3,P,5,D,213,1139,18.7,P,186,1116,16.6,P,public,,False
+1638,3546,COASTAL BEND COLLEGE                                             ,TX,5,1,81,459,17.6,A,3,D,88,457,19.2,A,135,599,22.5,A,public,,False
+2052,5252,RIDGEWATER COLLEGE                                               ,MN,5,1,202,1409,14.3,P,5,D,171,1389,12.3,P,243,1540,15.7,P,public,,False
+2112,5537,SOUTH CENTRAL COLLEGE                                            ,MN,5,1,175,1248,14.0,A,5,D,152,1257,12.0,A,196,1337,14.6,A,public,,False
+2104,5500,MANHATTAN AREA TECHNICAL COLLEGE                                 ,KS,5,1,41,340,12.0,A,5,D,36,319,11.2,A,27,264,10.2,A,public,,False
+2103,5499,SALINA AREA TECHNICAL COLLEGE                                    ,KS,5,1,3,100,3.0,A,5,D,8,139,5.7,A,19,109,17.4,A,public,,False
+2102,5498,WICHITA AREA TECHNICAL COLLEGE                                   ,KS,5,1,259,1201,21.5,A,5,D,214,1008,21.2,A,189,897,21.0,A,public,,False
+2091,5390,BLACKHAWK TECHNICAL COLLEGE                                      ,WI,5,1,228,1189,19.1,A,5,D,214,1145,18.6,A,198,1079,18.3,A,public,,False
+2090,5389,GATEWAY TECHNICAL COLLEGE                                        ,WI,5,1,689,2712,25.4,P,5,D,672,2485,27.0,P,522,2190,23.8,P,public,,False
+2088,5384,NICOLET AREA TECHNICAL COLLEGE                                   ,WI,5,1,117,419,27.9,P,5,D,73,379,19.2,P,81,358,22.6,P,public,,False
+2087,5380,MID-STATE TECHNICAL COLLEGE                                      ,WI,5,1,167,931,17.9,A,5,D,208,1037,20.0,A,166,1042,15.9,A,public,,False
+2082,5363,DENMARK TECHNICAL COLLEGE                                        ,SC,5,1,119,653,18.2,A,2,D,260,661,39.3,A,110,404,27.2,A,public,,False
+2026,4972,GALVESTON COLLEGE                                                ,TX,5,1,44,205,21.4,A,5,D,50,206,24.2,A,35,161,21.7,A,public,,False
+2079,5335,CENTRAL PENNSYLVANIA INSTITUTE OF SCIENCE AND TECHNOLOGY         ,PA,5,1,19,158,12.0,A,5,D,14,127,11.0,A,14,153,9.1,A,public,,False
+2073,5313,NORTH CENTRAL STATE COLLEGE                                      ,OH,5,1,181,960,18.8,A,5,D,192,1049,18.3,A,231,1172,19.7,A,public,,False
+2071,5309,LAKE AREA TECHNICAL INSTITUTE                                    ,SD,5,1,63,681,9.2,A,5,D,41,663,6.1,A,54,678,7.9,A,public,,False
+2070,5306,BATES TECHNICAL COLLEGE                                          ,WA,5,1,78,428,18.2,A,5,D,87,404,21.5,A,63,312,20.1,A,public,,False
+2069,5304,CHIPPEWA VALLEY TECHNICAL COLLEGE                                ,WI,5,1,318,2129,14.9,A,5,D,292,2236,13.0,A,271,2196,12.3,A,public,,False
+2068,5301,NORTHEAST WISCONSIN TECHNICAL COLLEGE                            ,WI,5,1,468,2460,19.0,P,5,D,382,2426,15.7,P,437,2581,16.9,P,public,,False
+2067,5294,WAUKESHA COUNTY TECHNICAL COLLEGE                                ,WI,5,1,281,1574,17.8,A,5,D,248,1638,15.1,A,208,1474,14.1,A,public,,False
+2058,5267,NORTHWEST KANSAS TECHNICAL COLLEGE                               ,KS,5,1,17,192,8.8,A,5,D,20,184,10.8,A,24,162,14.8,A,public,,False
+2056,5264,FLINT HILLS TECHNICAL COLLEGE                                    ,KS,5,1,51,272,18.7,A,5,D,48,280,17.1,A,48,261,18.3,A,public,,False
+2053,5256,WIREGRASS GEORGIA TECHNICAL COLLEGE                              ,GA,5,1,164,572,28.6,P,5,D,64,198,32.3,P,0,0,0.0,P,public,2012,False
+1934,4009,MESABI RANGE COLLEGE                                             ,MN,5,1,102,456,22.3,A,5,D,114,508,22.4,A,115,491,23.4,A,public,,False
+1933,4007,MADISON AREA TECHNICAL COLLEGE                                   ,WI,5,1,631,3807,16.5,A,5,D,534,3512,15.2,A,534,3541,15.0,A,public,,False
+1655,3573,HILL COLLEGE                                                     ,TX,5,1,107,1104,9.6,A,5,D,74,747,9.9,A,81,657,12.3,A,public,,False
+1928,3996,YORK TECHNICAL COLLEGE                                           ,SC,5,1,144,715,20.1,A,5,D,114,703,16.2,A,128,630,20.3,A,public,,False
+1651,3568,FRANK PHILLIPS COLLEGE                                           ,TX,5,1,39,189,20.6,A,5,D,46,199,23.1,A,60,227,26.4,A,public,,False
+1648,3563,DEL MAR COLLEGE                                                  ,TX,5,1,202,1339,15.0,A,3,D,262,1536,17.0,A,271,1596,16.9,A,public,,False
+1646,3561,CEDAR VALLEY COLLEGE                                             ,TX,5,1,129,629,20.5,A,5,D,96,495,19.3,A,69,431,16.0,A,public,,False
+1644,3558,NORTH CENTRAL TEXAS COLLEGE                                      ,TX,5,1,249,1998,12.4,A,5,D,238,1849,12.8,A,275,1562,17.6,A,public,,False
+1641,3554,CLARENDON COLLEGE                                                ,TX,5,1,27,335,8.0,A,5,D,73,413,17.6,A,93,405,22.9,A,public,,False
+1640,3553,CISCO COLLEGE                                                    ,TX,5,1,101,621,16.2,A,5,D,133,735,18.0,A,142,754,18.8,A,public,,False
+1639,3549,BLINN COLLEGE                                                    ,TX,5,1,471,3524,13.3,A,5,D,600,3829,15.6,A,697,3486,19.9,A,public,,False
+4710,42544,ARKANSAS STATE UNIVERSITY - MOUNTAIN HOME                        ,AR,5,1,322,4475,7.1,P,5,D,463,4871,9.5,P,482,4719,10.2,S,public,,False
+1633,3540,AMARILLO COLLEGE                                                 ,TX,5,1,215,1401,15.3,P,5,D,295,1500,19.6,P,306,1498,20.4,P,public,,False
+1387,3178,SEMINOLE STATE COLLEGE                                           ,OK,5,1,35,307,11.4,A,5,D,45,316,14.2,A,67,345,19.4,A,public,,False
+1386,3176,CARL ALBERT STATE COLLEGE                                        ,OK,5,1,58,397,14.6,A,5,D,95,404,23.5,A,80,343,23.3,A,public,,False
+1376,3162,NORTHERN OKLAHOMA COLLEGE                                        ,OK,5,1,221,1259,17.5,A,5,D,222,1360,16.3,A,258,1361,18.9,A,public,,False
+1374,3160,NORTHEASTERN OKLAHOMA A & M COLLEGE                              ,OK,5,1,192,803,23.9,A,5,D,195,844,23.1,A,152,690,22.0,A,public,,False
+1652,3570,GRAYSON  COUNTY COLLEGE                                          ,TX,5,1,230,1166,19.7,A,5,D,205,1189,17.2,A,324,1285,25.2,A,public,,False
+1373,3158,MURRAY STATE COLLEGE                                             ,OK,5,1,119,603,19.7,A,5,D,120,654,18.3,A,169,707,23.9,A,public,,False
+1368,3153,CONNORS STATE COLLEGE                                            ,OK,5,1,186,745,24.9,A,5,D,167,700,23.8,A,177,719,24.6,A,public,,False
+1362,3146,WESTERN OKLAHOMA STATE COLLEGE                                   ,OK,5,1,47,281,16.7,A,5,D,43,285,15.0,A,65,304,21.3,A,public,,False
+1296,3007,WILLISTON STATE COLLEGE                                          ,ND,5,1,24,181,13.2,A,5,D,26,197,13.1,A,26,266,9.7,A,public,,False
+1293,2996,NORTH DAKOTA STATE COLLEGE OF SCIENCE                            ,ND,5,1,101,968,10.4,A,5,D,102,972,10.4,A,107,956,11.1,A,public,,False
+1292,2995,DAKOTA COLLEGE AT BOTTINEAU                                      ,ND,5,1,53,210,25.2,A,5,D,43,264,16.2,A,47,303,15.5,A,public,,False
+1288,2991,LAKE REGION STATE COLLEGE                                        ,ND,5,1,40,355,11.2,A,5,D,49,347,14.1,A,47,342,13.7,A,public,,False
+1235,2917,COLLEGE OF THE ALBEMARLE                                         ,NC,5,1,21,102,20.5,B,5,D,11,64,17.1,A,5,16,31.2,B,public,,False
+1092,2694,KINGSBOROUGH COMMMUNITY COLLEGE/CUNY                             ,NY,5,1,132,986,13.3,A,5,D,143,1119,12.7,A,84,897,9.3,A,public,,False
+1071,2660,SAN JUAN COLLEGE                                                 ,NM,5,1,151,735,20.5,A,5,D,154,745,20.6,A,158,698,22.6,A,public,,False
+1069,2656,NEW MEXICO MILITARY INSTITUTE                                    ,NM,5,1,15,78,19.2,A,5,D,7,56,12.5,A,7,44,15.9,A,public,,False
+1068,2655,NEW MEXICO JUNIOR COLLEGE                                        ,NM,5,1,32,170,18.8,A,3,D,43,188,22.8,A,64,226,28.3,A,public,,False
+1062,2643,UNION COUNTY COLLEGE                                             ,NJ,5,1,181,1288,14.0,P,3,D,145,1217,11.9,P,103,1078,9.5,P,public,,False
+1052,2624,OCEAN COUNTY COLLEGE                                             ,NJ,5,1,197,1390,14.1,A,5,D,188,1365,13.7,A,133,1241,10.7,A,public,,False
+1370,3155,EASTERN OKLAHOMA STATE COLLEGE                                   ,OK,5,1,103,437,23.5,A,5,D,96,419,22.9,A,90,347,25.9,A,public,,False
+2116,5599,AUGUSTA TECHNICAL COLLEGE                                        ,GA,5,1,214,973,21.9,A,5,D,139,638,21.7,A,30,137,21.8,A,public,,False
+1656,3574,HOWARD COUNTY JUNIOR COLLEGE DISTRICT                            ,TX,5,1,93,527,17.6,A,3,D,134,645,20.7,A,113,578,19.5,A,public,,False
+1661,3580,KILGORE COLLEGE                                                  ,TX,5,1,253,1399,18.0,A,5,D,284,1477,19.2,A,319,1473,21.6,A,public,,False
+1927,3995,CENTRAL CAROLINA TECHNICAL COLLEGE                               ,SC,5,1,254,1313,19.3,A,5,D,301,1255,23.9,A,253,1027,24.6,A,public,,False
+1925,3993,MIDLANDS TECHNICAL COLLEGE                                       ,SC,5,1,460,3886,11.8,A,5,D,643,4001,16.0,A,596,3672,16.2,A,public,,False
+1924,3992,PIEDMONT TECHNICAL COLLEGE                                       ,SC,5,1,353,1658,21.2,A,5,D,352,1466,24.0,A,309,1239,24.9,A,public,,False
+1923,3991,GREENVILLE TECHNICAL COLLEGE                                     ,SC,5,1,700,4282,16.3,A,5,D,863,4669,18.4,A,853,4522,18.8,A,public,,False
+1922,3990,FLORENCE - DARLINGTON TECHNICAL COLLEGE                          ,SC,5,1,331,1645,20.1,A,5,D,380,1659,22.9,A,300,1358,22.0,A,public,,False
+1911,3961,HARPER COLLEGE                                                   ,IL,5,1,127,1273,9.9,A,5,D,190,1464,12.9,A,217,1454,14.9,A,public,,False
+1893,3931,NORTHWEST COLLEGE                                                ,WY,5,1,49,358,13.6,A,5,D,58,345,16.8,A,62,328,18.9,A,public,,False
+1891,3929,EASTERN WYOMING COLLEGE                                          ,WY,5,1,28,183,15.3,A,5,D,19,172,11.0,A,27,185,14.5,A,public,,False
+1890,3928,CASPER COLLEGE                                                   ,WY,5,1,69,477,14.4,A,5,D,111,531,20.9,A,115,529,21.7,A,public,,False
+1869,3866,MILWAUKEE AREA TECHNICAL COLLEGE                                 ,WI,5,1,1545,6674,23.1,A,5,D,1216,6217,19.5,A,1186,5932,19.9,A,public,,False
+1861,3840,WESTERN TECHNICAL COLLEGE                                        ,WI,5,1,256,1555,16.4,P,5,D,233,1601,14.5,P,203,1536,13.2,P,public,,False
+1815,3782,LOWER COLUMBIA COLLEGE                                           ,WA,5,1,143,691,20.6,A,5,D,176,761,23.1,A,225,884,25.4,A,public,,False
+1761,3707,RICHARD BLAND COLLEGE                                            ,VA,5,1,32,271,11.8,A,5,D,23,278,8.2,A,29,213,13.6,A,public,,False
+1728,3668,WHARTON COUNTY JUNIOR COLLEGE                                    ,TX,5,1,126,944,13.3,A,5,D,170,1011,16.8,A,134,768,17.4,A,public,,False
+1726,3664,WEATHERFORD COLLEGE                                              ,TX,5,1,30,621,4.8,A,5,D,45,632,7.1,A,55,621,8.8,A,public,,False
+1724,3662,VICTORIA COLLEGE                                                 ,TX,5,1,90,483,18.6,A,3,D,77,514,14.9,A,80,460,17.3,A,public,,False
+1704,3634,TEXAS STATE TECHNICAL COLLEGE                                    ,TX,5,1,308,3239,9.5,P,5,D,454,3694,12.2,P,463,2283,20.2,A,public,,False
+1700,3628,TEXARKANA COLLEGE                                                ,TX,5,1,94,467,20.1,A,5,D,44,141,31.2,A,0,0,0.0,A,public,2012,False
+1699,3627,TEMPLE COLLEGE                                                   ,TX,5,1,254,2008,12.6,A,5,D,229,1954,11.7,A,261,1685,15.4,A,public,,False
+1698,3626,TARRANT COUNTY COLLEGE DISTRICT                                  ,TX,5,1,1146,5713,20.0,P,5,D,1000,5231,19.1,P,914,4472,20.4,P,public,,False
+1688,3614,SOUTHWEST TEXAS JUNIOR COLLEGE                                   ,TX,5,1,30,415,7.2,A,3,D,48,396,12.1,A,72,431,16.7,A,public,,False
+1685,3611,SOUTH PLAINS COLLEGE                                             ,TX,5,1,284,1713,16.5,A,3,D,295,1675,17.6,A,266,1767,15.0,A,public,,False
+1682,3608,SAINT PHILIP'S COLLEGE                                           ,TX,5,1,93,751,12.3,A,2,D,119,765,15.5,A,149,976,15.2,A,public,,False
+1679,3603,RANGER COLLEGE                                                   ,TX,5,1,58,414,14.0,P,5,D,63,364,17.3,P,26,175,14.8,P,public,,False
+1677,3601,PARIS JUNIOR COLLEGE                                             ,TX,5,1,45,511,8.8,A,5,D,197,1270,15.5,A,203,961,21.1,A,public,,False
+1676,3600,PANOLA COLLEGE                                                   ,TX,5,1,35,514,6.8,A,5,D,47,472,9.9,A,51,344,14.8,A,public,,False
+1673,3596,ODESSA COLLEGE                                                   ,TX,5,1,31,248,12.5,A,3,D,44,238,18.4,A,41,237,17.2,A,public,,False
+1671,3593,NAVARRO COLLEGE                                                  ,TX,5,1,697,3355,20.7,A,5,D,793,3352,23.6,A,713,3133,22.7,A,public,,False
+1664,3583,LEE COLLEGE                                                      ,TX,5,1,43,436,9.8,A,5,D,136,651,20.8,A,142,621,22.8,A,public,,False
+1931,4003,CENTRAL TEXAS COLLEGE DISTRICT                                   ,TX,5,1,294,1678,17.5,A,5,D,309,1744,17.7,A,332,1631,20.3,A,public,,False
+2117,5601,ALBANY TECHNICAL COLLEGE                                         ,GA,5,1,443,1745,25.3,A,5,D,426,1737,24.5,A,361,1444,25.0,A,public,,False
+2535,9163,SAN ANTONIO COLLEGE                                              ,TX,5,1,162,1357,11.9,A,3,D,211,1519,13.8,A,251,1583,15.8,A,public,,False
+2119,5619,NORTH GEORGIA TECHNICAL COLLEGE                                  ,GA,5,1,75,304,24.6,A,5,D,58,229,25.3,A,14,55,25.4,A,public,,False
+3015,20753,UNIVERSITY OF ARKANSAS - PULASKI TECHNICAL COLLEGE               ,AR,5,1,828,4587,18.0,A,5,D,854,4517,18.9,A,774,4110,18.8,A,public,,False
+2980,20522,BLACK RIVER TECHNICAL COLLEGE                                    ,AR,5,1,106,679,15.6,A,5,D,168,751,22.3,A,176,724,24.3,A,public,,False
+2938,12860,ARKANSAS NORTHEASTERN COLLEGE                                    ,AR,5,1,16,158,10.1,P,5,D,5,44,11.3,P,9,94,9.5,P,public,,False
+2915,12550,LOS ANGELES MISSION COLLEGE                                      ,CA,5,1,28,200,14.0,A,3,D,20,173,11.5,A,21,128,16.4,A,public,,False
+2908,12452,EVERGREEN VALLEY COLLEGE                                         ,CA,5,1,20,139,14.3,A,5,D,14,131,10.6,A,15,112,13.3,A,public,,False
+2887,12261,NORTH ARKANSAS COLLEGE                                           ,AR,5,1,88,454,19.3,P,5,D,103,440,23.4,P,107,468,22.8,P,public,,False
+2874,12105,NATIONAL PARK COLLEGE                                            ,AR,5,1,138,822,16.7,P,5,D,213,1106,19.2,P,250,960,26.0,P,public,,False
+2851,11824,WISCONSIN INDIANHEAD TECHNICAL COLLEGE                           ,WI,5,1,141,1109,12.7,A,5,D,175,1209,14.4,A,196,1183,16.5,A,public,,False
+2850,11820,SAN DIEGO MIRAMAR COLLEGE                                        ,CA,5,1,25,240,10.4,A,5,D,36,239,15.0,A,46,273,16.8,A,public,,False
+2833,11672,MENDOCINO COLLEGE                                                ,CA,5,1,47,159,29.5,A,5,D,46,138,33.3,A,22,119,18.4,A,public,,False
+2803,11145,LONE STAR COLLEGE SYSTEM                                         ,TX,5,1,1268,9748,13.0,A,3,D,1485,7753,19.1,A,1037,5798,17.8,A,public,,False
+2802,11133,COLLEGE OF EASTERN IDAHO                                         ,ID,5,1,26,234,11.1,A,5,D,28,228,12.2,A,32,232,13.7,A,public,,False
+3019,20774,NORTH LAKE COLLEGE                                               ,TX,5,1,73,506,14.4,A,5,D,91,528,17.2,A,54,445,12.1,A,public,,False
+2795,11046,CENTRAL OHIO TECHNICAL COLLEGE                                   ,OH,5,1,357,1878,19.0,A,5,D,399,1895,21.0,A,407,1872,21.7,A,public,,False
+2760,10736,MARION TECHNICAL COLLEGE                                         ,OH,5,1,104,564,18.4,A,5,D,115,569,20.2,A,150,674,22.2,A,public,,False
+2737,10546,CENTURY COLLEGE                                                  ,MN,5,1,465,3304,14.0,P,5,D,426,3234,13.1,P,453,3330,13.6,P,public,,False
+2729,10491,HENNEPIN TECHNICAL COLLEGE                                       ,MN,5,1,311,2117,14.6,A,5,D,313,2096,14.9,A,314,2108,14.8,A,public,,False
+2727,10487,WEST GEORGIA TECHNICAL COLLEGE                                   ,GA,5,1,279,1211,23.0,P,5,D,180,884,20.3,P,44,213,20.6,P,public,,False
+2716,10402,DAKOTA COUNTY TECHNICAL COLLEGE                                  ,MN,5,1,135,1083,12.4,A,5,D,111,1097,10.1,A,149,1081,13.7,A,public,,False
+2705,10340,LOS MEDANOS COLLEGE                                              ,CA,5,1,4,53,7.5,A,5,D,7,54,12.9,A,19,117,16.2,B,public,,False
+2689,10170,WESTERN DAKOTA TECHNICAL INSTITUTE                               ,SD,5,1,143,627,22.8,A,5,D,81,572,14.1,A,90,615,14.6,A,public,,False
+2669,10060,VERNON COLLEGE                                                   ,TX,5,1,117,796,14.6,A,5,D,132,826,15.9,A,116,717,16.1,A,public,,False
+2668,10056,AIKEN TECHNICAL COLLEGE                                          ,SC,5,1,62,416,14.9,A,5,D,54,307,17.5,A,13,88,14.7,A,public,,False
+2663,10027,JAMES A. RHODES STATE COLLEGE                                    ,OH,5,1,225,1151,19.5,A,5,D,198,1185,16.7,A,230,1400,16.4,A,public,,False
+2659,10014,GARRETT COLLEGE                                                  ,MD,5,1,57,246,23.1,A,5,D,63,251,25.0,A,51,213,23.9,A,public,,False
+2652,9976,COLLEGE OF THE OUACHITAS                                         ,AR,5,1,38,208,18.2,A,5,D,29,198,14.6,A,30,215,13.9,A,public,,False
+2779,10881,STARK STATE COLLEGE                                              ,OH,5,1,1492,5718,26.0,A,5,D,1652,6246,26.4,A,1866,6520,28.6,A,public,,False
+2649,9941,BELMONT COLLEGE                                                  ,OH,5,1,171,727,23.5,A,5,D,209,804,25.9,A,264,1022,25.8,A,public,,False
+3028,20870,OZARKA COLLEGE                                                   ,AR,5,1,69,544,12.6,A,5,D,97,581,16.6,A,87,451,19.2,A,public,,False
+3077,21113,CUYAMACA COLLEGE                                                 ,CA,5,1,25,134,18.6,A,5,D,20,146,13.6,A,23,158,14.5,A,public,,False
+4690,42118,COLLEGE OF WESTERN IDAHO                                         ,ID,5,1,686,3098,22.1,A,5,D,220,1107,19.8,A,859,3674,23.3,B,public,,False
+4664,42034,ARKANSAS STATE UNIVERSITY - NEWPORT                              ,AR,5,1,8,51,15.6,A,5,D,463,4871,9.5,P,482,4719,10.2,P,public,,False
+4582,41761,NORCO COLLEGE                                                    ,CA,5,1,7,66,10.6,A,5,D,1,50,2.0,A,154,1012,15.2,B,public,,False
+4566,41735,MORENO VALLEY COLLEGE                                            ,CA,5,1,21,138,15.2,A,5,D,9,110,8.1,A,157,1031,15.2,B,public,,False
+4303,41113,WEST HILLS COLLEGE LEMOORE                                       ,CA,5,1,39,163,23.9,A,5,D,30,146,20.5,A,24,125,19.2,A,public,,False
+4188,38713,FOLSOM LAKE COLLEGE                                              ,CA,5,1,32,197,16.2,A,5,D,33,174,18.9,A,42,172,24.4,A,public,,False
+4111,36957,SANTIAGO CANYON COLLEGE                                          ,CA,5,1,12,141,8.5,A,5,D,14,143,9.7,A,16,164,9.7,A,public,,False
+4085,36273,LAMAR INSTITUTE OF TECHNOLOGY                                    ,TX,5,1,126,616,20.4,A,5,D,209,751,27.8,A,240,826,29.0,A,public,,False
+4053,35424,COPPER MOUNTAIN COLLEGE                                          ,CA,5,1,36,123,29.2,A,5,D,39,140,27.8,A,33,128,25.7,A,public,,False
+3988,33723,NORTHWEST VISTA COLLEGE                                          ,TX,5,1,118,906,13.0,A,5,D,99,769,12.8,A,82,713,11.5,A,public,,False
+3908,31555,OCONEE FALL LINE TECHNICAL COLLEGE                               ,GA,5,1,52,249,20.8,P,5,D,46,222,20.7,P,1,9,11.1,P,public,,False
+3861,31060,MISSOURI STATE UNIVERSITY - WEST PLAINS                          ,MO,5,1,84,528,15.9,A,5,D,87,482,18.0,A,101,532,18.9,A,public,,False
+3053,21002,BROOKHAVEN COLLEGE                                               ,TX,5,1,70,639,10.9,A,5,D,90,592,15.2,A,83,603,13.7,A,public,,False
+3856,31042,CAROLINAS COLLEGE OF HEALTH SCIENCES                             ,NC,5,1,8,236,3.3,A,5,D,5,131,3.8,A,1,147,0.6,A,public,,False
+3776,30646,TEXAS SOUTHMOST COLLEGE                                          ,TX,5,1,393,3171,12.3,P,3,D,553,3541,15.6,P,525,3464,15.1,P,public,,False
+3755,30357,LAS POSITAS COLLEGE                                              ,CA,5,1,10,85,11.7,A,5,D,13,90,14.4,A,13,106,12.2,A,public,,False
+3743,30300,OGEECHEE TECHNICAL COLLEGE                                       ,GA,5,1,157,732,21.4,A,5,D,119,513,23.1,A,12,29,41.3,B,public,,False
+3571,25395,IRVINE VALLEY COLLEGE                                            ,CA,5,1,21,133,15.7,A,5,D,19,149,12.7,A,14,156,8.9,A,public,,False
+3494,23582,LAMAR STATE COLLEGE - ORANGE                                     ,TX,5,1,82,453,18.1,A,5,D,74,428,17.2,A,105,521,20.1,A,public,,False
+3479,23485,LAMAR STATE COLLEGE - PORT ARTHUR                                ,TX,5,1,61,360,16.9,A,5,D,64,297,21.5,A,39,237,16.4,A,public,,False
+3471,23413,PALO ALTO COLLEGE                                                ,TX,5,1,36,338,10.6,A,3,D,48,348,13.7,A,57,394,14.4,A,public,,False
+3409,23108,LANCASTER COUNTY CAREER AND TECHNOLOGY CENTER                    ,PA,5,1,31,280,11.0,A,5,D,28,277,10.1,A,36,311,11.5,A,public,,False
+3378,22884,GWINNETT TECHNICAL COLLEGE                                       ,GA,5,1,247,2089,11.8,A,5,D,179,1699,10.5,A,127,1282,9.9,A,public,,False
+3302,22427,BERKELEY CITY COLLEGE                                            ,CA,5,1,21,139,15.1,A,5,D,20,123,16.2,A,12,107,11.2,A,public,,False
+3275,22260,EAST LOS ANGELES COLLEGE                                         ,CA,5,1,46,290,15.8,A,3,D,45,316,14.2,A,29,215,13.4,A,public,,False
+3093,21191,MISSION COLLEGE                                                  ,CA,5,1,15,119,12.6,A,5,D,16,121,13.2,A,13,101,12.8,A,public,,False
+3781,30665,SOUTHEASTERN TECHNICAL COLLEGE                                   ,GA,5,1,122,442,27.6,P,5,D,115,437,26.3,P,45,154,29.2,P,public,,False
+2641,9910,TECHNICAL COLLEGE OF THE LOWCOUNTRY - BEAUFORT CAMPUS            ,SC,5,1,42,269,15.6,A,5,D,50,349,14.3,A,38,266,14.2,A,public,,False
+2621,9767,OLIVE-HARVEY COLLEGE                                             ,IL,5,1,182,712,25.5,A,5,D,110,466,23.6,A,29,210,13.8,A,public,,False
+2614,9744,FOX VALLEY TECHNICAL COLLEGE                                     ,WI,5,1,501,2657,18.8,P,5,D,499,2763,18.0,P,385,2491,15.4,P,public,,False
+2324,7536,COSUMNES RIVER COLLEGE                                           ,CA,5,1,124,529,23.4,A,5,D,106,573,18.4,A,122,488,25.0,A,public,,False
+2295,7350,ANOKA TECHNICAL COLLEGE                                          ,MN,5,1,126,888,14.1,A,5,D,142,939,15.1,A,137,941,14.5,A,public,,False
+2287,7289,CENTRAL WYOMING COLLEGE                                          ,WY,5,1,12,230,5.2,A,5,D,22,284,7.7,A,58,303,19.1,A,public,,False
+2285,7283,CENTRAL ARIZONA COLLEGE                                          ,AZ,5,1,227,1008,22.5,A,3,D,268,1154,23.2,A,206,841,24.4,A,public,,False
+2280,7265,CARL SANDBURG COLLEGE                                            ,IL,5,1,36,225,16.0,A,5,D,20,175,11.4,A,19,208,9.1,A,public,,False
+2263,7119,REND LAKE COLLEGE                                                ,IL,5,1,64,440,14.5,A,5,D,68,499,13.6,A,63,513,12.2,A,public,,False
+2262,7118,PARKLAND COLLEGE                                                 ,IL,5,1,506,1987,25.4,P,5,D,444,1827,24.3,P,423,1927,21.9,P,public,,False
+2261,7115,MOORPARK COLLEGE                                                 ,CA,5,1,42,286,14.6,A,5,D,43,365,11.7,A,20,248,8.0,A,public,,False
+2255,7096,COLLEGE OF THE MAINLAND                                          ,TX,5,1,32,217,14.7,A,5,D,42,206,20.3,A,15,108,13.8,A,public,,False
+2251,7047,LOS ANGELES SOUTHWEST COLLEGE                                    ,CA,5,1,31,113,27.4,A,5,D,15,80,18.7,A,19,79,24.0,A,public,,False
+2242,6973,CANADA COLLEGE                                                   ,CA,5,1,13,86,15.1,A,5,D,17,88,19.3,A,7,65,10.7,A,public,,False
+2232,6911,MONTGOMERY COLLEGE                                               ,MD,5,1,278,2374,11.7,P,5,D,179,1869,9.5,P,163,1643,9.9,P,public,,False
+2330,7570,HELENA COLLEGE UNIVERSITY OF MONTANA                             ,MT,5,1,79,548,14.4,A,5,D,68,550,12.3,A,70,457,15.3,A,public,,False
+2231,6901,ROWAN COLLEGE AT GLOUCESTER COUNTY                               ,NJ,5,1,103,807,12.7,A,5,D,92,768,11.9,A,66,714,9.2,A,public,,False
+2219,6815,ORANGEBURG - CALHOUN TECHNICAL COLLEGE                           ,SC,5,1,97,698,13.8,A,5,D,122,664,18.3,A,177,714,24.7,A,public,,False
+2201,6753,ILLINOIS CENTRAL COLLEGE                                         ,IL,5,1,180,1172,15.3,A,5,D,247,1358,18.1,A,376,1869,20.1,A,public,,False
+2197,6720,COLLEGE OF ALAMEDA                                               ,CA,5,1,9,58,15.5,A,5,D,5,51,9.8,A,7,40,17.5,A,public,,False
+2181,6656,COLLEGE OF DU PAGE                                               ,IL,5,1,540,3287,16.4,P,5,D,494,3127,15.7,P,311,2356,13.2,P,public,,False
+2134,6165,LOS ANGELES COUNTY COLLEGE OF NURSING AND ALLIED HEALTH          ,CA,5,1,3,58,5.1,A,5,D,1,60,1.6,A,1,71,1.4,A,public,,False
+2132,5763,CENTRAL GEORGIA TECHNICAL COLLEGE                                ,GA,5,1,507,2063,24.5,P,5,D,306,1191,25.6,P,58,266,21.8,P,public,,False
+2130,5759,NORTHWEST TECHNICAL COLLEGE - BEMIDJI                            ,MN,5,1,58,419,13.8,A,5,D,62,465,13.3,A,86,518,16.6,A,public,,False
+2129,5757,LAKE SUPERIOR COLLEGE                                            ,MN,5,1,282,1679,16.7,A,5,D,254,1708,14.8,A,230,1545,14.8,A,public,,False
+2124,5707,SOUTHEAST ARKANSAS COLLEGE                                       ,AR,5,1,57,392,14.5,A,5,D,124,487,25.4,A,94,352,26.7,A,public,,False
+2122,5624,COLUMBUS TECHNICAL COLLEGE                                       ,GA,5,1,164,846,19.3,A,5,D,101,523,19.3,A,2,12,16.6,B,public,,False
+2121,5622,GEORGIA PIEDMONT TECHNICAL COLLEGE                               ,GA,5,1,189,906,20.8,A,5,D,30,167,17.9,A,0,0,0.0,A,public,2012,False
+2120,5621,SOUTHERN CRESCENT TECHNICAL COLLEGE                              ,GA,5,1,178,1015,17.5,P,5,D,119,670,17.7,P,17,135,12.5,P,public,,False
+2227,6865,CAMDEN COUNTY COLLEGE                                            ,NJ,5,1,312,1852,16.8,A,5,D,287,1745,16.4,A,283,1941,14.5,A,public,,False
+2336,7598,HOCKING TECHNICAL COLLEGE                                        ,OH,5,1,489,2201,22.2,A,5,D,501,2282,21.9,A,699,2958,23.6,A,public,,False
+2344,7644,LAKE LAND COLLEGE                                                ,IL,5,1,121,600,20.1,A,5,D,94,498,18.8,A,95,540,17.5,A,public,,False
+2348,7669,SOUTHWEST WISCONSIN TECHNICAL COLLEGE                            ,WI,5,1,69,524,13.1,A,5,D,88,515,17.0,A,72,570,12.6,A,public,,False
+2586,9549,WESTERN TEXAS COLLEGE                                            ,TX,5,1,31,194,15.9,A,5,D,23,147,15.6,A,29,157,18.4,A,public,,False
+2555,9314,GREAT FALLS COLLEGE MONTANA STATE UNIVERSITY                     ,MT,5,1,132,754,17.5,A,5,D,112,719,15.5,A,136,756,17.9,A,public,,False
+2547,9256,MORAINE PARK TECHNICAL COLLEGE                                   ,WI,5,1,127,965,13.1,A,5,D,118,953,12.3,A,126,1017,12.3,A,public,,False
+2539,9194,LAKESHORE TECHNICAL COLLEGE                                      ,WI,5,1,94,674,13.9,P,5,D,85,694,12.2,P,85,689,12.3,P,public,,False
+2536,9185,ROSE STATE COLLEGE                                               ,OK,5,1,294,1725,17.0,A,5,D,359,2132,16.8,A,304,1807,16.8,A,public,,False
+1046,2615,MIDDLESEX COUNTY COLLEGE                                         ,NJ,5,1,114,1087,10.4,A,5,D,106,1128,9.3,A,64,1029,6.2,A,public,,False
+2509,8918,SADDLEBACK COLLEGE                                               ,CA,5,1,39,323,12.0,A,5,D,37,341,10.8,A,34,306,11.1,A,public,,False
+2505,8903,COLLEGE OF THE CANYONS                                           ,CA,5,1,88,595,14.7,A,5,D,107,702,15.2,A,84,618,13.5,A,public,,False
+2495,8862,EAST CENTRAL COLLEGE                                             ,MO,5,1,131,689,19.0,A,5,D,139,665,20.9,A,133,648,20.5,A,public,,False
+2463,8543,ATLANTA TECHNICAL COLLEGE                                        ,GA,5,1,377,1965,19.1,A,5,D,191,921,20.7,A,14,54,25.9,A,public,,False
+2461,8510,EASTFIELD COLLEGE                                                ,TX,5,1,195,999,19.5,A,5,D,163,818,19.9,A,122,656,18.5,A,public,,False
+2459,8504,RICHLAND COLLEGE                                                 ,TX,5,1,139,827,16.8,A,5,D,103,709,14.5,A,99,699,14.1,A,public,,False
+2458,8503,MOUNTAIN VIEW COLLEGE                                            ,TX,5,1,108,515,20.9,A,3,D,94,486,19.3,A,63,422,14.9,A,public,,False
+2429,8308,CECIL COLLEGE                                                    ,MD,5,1,40,233,17.1,A,5,D,47,298,15.7,A,36,250,14.4,A,public,,False
+2426,8284,MITCHELL TECHNICAL INSTITUTE                                     ,SD,5,1,47,442,10.6,A,5,D,54,499,10.8,A,63,482,13.0,A,public,,False
+2408,8133,ZANE STATE COLLEGE                                               ,OH,5,1,281,1150,24.4,A,5,D,278,1175,23.6,A,308,1237,24.8,A,public,,False
+2400,8076,JOHN A. LOGAN COLLEGE                                            ,IL,5,1,11,109,10.0,A,5,D,32,176,18.1,A,72,402,17.9,A,public,,False
+2399,8073,BUTTE COLLEGE                                                    ,CA,5,1,241,1190,20.2,P,5,D,309,1369,22.5,P,348,1372,25.3,P,public,,False
+2380,7912,THADDEUS STEVENS COLLEGE OF TECHNOLOGY                           ,PA,5,1,43,287,14.9,A,5,D,37,277,13.3,A,25,253,9.8,A,public,,False
+2366,7764,SOUTHEAST TECHNICAL INSTITUTE                                    ,SD,5,1,155,1287,12.0,P,5,D,150,1342,11.1,P,149,1308,11.3,P,public,,False
+2364,7738,SOUTHERN ARKANSAS UNIVERSITY TECH                                ,AR,5,1,56,247,22.6,A,5,D,73,289,25.2,A,53,242,21.9,A,public,,False
+2362,7730,ROWAN COLLEGE AT BURLINGTON COUNTY                               ,NJ,5,1,124,928,13.3,A,5,D,114,940,12.1,A,95,844,11.2,A,public,,False
+2361,7729,COUNTY COLLEGE OF MORRIS                                         ,NJ,5,1,83,887,9.3,A,5,D,67,853,7.8,A,84,823,10.2,A,public,,False
+2357,7694,COLLEGE OF LAKE COUNTY                                           ,IL,5,1,136,867,15.6,A,5,D,94,791,11.8,A,86,679,12.6,A,public,,False
+2355,7691,MCHENRY COUNTY COLLEGE                                           ,IL,5,1,63,465,13.5,A,5,D,46,322,14.2,A,30,289,10.3,A,public,,False
+2352,7686,SOUTHERN UNIVERSITY AT SHREVEPORT - BOSSIER CITY                 ,LA,5,1,293,1270,23.0,P,2,D,181,1024,17.6,P,162,861,18.8,P,public,,False
+2351,7684,KISHWAUKEE COLLEGE                                               ,IL,5,1,184,799,23.0,A,5,D,184,798,23.0,A,129,676,19.0,A,public,,False
+2118,5618,SAVANNAH TECHNICAL COLLEGE                                       ,GA,5,1,154,829,18.5,A,5,D,88,434,20.2,A,3,13,23.0,B,public,,False
+1039,2601,CUMBERLAND COUNTY COLLEGE                                        ,NJ,5,1,100,546,18.3,A,5,D,89,558,15.9,A,68,581,11.7,A,public,,False
+4711,42636,NORTHEAST LAKEVIEW COLLEGE                                       ,TX,5,1,162,1357,11.9,P,5,D,211,1519,13.8,S,251,1583,15.8,S,public,,False
+874,2339,CENTRAL LAKES COLLEGE                                            ,MN,5,1,199,1215,16.3,P,5,D,219,1211,18.0,P,233,1326,17.5,P,public,,False
+138,1206,GOLDEN WEST COLLEGE                                              ,CA,5,1,36,268,13.4,A,5,D,27,272,9.9,A,28,236,11.8,A,public,,False
+140,1208,GROSSMONT COLLEGE                                                ,CA,5,1,58,384,15.1,A,5,D,57,433,13.1,A,59,378,15.6,A,public,,False
+145,1217,LASSEN COLLEGE                                                   ,CA,5,1,25,115,21.7,A,5,D,29,132,21.9,A,43,133,32.3,A,public,,False
+147,1219,LONG BEACH CITY COLLEGE                                          ,CA,5,1,306,1090,28.0,A,3,D,277,1116,24.8,A,285,1174,24.2,A,public,,False
+149,1223,LOS ANGELES CITY COLLEGE                                         ,CA,5,1,134,700,19.1,A,3,D,131,640,20.4,A,147,597,24.6,A,public,,False
+150,1224,LOS ANGELES HARBOR COLLEGE                                       ,CA,5,1,23,119,19.3,P,3,D,22,119,18.4,P,24,112,21.4,P,public,,False
+135,1202,GAVILAN COLLEGE                                                  ,CA,5,1,28,176,15.9,A,3,D,61,223,27.3,A,59,211,27.9,A,public,,False
+151,1226,LOS ANGELES PIERCE COLLEGE                                       ,CA,5,1,107,624,17.1,A,5,D,105,565,18.5,A,112,487,22.9,A,public,,False
+152,1227,LOS ANGELES TRADE-TECHNICAL COLLEGE                              ,CA,5,1,115,385,29.8,A,3,D,64,245,26.1,A,50,155,32.2,A,public,,False
+153,1228,LOS ANGELES VALLEY COLLEGE                                       ,CA,5,1,64,425,15.0,A,3,D,76,460,16.5,A,54,352,15.3,A,public,,False
+156,1232,AMERICAN RIVER COLLEGE                                           ,CA,5,1,361,1558,23.1,A,5,D,489,1964,24.8,A,484,1840,26.3,A,public,,False
+157,1233,SACRAMENTO CITY COLLEGE                                          ,CA,5,1,233,1065,21.8,A,5,D,226,1111,20.3,A,287,1237,23.2,A,public,,False
+161,1242,MONTEREY PENINSULA COLLEGE                                       ,CA,5,1,36,177,20.3,A,5,D,41,199,20.6,A,42,196,21.4,A,public,,False
+163,1245,MOUNT SAN ANTONIO COLLEGE                                        ,CA,5,1,34,338,10.0,A,3,D,33,273,12.0,A,40,257,15.5,A,public,,False
+945,2459,CROWDER COLLEGE                                                  ,MO,5,1,145,780,18.5,A,5,D,138,712,19.3,A,128,694,18.4,A,public,,False
+134,1201,FULLERTON COLLEGE                                                ,CA,5,1,136,517,26.3,A,3,D,89,496,17.9,A,75,486,15.4,A,public,,False
+131,1197,EL CAMINO COLLEGE                                                ,CA,5,1,91,426,21.3,P,3,D,83,421,19.7,P,71,423,16.7,P,public,,False
+128,1192,CUESTA COLLEGE                                                   ,CA,5,1,53,389,13.6,A,5,D,42,451,9.3,A,45,408,11.0,A,public,,False
+445,1699,JOLIET JUNIOR COLLEGE                                            ,IL,5,1,198,1155,17.1,A,5,D,166,1229,13.5,A,166,1103,15.0,A,public,,False
+419,1655,WILBUR WRIGHT COLLEGE                                            ,IL,5,1,51,278,18.3,A,3,D,24,164,14.6,A,10,74,13.5,A,public,,False
+418,1654,CITY COLLEGES OF CHICAGO - KENNEDY KING COLLEGE                  ,IL,5,1,305,1158,26.3,A,5,D,245,936,26.1,A,165,808,20.4,A,public,,False
+417,1652,HAROLD WASHINGTON COLLEGE                                        ,IL,5,1,180,872,20.6,A,5,D,99,553,17.9,A,40,357,11.2,A,public,,False
+105,1162,CHABOT COLLEGE                                                   ,CA,5,1,45,262,17.1,A,5,D,39,265,14.7,A,71,353,20.1,A,public,,False
+118,1178,COLLEGE OF MARIN                                                 ,CA,5,1,91,389,23.3,A,5,D,116,425,27.2,A,82,320,25.6,A,public,,False
+120,1181,COLLEGE OF SAN MATEO                                             ,CA,5,1,9,87,10.3,A,5,D,14,83,16.8,A,8,79,10.1,A,public,,False
+121,1182,COLLEGE OF THE DESERT                                            ,CA,5,1,55,229,24.0,A,3,D,47,208,22.5,A,27,151,17.8,A,public,,False
+963,2486,MINERAL AREA COLLEGE                                             ,MO,5,1,150,750,20.0,A,5,D,156,637,24.4,A,152,652,23.3,A,public,,False
+123,1185,COLLEGE OF THE REDWOODS                                          ,CA,5,1,50,356,14.0,A,5,D,96,422,22.7,A,112,469,23.8,A,public,,False
+124,1186,COLLEGE OF THE SEQUOIAS                                          ,CA,5,1,40,190,21.0,A,3,D,31,182,17.0,A,30,167,17.9,A,public,,False
+125,1187,COLLEGE OF THE SISKIYOUS                                         ,CA,5,1,77,328,23.4,A,5,D,88,383,22.9,A,100,352,28.4,A,public,,False
+953,2468,JEFFERSON COLLEGE                                                ,MO,5,1,191,1100,17.3,P,5,D,233,1110,20.9,P,222,984,22.5,P,public,,False
+126,1190,CONTRA COSTA COLLEGE                                             ,CA,5,1,26,127,20.4,A,5,D,37,166,22.2,A,39,154,25.3,A,public,,False
+127,1191,DIABLO VALLEY COLLEGE                                            ,CA,5,1,23,180,12.7,A,5,D,17,157,10.8,A,15,128,11.7,A,public,,False
+164,1246,MT. SAN JACINTO COLLEGE                                          ,CA,5,1,14,113,12.3,A,5,D,15,188,7.9,A,60,333,18.0,A,public,,False
+165,1247,NAPA VALLEY COLLEGE                                              ,CA,5,1,14,103,13.5,A,5,D,8,109,7.3,A,13,114,11.4,A,public,,False
+416,1650,CITY COLLEGES OF CHICAGO - MALCOLM X COLLEGE                     ,IL,5,1,145,626,23.1,A,3,D,72,316,22.7,A,14,139,10.0,A,public,,False
+167,1250,ORANGE COAST COLLEGE                                             ,CA,5,1,47,427,11.0,A,5,D,54,466,11.5,A,49,496,9.8,A,public,,False
+220,1334,VENTURA COLLEGE                                                  ,CA,5,1,110,467,23.5,A,3,D,97,442,21.9,A,74,406,18.2,A,public,,False
+222,1338,WEST VALLEY COLLEGE                                              ,CA,5,1,12,108,11.1,A,5,D,25,162,15.4,A,21,117,17.9,A,public,,False
+227,1344,YUBA COLLEGE                                                     ,CA,5,1,35,162,21.6,A,5,D,52,244,21.3,A,72,280,25.7,A,public,,False
+786,2205,QUINCY COLLEGE                                                   ,MA,5,1,121,906,13.3,A,5,D,106,721,14.7,A,74,698,10.6,A,public,,False
+400,1623,NORTH IDAHO COLLEGE                                              ,ID,5,1,433,1910,22.6,A,5,D,509,2211,23.0,A,413,1894,21.8,A,public,,False
+397,1619,COLLEGE OF SOUTHERN IDAHO                                        ,ID,5,1,436,2672,16.3,P,5,D,738,3618,20.3,P,712,3436,20.7,P,public,,False
+241,1361,NORTHEASTERN JUNIOR COLLEGE                                      ,CO,5,1,64,481,13.3,A,5,D,86,514,16.7,A,100,525,19.0,A,public,,False
+242,1362,OTERO JUNIOR COLLEGE                                             ,CO,5,1,56,341,16.4,A,3,D,66,380,17.3,A,96,452,21.2,A,public,,False
+245,1368,TRINIDAD STATE JUNIOR COLLEGE                                    ,CO,5,1,47,332,14.1,A,3,D,79,400,19.7,A,78,385,20.2,A,public,,False
+922,2411,JONES COUNTY JUNIOR COLLEGE                                      ,MS,5,1,122,639,19.0,A,5,D,131,698,18.7,A,174,821,21.1,A,public,,False
+817,2251,DELTA COLLEGE                                                    ,MI,5,1,385,1905,20.2,A,5,D,366,1949,18.7,A,347,1853,18.7,A,public,,False
+909,2393,MINNESOTA STATE COLLEGE SOUTHEAST                                ,MN,5,1,150,977,15.3,P,5,D,149,1006,14.8,P,147,1075,13.6,P,public,,False
+858,2317,SOUTHWESTERN MICHIGAN COLLEGE                                    ,MI,5,1,186,763,24.3,A,5,D,134,682,19.6,A,143,574,24.9,A,public,,False
+847,2299,NORTH CENTRAL MICHIGAN COLLEGE                                   ,MI,5,1,58,385,15.0,A,5,D,77,387,19.8,A,60,384,15.6,A,public,,False
+835,2277,LAKE MICHIGAN COLLEGE                                            ,MI,5,1,175,745,23.4,A,5,D,127,689,18.4,A,201,775,25.9,A,public,,False
+407,1636,SOUTHWESTERN ILLINOIS COLLEGE                                    ,IL,5,1,506,2100,24.0,A,5,D,492,1968,25.0,A,456,1829,24.9,A,public,,False
+447,1701,KASKASKIA COLLEGE                                                ,IL,5,1,42,384,10.9,A,5,D,56,384,14.5,A,55,356,15.4,A,public,,False
+409,1638,BLACK HAWK COLLEGE                                               ,IL,5,1,105,597,17.5,A,5,D,85,634,13.4,A,64,501,12.7,A,public,,False
+413,1643,SPOON RIVER COLLEGE                                              ,IL,5,1,40,280,14.2,A,5,D,45,271,16.6,A,49,242,20.2,A,public,,False
+174,1260,PALOMAR COLLEGE                                                  ,CA,5,1,62,323,19.1,A,5,D,47,294,15.9,A,97,306,31.6,A,public,,False
+175,1261,PASADENA CITY COLLEGE                                            ,CA,5,1,36,251,14.3,A,3,D,38,221,17.1,A,50,286,17.4,A,public,,False
+177,1266,LANEY COLLEGE                                                    ,CA,5,1,45,176,25.5,A,5,D,13,67,19.4,A,10,53,18.8,A,public,,False
+178,1267,MERRITT COLLEGE                                                  ,CA,5,1,52,186,27.9,A,5,D,28,126,22.2,A,36,128,28.1,A,public,,False
+180,1270,RIVERSIDE CITY COLLEGE                                           ,CA,5,1,69,454,15.1,A,5,D,51,518,9.8,A,90,634,14.1,A,public,,False
+181,1272,SAN BERNARDINO VALLEY COLLEGE                                    ,CA,5,1,4,60,6.6,A,3,D,10,87,11.4,A,26,112,23.2,A,public,,False
+182,1273,SAN DIEGO CITY COLLEGE                                           ,CA,5,1,143,684,20.9,P,3,D,153,804,19.0,P,242,905,26.7,P,public,,False
+186,1280,SAN JOAQUIN DELTA COLLEGE                                        ,CA,5,1,186,810,22.9,A,5,D,208,967,21.5,A,223,1000,22.3,A,public,,False
+188,1282,SAN JOSE CITY COLLEGE                                            ,CA,5,1,40,203,19.7,A,5,D,46,235,19.5,A,29,170,17.0,A,public,,False
+192,1287,SANTA ROSA JUNIOR COLLEGE                                        ,CA,5,1,61,391,15.6,A,5,D,54,443,12.1,A,68,430,15.8,A,public,,False
+415,1649,RICHARD J DALEY COLLEGE-CITY COLLEGES OF CHICAGO                 ,IL,5,1,42,287,14.6,P,3,D,17,172,9.8,P,10,137,7.2,P,public,,False
+195,1290,SIERRA COLLEGE                                                   ,CA,5,1,193,942,20.4,A,5,D,210,973,21.5,A,175,866,20.2,A,public,,False
+204,1307,FRESNO CITY COLLEGE                                              ,CA,5,1,131,648,20.2,A,3,D,208,887,23.4,A,283,953,29.6,A,public,,False
+205,1308,REEDLEY COLLEGE                                                  ,CA,5,1,65,256,25.3,A,3,D,52,289,17.9,A,80,343,23.3,A,public,,False
+414,1648,CITY COLLEGES OF CHICAGO HARRY S TRUMAN COLLEGE                  ,IL,5,1,113,559,20.2,A,3,D,83,410,20.2,A,35,200,17.5,A,public,,False
+411,1640,PRAIRIE STATE COLLEGE                                            ,IL,5,1,155,817,18.9,A,5,D,78,469,16.6,A,39,329,11.8,A,public,,False
+464,1728,MORTON COLLEGE                                                   ,IL,5,1,38,269,14.1,A,3,D,35,194,18.0,A,41,253,16.2,A,public,,False
+190,1285,SANTA BARBARA CITY COLLEGE                                       ,CA,5,1,247,1350,18.2,A,5,D,243,1326,18.3,A,238,1289,18.4,A,public,,False
+487,1773,TRITON COLLEGE                                                   ,IL,5,1,57,462,12.3,A,5,D,52,438,11.8,A,50,378,13.2,A,public,,False
+79,1124,CABRILLO COLLEGE                                                 ,CA,5,1,58,332,17.4,A,5,D,75,405,18.5,A,53,324,16.3,A,public,,False
+42,1078,PHOENIX COLLEGE                                                  ,AZ,5,1,975,3145,31.0,A,3,D,783,2832,27.6,A,574,2312,24.8,A,public,,False
+38,1072,COCHISE COLLEGE                                                  ,AZ,5,1,16,262,6.1,A,3,D,19,362,5.2,A,36,374,9.6,A,public,,False
+980,2514,NORTH CENTRAL MISSOURI COLLEGE                                   ,MO,5,1,71,433,16.3,A,5,D,74,480,15.4,A,89,475,18.7,A,public,,False
+72,1111,ALLAN HANCOCK COLLEGE                                            ,CA,5,1,29,144,20.1,A,3,D,25,135,18.5,A,28,114,24.5,A,public,,False
+37,1071,ARIZONA WESTERN COLLEGE                                          ,AZ,5,1,67,390,17.1,A,3,D,105,427,24.5,A,141,522,27.0,A,public,,False
+695,2064,COLLEGE OF SOUTHERN MARYLAND                                     ,MD,5,1,85,747,11.3,A,5,D,83,625,13.2,A,59,505,11.6,A,public,,False
+691,2057,ALLEGANY COLLEGE OF MARYLAND                                     ,MD,5,1,164,900,18.2,A,5,D,125,819,15.2,A,165,911,18.1,A,public,,False
+43,1079,YAVAPAI COLLEGE                                                  ,AZ,5,1,197,771,25.5,A,5,D,137,616,22.2,A,131,563,23.2,A,public,,False
+662,2012,LOUISIANA STATE UNIVERSITY AT EUNICE                             ,LA,5,1,121,789,15.3,A,5,D,113,783,14.4,A,125,847,14.7,A,public,,False
+53,1091,ARKANSAS STATE UNIVERSITY - BEEBE                                ,AR,5,1,83,593,13.9,P,5,D,131,667,19.6,P,147,733,20.0,P,public,,False
+16,1026,MARION MILITARY INSTITUTE                                        ,AL,5,1,18,173,10.4,A,5,D,33,186,17.7,A,22,161,13.6,A,public,,False
+475,1747,ROCK VALLEY COLLEGE                                              ,IL,5,1,101,652,15.4,A,5,D,100,600,16.6,A,116,625,18.5,A,public,,False
+1731,3671,DIXIE STATE UNIVERSITY                                           ,UT,6,1,265,1991,13.3,A,5,D,297,2198,13.5,A,315,2062,15.2,A,public,,False
+1903,3943,UNIVERSITY OF PUERTO RICO - HUMACAO UNIVERSITY COLLEGE           ,PR,6,1,27,188,14.3,A,3,D,23,153,15.0,A,11,99,11.1,A,public,,False
+1737,3679,SNOW COLLEGE                                                     ,UT,6,1,73,607,12.0,P,5,D,60,699,8.5,P,67,584,11.4,P,public,,False
+394,1615,UNIVERSITY OF HAWAII MAUI COLLEGE                                ,HI,6,1,201,804,25.0,A,5,D,254,853,29.7,A,243,859,28.2,A,public,,False
+2019,4927,UNIVERSITY OF SOUTH CAROLINA - UNION                             ,SC,6,1,52,197,26.3,A,5,D,66,172,38.3,A,69,206,33.4,A,public,,False
+329,1523,SAINT JOHNS RIVER STATE COLLEGE                                  ,FL,6,1,160,991,16.1,A,5,D,164,1029,15.9,A,137,948,14.4,A,public,,False
+326,1520,SEMINOLE STATE COLLEGE OF FLORIDA                                ,FL,6,1,819,4881,16.7,A,5,D,1050,5665,18.5,A,852,4665,18.2,A,public,,False
+2470,8596,WEST LOS ANGELES COLLEGE                                         ,CA,6,1,51,350,14.5,P,5,D,66,341,19.3,P,45,314,14.3,P,public,,False
+1853,3828,WEST VIRGINIA UNIVERSITY - PARKERSBURG                           ,WV,6,1,254,1057,24.0,A,5,D,225,986,22.8,A,320,1140,28.0,A,public,,False
+830,2270,HENRY FORD COLLEGE                                               ,MI,6,1,1653,6896,23.9,A,5,D,1371,7023,19.5,A,1342,6135,21.8,A,public,,False
+328,1522,SOUTH FLORIDA STATE COLLEGE                                      ,FL,6,1,34,154,22.0,A,5,D,21,126,16.6,A,29,145,20.0,A,public,,False
+1820,3787,SEATTLE CENTRAL COLLEGE                                          ,WA,6,1,15,83,18.0,P,5,D,0,0,0.0,P,0,0,0.0,P,public,2013 2012,False
+2471,8597,FEATHER RIVER COLLEGE                                            ,CA,6,1,34,250,13.6,A,5,D,43,253,16.9,A,66,301,21.9,A,public,,False
+2203,6760,UNIVERSITY OF MAINE - AUGUSTA                                    ,ME,6,1,298,1601,18.6,A,5,D,318,1695,18.7,A,316,1661,19.0,A,public,,False
+3072,21078,UNIVERSITY OF HAWAII - WEST OAHU                                 ,HI,6,1,25,333,7.5,A,5,D,20,306,6.5,A,14,211,6.6,A,public,,False
+4416,41429,GEORGIA GWINNETT COLLEGE                                         ,GA,6,1,337,2294,14.6,A,5,D,310,2021,15.3,A,201,1281,15.6,A,public,,False
+341,1543,DARTON STATE COLLEGE                                             ,GA,6,1,396,2479,15.9,A,5,D,345,2230,15.4,A,231,1590,14.5,A,public,,False
+1552,3426,UNIVERSITY OF SOUTH CAROLINA - SUMTER                            ,SC,6,1,27,301,8.9,A,5,D,33,306,10.7,A,36,293,12.2,A,public,,False
+2200,6750,VALENCIA COLLEGE                                                 ,FL,6,1,1243,8062,15.4,A,3,D,1258,8479,14.8,A,1347,7905,17.0,A,public,,False
+1910,3956,DALTON STATE COLLEGE                                             ,GA,6,1,138,1002,13.7,A,5,D,165,1001,16.4,A,218,1076,20.2,A,public,,False
+339,1541,ABRAHAM BALDWIN AGRICULTURAL COLLEGE                             ,GA,6,1,109,939,11.6,A,5,D,134,979,13.6,A,158,933,16.9,A,public,,False
+399,1621,LEWIS-CLARK STATE COLLEGE                                        ,ID,6,1,149,1139,13.0,A,5,D,151,1256,12.0,A,156,1171,13.3,A,public,,False
+1571,3450,UNIVERSITY OF SOUTH CAROLINA - BEAUFORT                          ,SC,6,1,35,597,5.8,A,5,D,57,524,10.8,A,56,541,10.3,A,public,,False
+331,1528,ST. PETERSBURG COLLEGE                                           ,FL,6,1,1090,6788,16.0,P,5,D,1070,6593,16.2,P,1293,6625,19.5,P,public,,False
+1573,3453,UNIVERSITY OF SOUTH CAROLINA - LANCASTER                         ,SC,6,1,82,446,18.3,A,5,D,82,409,20.0,A,81,394,20.5,A,public,,False
+1574,3454,UNIVERSITY OF SOUTH CAROLINA - SALKEHATCHIE                      ,SC,6,1,103,484,21.2,A,5,D,146,573,25.4,A,157,604,25.9,A,public,,False
+2673,10097,CUNY MEDGAR EVERS COLLEGE                                        ,NY,6,1,73,737,9.9,A,5,D,64,626,10.2,A,54,531,10.1,A,public,,False
+3026,20839,NORTHERN NEW MEXICO COLLEGE                                      ,NM,6,1,34,140,24.2,A,3,D,39,158,24.6,A,35,133,26.3,A,public,,False
+2878,12165,ATLANTA METROPOLITAN  STATE COLLEGE                              ,GA,6,1,198,1077,18.3,A,5,D,161,960,16.7,A,163,888,18.3,A,public,,False
+292,1470,EASTERN FLORIDA STATE COLLEGE                                    ,FL,6,1,476,2369,20.0,A,5,D,534,2713,19.6,A,489,2566,19.0,A,public,,False
+1000,2537,UNIVERSITY OF MONTANA WESTERN (THE)                              ,MT,6,1,41,403,10.1,A,5,D,54,468,11.5,A,36,400,9.0,A,public,,False
+2791,10997,EAST GEORGIA STATE COLLEGE                                       ,GA,6,1,309,1407,21.9,A,5,D,356,1638,21.7,A,312,1381,22.5,A,public,,False
+2788,10975,UNIVERSITY OF PUERTO RICO BAYAMON TECHNICAL UNIVERSITY COLLEGE   ,PR,6,1,11,146,7.5,A,5,D,11,136,8.0,A,6,65,9.2,A,public,,False
+320,1510,NORTHWEST FLORIDA STATE COLLEGE                                  ,FL,6,1,77,445,17.3,A,5,D,86,502,17.1,A,80,453,17.6,A,public,,False
+318,1506,MIAMI DADE COLLEGE                                               ,FL,6,1,515,4152,12.4,P,3,D,403,3596,11.2,P,305,2857,10.6,P,public,,False
+856,2315,SCHOOLCRAFT COLLEGE                                              ,MI,6,1,350,2189,15.9,A,5,D,207,1886,10.9,A,198,1480,13.3,A,public,,False
+308,1490,GULF COAST STATE COLLEGE                                         ,FL,6,1,166,826,20.0,A,5,D,136,765,17.7,A,107,710,15.0,A,public,,False
+302,1484,FLORIDA STATE COLLEGE AT JACKSONVILLE                            ,FL,6,1,1070,6017,17.7,A,5,D,943,5886,16.0,A,804,5128,15.6,A,public,,False
+2784,10922,UNIVERSITY OF PUERTO RICO - UTUADO                               ,PR,6,1,113,906,12.4,P,5,D,88,831,10.5,P,44,403,10.9,P,public,,False
+313,1500,BROWARD COLLEGE                                                  ,FL,6,1,723,5056,14.2,A,5,D,522,4405,11.8,A,473,3785,12.4,A,public,,False
+314,1501,FLORIDA GATEWAY COLLEGE                                          ,FL,6,1,86,342,25.1,A,5,D,105,434,24.1,A,54,350,15.4,A,public,,False
+1878,3897,UNIVERSITY OF WISCONSIN COLLEGES                                 ,WI,6,1,365,3438,10.6,P,5,D,436,3956,11.0,P,356,3874,9.1,P,public,,False
+849,2302,NORTHWESTERN MICHIGAN COLLEGE                                    ,MI,6,1,213,1392,15.3,A,5,D,299,1544,19.3,A,244,1427,17.0,A,public,,False
+315,1502,LAKE SUMTER STATE COLLEGE                                        ,FL,6,1,20,168,11.9,A,5,D,21,188,11.1,A,13,163,7.9,A,public,,False
+316,1504,"STATE COLLEGE OF FLORIDA, MANATEE-SARASOTA                       ",FL,6,1,338,2162,15.6,A,5,D,423,2209,19.1,A,461,2302,20.0,A,public,,False
+309,1493,INDIAN RIVER STATE COLLEGE                                       ,FL,6,1,335,1547,21.6,A,5,D,281,1393,20.1,A,261,1376,18.9,A,public,,False
+2875,12123,"UNIVERSITY OF PUERTO RICO, AGUADILLA REGIONAL COLLEGE            ",PR,6,1,9,173,5.2,A,5,D,10,162,6.1,A,7,77,9.0,A,public,,False
+363,1575,GORDON STATE COLLEGE                                             ,GA,6,1,278,1632,17.0,A,5,D,242,1678,14.4,A,255,1770,14.4,A,public,,False
+321,1512,PALM BEACH STATE COLLEGE                                         ,FL,6,1,339,2341,14.4,A,5,D,324,2294,14.1,A,358,2190,16.3,A,public,,False
+325,1519,SANTA FE COLLEGE                                                 ,FL,6,1,545,3233,16.8,A,5,D,546,3337,16.3,A,585,3104,18.8,A,public,,False
+293,1471,COLLEGE OF CENTRAL FLORIDA                                       ,FL,6,1,377,2036,18.5,A,5,D,356,1967,18.0,A,323,1547,20.8,A,public,,False
+2707,10362,COLLEGE OF SOUTHERN NEVADA                                       ,NV,6,1,515,2592,19.8,A,5,D,398,2297,17.3,A,460,2553,18.0,A,public,,False
+538,1843,VINCENNES UNIVERSITY                                             ,IN,6,1,586,3031,19.3,A,5,D,557,3087,18.0,A,555,3092,17.9,A,public,,False
+907,2389,UNIVERSITY OF MINNESOTA - MORRIS                                 ,MN,6,1,15,397,3.7,A,5,D,25,397,6.2,A,17,387,4.3,A,public,,False
+377,1592,SOUTH GEORGIA STATE COLLEGE                                      ,GA,6,1,201,1055,19.0,P,5,D,258,1160,22.2,P,210,986,21.2,P,public,,False
+2797,11074,BAINBRIDGE STATE COLLEGE                                         ,GA,6,1,314,1257,24.9,A,5,D,505,1796,28.1,A,381,1281,29.7,A,public,,False
+294,1472,CHIPOLA COLLEGE                                                  ,FL,6,1,4,88,4.5,A,5,D,16,133,12.0,A,10,81,12.3,A,public,,False
+295,1475,DAYTONA STATE COLLEGE                                            ,FL,6,1,814,4069,20.0,A,5,D,781,4362,17.9,A,1147,5415,21.1,A,public,,False
+323,1514,POLK STATE COLLEGE                                               ,FL,6,1,149,885,16.8,A,5,D,78,536,14.5,A,12,230,5.2,A,public,,False
+2722,10434,RENTON TECHNICAL COLLEGE                                         ,WA,6,1,47,350,13.4,A,5,D,50,365,13.6,A,44,324,13.5,A,public,,False
+1716,3648,TYLER JUNIOR COLLEGE                                             ,TX,6,1,581,3074,18.9,P,5,D,756,3398,22.2,P,748,3388,22.0,P,public,,False
+322,1513,PENSACOLA STATE COLLEGE                                          ,FL,6,1,109,671,16.2,A,5,D,110,653,16.8,A,86,539,15.9,A,public,,False
+296,1477,FLORIDA SOUTHWESTERN STATE COLLEGE                               ,FL,6,1,414,2663,15.5,A,5,D,388,2687,14.4,A,366,2387,15.3,A,public,,False
+2708,10363,WESTERN NEVADA COLLEGE                                           ,NV,6,1,140,510,27.4,A,5,D,135,644,20.9,A,122,457,26.6,A,public,,False
+2577,9507,GEORGIA HIGHLANDS COLLEGE                                        ,GA,6,1,225,1442,15.6,A,5,D,220,1422,15.4,A,158,1245,12.6,A,public,,False
+350,1558,COLLEGE OF COASTAL GEORGIA                                       ,GA,6,1,123,957,12.8,A,5,D,126,938,13.4,A,174,866,20.0,A,public,,False
+4305,41143,NEVADA STATE COLLEGE                                             ,NV,6,1,62,681,9.1,A,5,D,80,741,10.7,A,39,564,6.9,A,public,,False
+951,2466,HARRIS - STOWE STATE UNIVERSITY                                  ,MO,6,1,157,675,23.2,A,2,D,199,718,27.7,A,181,705,25.6,A,public,,False
+690,2055,UNIVERSITY OF MAINE - MACHIAS                                    ,ME,6,1,25,203,12.3,A,5,D,21,179,11.7,A,24,185,12.9,A,public,,False
+1806,3773,CLARK COLLEGE                                                    ,WA,6,1,452,2296,19.6,A,5,D,555,2699,20.5,A,487,2399,20.3,A,public,,False
+2276,7206,UNIVERSITY OF PUERTO RICO - CAYEY UNIVERSITY COLLEGE             ,PR,6,1,6,85,7.0,A,5,D,7,81,8.6,A,6,41,14.6,A,public,,False
+2277,7228,UNIVERSITY OF PUERTO RICO - ARECIBO                              ,PR,6,1,24,199,12.0,A,5,D,24,190,12.6,A,11,75,14.6,A,public,,False
+71,1110,UNIVERSITY OF ARKANSAS AT FORT SMITH                             ,AR,6,1,199,1668,11.9,A,5,D,324,1710,18.9,A,348,1710,20.3,A,public,,False
+132,1199,FOOTHILL COLLEGE                                                 ,CA,6,1,104,582,17.8,A,5,D,94,470,20.0,A,54,400,13.5,A,public,,False
+129,1193,CYPRESS COLLEGE                                                  ,CA,6,1,58,373,15.5,A,5,D,65,371,17.5,A,89,482,18.4,A,public,,False
+73,1113,ANTELOPE VALLEY COLLEGE                                          ,CA,6,1,396,1640,24.1,A,5,D,317,1525,20.7,A,428,1634,26.1,A,public,,False
+3723,30160,UNIVERSITY OF PUERTO RICO CAROLINA REGIONAL COLLEGE              ,PR,6,1,23,146,15.7,A,5,D,23,159,14.4,A,5,82,6.0,A,public,,False
+76,1118,BAKERSFIELD COLLEGE                                              ,CA,6,1,110,539,20.4,A,3,D,134,626,21.4,A,133,623,21.3,A,public,,False
+1807,3774,COLUMBIA BASIN COLLEGE                                           ,WA,6,1,63,540,11.6,A,5,D,67,537,12.4,A,60,455,13.1,A,public,,False
+359,1571,GEORGIA MILITARY COLLEGE                                         ,GA,6,1,595,3105,19.1,A,5,D,492,2619,18.7,A,362,2354,15.3,A,public,,False
+2286,7287,BRAZOSPORT COLLEGE                                               ,TX,6,1,13,92,14.1,A,5,D,22,108,20.3,A,22,104,21.1,A,public,,False
+1824,3792,SKAGIT VALLEY COLLEGE                                            ,WA,6,1,63,415,15.1,A,5,D,69,460,15.0,A,44,426,10.3,A,public,,False
+1183,2854,SUNY COLLEGE OF TECHNOLOGY AT ALFRED                             ,NY,6,1,96,1318,7.2,A,5,D,96,1352,7.1,A,122,1414,8.6,A,public,,False
+1185,2856,SUNY COLLEGE OF AGRICULTURE & TECHNOLOGY AT COBLESKILL           ,NY,6,1,102,978,10.4,A,5,D,115,1035,11.1,A,86,980,8.7,A,public,,False
+2032,5000,PIERCE COLLEGE                                                   ,WA,6,1,226,1429,15.8,A,5,D,212,1364,15.5,A,161,1216,13.2,A,public,,False
+1285,2988,BISMARCK STATE COLLEGE                                           ,ND,6,1,76,1185,6.4,A,5,D,98,1359,7.2,A,109,1476,7.3,A,public,,False
+2359,7713,SKYLINE COLLEGE                                                  ,CA,6,1,11,86,12.7,A,5,D,10,87,11.4,A,4,58,6.8,A,public,,False
+1959,4506,COLORADO MOUNTAIN COLLEGE                                        ,CO,6,1,105,778,13.4,A,5,D,115,763,15.0,A,80,717,11.1,A,public,,False
+2031,4999,BELLINGHAM TECHNICAL COLLEGE                                     ,WA,6,1,103,592,17.3,A,5,D,113,677,16.6,A,120,708,16.9,A,public,,False
+1188,2859,SUNY COLLEGE OF AGRICULTURE & TECHNOLOGY AT MORRISVILLE          ,NY,6,1,153,1282,11.9,A,5,D,180,1416,12.7,A,183,1324,13.8,A,public,,False
+749,2151,BENJAMIN FRANKLIN INSTITUTE OF TECHNOLOGY                        ,MA,6,1,56,275,20.3,A,5,D,58,292,19.8,A,69,308,22.4,A,public,,False
+1812,3779,GRAYS HARBOR COLLEGE                                             ,WA,6,1,56,225,24.8,A,5,D,76,277,27.4,A,75,286,26.2,A,public,,False
+1813,3780,GREEN RIVER COLLEGE                                              ,WA,6,1,194,1133,17.1,A,5,D,196,1175,16.6,A,204,1177,17.3,A,public,,False
+1814,3781,HIGHLINE COLLEGE                                                 ,WA,6,1,74,532,13.9,A,5,D,79,568,13.9,A,66,578,11.4,A,public,,False
+832,2274,JACKSON COLLEGE                                                  ,MI,6,1,379,1769,21.4,A,5,D,415,1919,21.6,A,492,2027,24.2,A,public,,False
+1817,3784,OLYMPIC COLLEGE                                                  ,WA,6,1,181,910,19.8,A,5,D,161,783,20.5,A,104,613,16.9,A,public,,False
+1217,2892,UNITED STATES MERCHANT MARINE ACADEMY                            ,NY,6,1,0,49,0.0,A,5,D,1,64,1.5,A,2,68,2.9,A,public,2014,False
+1184,2855,SUNY COLLEGE OF TECHNOLOGY AT CANTON                             ,NY,6,1,130,1327,9.7,A,5,D,158,1326,11.9,A,155,1254,12.3,A,public,,False
+1803,3769,BELLEVUE COLLEGE                                                 ,WA,6,1,97,969,10.0,A,5,D,87,984,8.8,A,81,855,9.4,A,public,,False
+1093,2696,NEW YORK CITY COLLEGE OF TECHNOLOGY OF THE CITY UNIVERSITY OF NEW,NY,6,1,103,1170,8.8,P,3,D,77,1094,7.0,P,92,1088,8.4,P,public,,False
+183,1275,SAN DIEGO MESA COLLEGE                                           ,CA,6,1,61,543,11.2,A,5,D,91,578,15.7,A,108,595,18.1,A,public,,False
+2126,5752,CLOVER PARK TECHNICAL COLLEGE                                    ,WA,6,1,198,915,21.6,A,5,D,236,1070,22.0,A,190,1131,16.7,A,public,,False
+1945,4069,UNIVERSITY OF MINNESOTA - CROOKSTON                              ,MN,6,1,31,542,5.7,A,5,D,28,476,5.8,A,35,447,7.8,A,public,,False
+661,2011,LOUISIANA STATE UNIVERSITY AT ALEXANDRIA                         ,LA,6,1,73,608,12.0,A,5,D,79,600,13.1,A,76,651,11.6,A,public,,False
+3129,21434,SALISH KOOTENAI COLLEGE                                          ,MT,6,1,20,195,10.2,A,1,D,38,219,17.3,A,42,209,20.0,A,public,,False
+1843,3813,GLENVILLE STATE COLLEGE                                          ,WV,6,1,92,467,19.7,A,5,D,80,474,16.8,A,103,446,23.0,A,public,,False
+2600,9647,OKLAHOMA STATE UNIVERSITY - OKLAHOMA CITY                        ,OK,6,1,334,2020,16.5,P,5,D,313,2203,14.2,P,237,1704,13.9,P,public,,False
+194,1289,SHASTA COLLEGE                                                   ,CA,6,1,109,479,22.7,A,5,D,91,412,22.0,A,85,441,19.2,A,public,,False
+1839,3809,BLUEFIELD STATE COLLEGE                                          ,WV,6,1,129,705,18.2,A,2,D,137,700,19.5,A,172,724,23.7,A,public,,False
+191,1286,SANTA MONICA COLLEGE                                             ,CA,6,1,38,366,10.3,A,5,D,43,373,11.5,A,33,313,10.5,A,public,,False
+1819,3786,PENINSULA COLLEGE                                                ,WA,6,1,107,445,24.0,A,5,D,113,465,24.3,A,83,393,21.1,A,public,,False
+189,1284,SANTA ANA COLLEGE                                                ,CA,6,1,27,214,12.6,A,3,D,29,246,11.7,A,50,291,17.1,A,public,,False
+682,2041,UNIVERSITY OF MAINE - FORT KENT                                  ,ME,6,1,32,240,13.3,A,5,D,22,224,9.8,A,22,197,11.1,A,public,,False
+4031,34835,CASCADIA COLLEGE                                                 ,WA,6,1,26,273,9.5,A,5,D,25,256,9.7,A,18,246,7.3,A,public,,False
+2085,5373,LAKE WASHINGTON INSTITUTE OF TECHNOLOGY                          ,WA,6,1,77,610,12.6,A,5,D,91,655,13.8,A,93,622,14.9,A,public,,False
+1789,3747,UNIVERSITY OF VIRGINIA'S COLLEGE AT WISE (THE)                   ,VA,6,1,51,433,11.7,A,5,D,45,387,11.6,A,43,420,10.2,A,public,,False
+2749,10652,PASCO - HERNANDO STATE COLLEGE                                   ,FL,6,1,213,1246,17.0,A,5,D,229,1305,17.5,A,218,1174,18.5,A,public,,False
+2244,6977,GREAT BASIN COLLEGE                                              ,NV,6,1,48,224,21.4,A,5,D,54,274,19.7,A,50,253,19.7,A,public,,False
+2602,9652,"UNIVERSITY OF PUERTO RICO, PONCE                                 ",PR,6,1,21,166,12.6,A,5,D,11,136,8.0,A,9,74,12.1,A,public,,False
+160,1239,MIRACOSTA COLLEGE                                                ,CA,6,1,18,164,10.9,A,5,D,26,156,16.6,A,15,158,9.4,A,public,,False
+677,2033,UNIVERSITY OF MAINE - PRESQUE ISLE                               ,ME,6,1,61,322,18.9,P,5,D,38,314,12.1,P,35,305,11.4,P,public,,False
+2626,9797,MIDLAND COLLEGE                                                  ,TX,6,1,20,108,18.5,A,3,D,13,111,11.7,A,15,105,14.2,A,public,,False
+1381,3167,UNIVERSITY OF SCIENCE & ARTS OF OKLAHOMA                         ,OK,6,1,22,251,8.7,A,5,D,28,246,11.3,A,34,249,13.6,A,public,,False
+1791,3753,VIRGINIA MILITARY INSTITUTE                                      ,VA,6,1,10,254,3.9,A,5,D,7,262,2.6,A,6,242,2.4,A,public,,False
+1384,3172,OKLAHOMA STATE UNIVERSITY INSTITUTE OF TECHNOLOGY - OKMULGEE     ,OK,6,1,141,975,14.4,A,5,D,181,1035,17.4,A,214,874,24.4,A,public,,False
+1385,3174,OKLAHOMA PANHANDLE STATE UNIVERSITY                              ,OK,6,1,54,417,12.9,A,5,D,63,463,13.6,A,35,307,11.4,A,public,,False
+1832,3801,WENATCHEE VALLEY COLLEGE                                         ,WA,6,1,137,620,22.0,A,5,D,153,695,22.0,A,156,694,22.4,A,public,,False
+3923,31913,CUNY SCHOOL OF LAW AT QUEENS COLLEGE                             ,NY,7,1,3,143,2.0,A,5,D,1,152,0.6,A,2,114,1.7,A,public,,False
+2812,11245,WEST VIRGINIA SCHOOL OF OSTEOPATHIC MEDICINE                     ,WV,7,1,1,190,0.5,P,5,D,3,208,1.4,P,2,203,0.9,P,public,,False
+2556,9333,UNIVERSITY OF ILLINOIS AT SPRINGFIELD                            ,IL,8,1,57,1233,4.6,A,5,D,66,1260,5.2,A,38,1110,3.4,A,public,,False
+2558,9344,RAMAPO COLLEGE OF NEW JERSEY                                     ,NJ,8,1,49,1450,3.3,A,5,D,58,1339,4.3,A,45,1288,3.4,A,public,,False
+2597,9635,FLORIDA INTERNATIONAL UNIVERSITY                                 ,FL,8,1,537,9255,5.8,A,3,D,498,9075,5.4,A,563,8173,6.8,A,public,,False
+2601,9651,TEXAS A&M INTERNATIONAL UNIVERSITY                               ,TX,8,1,128,1427,8.9,A,3,D,180,1540,11.6,A,147,1385,10.6,A,public,,False
+2551,9275,NORTHERN KENTUCKY UNIVERSITY                                     ,KY,8,1,332,3949,8.4,A,5,D,315,3866,8.1,A,406,4235,9.5,A,public,,False
+570,1890,UNIVERSITY OF NORTHERN IOWA                                      ,IA,8,1,108,3005,3.5,A,5,D,96,3284,2.9,A,134,3285,4.0,A,public,,False
+2612,9741,UNIVERSITY OF TEXAS AT DALLAS                                    ,TX,8,1,128,3180,4.0,P,5,D,146,3083,4.7,P,172,3054,5.6,P,public,,False
+2559,9345,STOCKTON UNIVERSITY                                              ,NJ,8,1,113,2174,5.1,A,5,D,113,2146,5.2,A,85,2066,4.1,A,public,,False
+360,1572,GEORGIA SOUTHERN UNIVERSITY                                      ,GA,8,1,361,4952,7.2,A,5,D,336,4913,6.8,A,271,4442,6.1,A,public,,False
+361,1573,GEORGIA SOUTHWESTERN STATE UNIVERSITY                            ,GA,8,1,69,931,7.4,A,5,D,65,917,7.0,A,76,858,8.8,A,public,,False
+469,1737,NORTHERN ILLINOIS UNIVERSITY                                     ,IL,8,1,466,5802,8.0,P,5,D,389,5750,6.7,P,402,5753,6.9,P,public,,False
+558,1869,IOWA STATE UNIVERSITY OF SCIENCE & TECHNOLOGY                    ,IA,8,1,170,5800,2.9,P,5,D,204,5776,3.5,P,217,5495,3.9,P,public,,False
+2213,6791,SUNY COLLEGE AT PURCHASE                                         ,NY,8,1,58,953,6.0,A,5,D,48,1028,4.6,A,49,949,5.1,A,public,,False
+517,1814,INDIANA UNIVERSITY - KOKOMO                                      ,IN,8,1,85,878,9.6,A,5,D,81,891,9.0,A,86,791,10.8,A,public,,False
+516,1813,INDIANA UNIVERSITY - PURDUE UNIVERSITY INDIANAPOLIS              ,IN,8,1,478,7980,5.9,P,5,D,460,8294,5.5,P,484,8184,5.9,P,public,,False
+2230,6895,UNIVERSITY OF NEBRASKA MEDICAL CENTER                            ,NE,8,1,9,821,1.0,P,5,D,3,859,0.3,P,6,702,0.8,P,public,,False
+515,1811,INDIANA UNIVERSITY - EAST                                        ,IN,8,1,122,1130,10.7,A,5,D,98,1032,9.4,A,123,925,13.2,A,public,,False
+514,1809,INDIANA UNIVERSITY - BLOOMINGTON                                 ,IN,8,1,244,6720,3.6,P,5,D,222,7267,3.0,P,280,7158,3.9,P,public,,False
+2238,6951,UNIVERSITY OF SOUTH CAROLINA UPSTATE                             ,SC,8,1,108,1688,6.3,A,5,D,154,1629,9.4,A,150,1719,8.7,A,public,,False
+513,1808,UNIVERSITY OF SOUTHERN INDIANA                                   ,IN,8,1,172,2526,6.8,A,5,D,149,2531,5.8,A,171,2584,6.6,A,public,,False
+2247,7022,CUNY LEHMAN COLLEGE                                              ,NY,8,1,123,1810,6.7,A,3,D,105,1610,6.5,A,83,1506,5.5,A,public,,False
+512,1807,INDIANA STATE UNIVERSITY                                         ,IN,8,1,376,3060,12.2,A,5,D,286,2953,9.6,A,268,2782,9.6,A,public,,False
+498,1786,BALL STATE UNIVERSITY                                            ,IN,8,1,266,5112,5.2,A,5,D,235,5323,4.4,A,241,4898,4.9,A,public,,False
+2256,7108,UNIVERSITY OF PUERTO RICO - RIO PIEDRAS CAMPUS                   ,PR,8,1,47,803,5.8,A,5,D,42,604,6.9,A,28,413,6.7,A,public,,False
+2257,7109,SUNY COLLEGE AT OLD WESTBURY                                     ,NY,8,1,54,1037,5.2,A,5,D,82,999,8.2,A,80,1027,7.7,A,public,,False
+493,1780,WESTERN ILLINOIS UNIVERSITY                                      ,IL,8,1,263,3452,7.6,A,5,D,251,3524,7.1,A,187,3375,5.5,A,public,,False
+490,1776,UNIVERSITY OF ILLINOIS AT CHICAGO                                ,IL,8,1,153,5587,2.7,P,5,D,162,5700,2.8,P,168,5238,3.2,P,public,,False
+489,1775,UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN                       ,IL,8,1,112,6258,1.7,P,5,D,113,6407,1.7,P,131,6080,2.1,P,public,,False
+2282,7273,CUNY BERNARD M. BARUCH COLLEGE                                   ,NY,8,1,54,1528,3.5,P,5,D,37,1456,2.5,P,57,1418,4.0,P,public,,False
+482,1759,SOUTHERN ILLINOIS UNIVERSITY EDWARDSVILLE                        ,IL,8,1,236,3450,6.8,P,5,D,270,3555,7.5,P,196,3284,5.9,P,public,,False
+481,1758,SOUTHERN ILLINOIS UNIVERSITY AT CARBONDALE                       ,IL,8,1,491,5039,9.7,P,5,D,434,5012,8.6,P,418,4996,8.3,P,public,,False
+429,1674,EASTERN ILLINOIS UNIVERSITY                                      ,IL,8,1,154,2809,5.4,A,5,D,137,2826,4.8,A,156,2836,5.5,A,public,,False
+440,1692,ILLINOIS STATE UNIVERSITY                                        ,IL,8,1,140,4529,3.0,A,5,D,131,4551,2.8,A,118,4204,2.8,A,public,,False
+441,1693,NORTHEASTERN ILLINOIS UNIVERSITY                                 ,IL,8,1,137,1981,6.9,A,3,D,132,1917,6.8,A,107,1732,6.1,A,public,,False
+442,1694,CHICAGO STATE UNIVERSITY                                         ,IL,8,1,246,2330,10.5,A,5,D,239,2343,10.2,A,327,2436,13.4,A,public,,False
+2394,7993,"CALIFORNIA STATE UNIVERSITY, BAKERSFIELD                         ",CA,8,1,143,1999,7.1,A,3,D,115,2088,5.5,A,125,1843,6.7,A,public,,False
+362,1574,GEORGIA STATE UNIVERSITY                                         ,GA,8,1,1237,13483,9.1,P,5,D,1244,13994,8.8,P,464,7632,6.0,A,public,,False
+2397,8067,LOUISIANA STATE UNIVERSITY HEALTH SCIENCES CENTER IN SHREVEPORT  ,LA,8,1,0,219,0.0,P,5,D,1,224,0.4,P,2,226,0.8,P,public,2014,False
+518,1815,INDIANA UNIVERSITY - NORTHWEST                                   ,IN,8,1,194,1671,11.6,A,5,D,228,1858,12.2,A,231,1863,12.3,A,public,,False
+2540,9226,FRANCIS MARION UNIVERSITY                                        ,SC,8,1,103,1193,8.6,P,5,D,133,1231,10.8,P,130,1198,10.8,P,public,,False
+364,1577,KENNESAW STATE UNIVERSITY                                        ,GA,8,1,553,7751,7.1,P,5,D,545,7413,7.3,P,477,6703,7.1,P,public,,False
+366,1579,AUGUSTA UNIVERSITY                                               ,GA,8,1,196,2723,7.1,P,5,D,186,2566,7.2,P,158,2399,6.5,P,public,,False
+368,1581,MIDDLE GEORGIA STATE UNIVERSITY                                  ,GA,8,1,429,2848,15.0,P,5,D,388,2843,13.6,P,427,2735,15.6,P,public,,False
+2532,9145,GOVERNORS STATE UNIVERSITY                                       ,IL,8,1,91,1760,5.1,A,5,D,54,1642,3.2,A,62,1537,4.0,A,public,,False
+2516,8976,CLAYTON STATE UNIVERSITY                                         ,GA,8,1,235,2523,9.3,P,5,D,239,2437,9.8,P,185,2291,8.0,P,public,,False
+370,1585,UNIVERSITY OF NORTH GEORGIA                                      ,GA,8,1,318,3308,9.6,P,5,D,286,2860,10.0,P,246,2621,9.3,P,public,,False
+375,1590,SAVANNAH STATE UNIVERSITY                                        ,GA,8,1,326,1629,20.0,A,2,D,253,1547,16.3,A,212,1350,15.7,A,public,,False
+381,1598,UNIVERSITY OF GEORGIA                                            ,GA,8,1,168,5421,3.0,P,5,D,125,5493,2.2,P,157,5272,2.9,P,public,,False
+382,1599,VALDOSTA STATE UNIVERSITY                                        ,GA,8,1,324,3706,8.7,A,5,D,271,3641,7.4,A,302,3486,8.6,A,public,,False
+528,1828,INDIANA UNIVERSITY - PURDUE UNIVERSITY - FT WAYNE                ,IN,8,1,300,3248,9.2,P,5,D,394,3851,10.2,P,385,3821,10.0,P,public,,False
+384,1601,UNIVERSITY OF WEST GEORGIA                                       ,GA,8,1,292,3253,8.9,A,5,D,256,3234,7.9,A,257,2895,8.8,A,public,,False
+385,1602,GEORGIA COLLEGE & STATE UNIVERSITY                               ,GA,8,1,45,1390,3.2,A,5,D,44,1353,3.2,A,42,1282,3.2,A,public,,False
+389,1610,UNIVERSITY OF HAWAII AT MANOA                                    ,HI,8,1,175,3259,5.3,P,5,D,131,3047,4.2,P,109,3078,3.5,P,public,,False
+390,1611,UNIVERSITY OF HAWAII AT HILO                                     ,HI,8,1,92,973,9.4,A,5,D,85,974,8.7,A,59,915,6.4,A,public,,False
+2430,8310,AUBURN UNIVERSITY MONTGOMERY                                     ,AL,8,1,155,1560,9.9,A,5,D,148,1776,8.3,A,198,1867,10.6,A,public,,False
+526,1825,PURDUE UNIVERSITY                                                ,IN,8,1,135,5386,2.5,P,5,D,159,5775,2.7,P,200,5798,3.4,P,public,,False
+520,1817,INDIANA UNIVERSITY SOUTHEAST                                     ,IN,8,1,151,1760,8.5,A,5,D,143,1772,8.0,A,194,1838,10.5,A,public,,False
+395,1616,BOISE STATE UNIVERSITY                                           ,ID,8,1,313,4819,6.4,A,5,D,392,5059,7.7,A,399,4769,8.3,A,public,,False
+519,1816,INDIANA UNIVERSITY - SOUTH BEND                                  ,IN,8,1,173,1952,8.8,A,5,D,205,2060,9.9,A,213,2047,10.4,A,public,,False
+398,1620,IDAHO STATE UNIVERSITY                                           ,ID,8,1,309,3668,8.4,P,5,D,361,3873,9.3,P,408,3885,10.5,P,public,,False
+2411,8155,EVERGREEN STATE COLLEGE (THE)                                    ,WA,8,1,99,1314,7.5,A,5,D,113,1316,8.5,A,102,1267,8.0,A,public,,False
+2198,6725,UNIVERSITY OF TENNESSEE HEALTH SCIENCE CENTER                    ,TN,8,1,262,5609,4.6,P,5,D,273,5689,4.7,P,306,5547,5.5,S,public,,False
+403,1626,UNIVERSITY OF IDAHO                                              ,ID,8,1,167,2797,5.9,A,5,D,184,2757,6.6,A,172,2659,6.4,A,public,,False
+527,1827,PURDUE UNIVERSITY NORTHWEST                                      ,IN,8,1,285,3085,9.2,P,5,D,204,2258,9.0,A,210,2211,9.4,A,public,,False
+994,2530,MONTANA STATE UNIVERSITY - BILLINGS                              ,MT,8,1,134,1520,8.8,A,5,D,179,1754,10.2,A,187,1700,11.0,A,public,,False
+358,1569,GEORGIA INSTITUTE OF TECHNOLOGY                                  ,GA,8,1,31,2409,1.2,P,5,D,49,2379,2.0,P,42,2455,1.7,P,public,,False
+52,1090,ARKANSAS STATE UNIVERSITY                                        ,AR,8,1,322,4475,7.1,P,5,D,463,4871,9.5,P,482,4719,10.2,P,public,,False
+3846,31013,GRANITE STATE COLLEGE                                            ,NH,8,1,104,840,12.3,A,5,D,125,856,14.6,A,69,602,11.4,A,public,,False
+54,1092,UNIVERSITY OF CENTRAL ARKANSAS                                   ,AR,8,1,232,2615,8.8,A,5,D,218,2639,8.2,A,247,2701,9.1,A,public,,False
+59,1098,HENDERSON STATE UNIVERSITY                                       ,AR,8,1,115,1099,10.4,A,5,D,147,1121,13.1,A,163,1092,14.9,A,public,,False
+62,1101,UNIVERSITY OF ARKANSAS AT LITTLE ROCK                            ,AR,8,1,339,3485,9.7,A,5,D,342,3542,9.6,A,289,3353,8.6,A,public,,False
+68,1107,SOUTHERN ARKANSAS UNIVERSITY                                     ,AR,8,1,164,916,17.9,A,5,D,152,916,16.5,A,170,943,18.0,A,public,,False
+69,1108,UNIVERSITY OF ARKANSAS                                           ,AR,8,1,261,3837,6.8,P,5,D,246,3722,6.6,P,220,3460,6.3,P,public,,False
+70,1109,UNIVERSITY OF ARKANSAS FOR MEDICAL SCIENCES                      ,AR,8,1,13,764,1.7,P,5,D,11,708,1.5,P,9,759,1.1,P,public,,False
+3715,30113,"CALIFORNIA STATE UNIVERSITY, SAN MARCOS                          ",CA,8,1,89,1991,4.4,A,5,D,94,2071,4.5,A,90,1824,4.9,A,public,,False
+85,1134,CALIFORNIA STATE UNIVERSITY MARITIME ACADEMY                     ,CA,8,1,10,213,4.6,A,5,D,8,210,3.8,A,7,181,3.8,A,public,,False
+86,1137,"CALIFORNIA STATE UNIVERSITY, FULLERTON                           ",CA,8,1,219,5835,3.7,A,5,D,233,5620,4.1,A,185,5249,3.5,A,public,,False
+87,1138,"CALIFORNIA STATE UNIVERSITY, EAST BAY                            ",CA,8,1,181,3116,5.8,A,5,D,155,2914,5.3,A,120,2576,4.6,A,public,,False
+88,1139,"CALIFORNIA STATE UNIVERSITY, LONG BEACH                          ",CA,8,1,201,6233,3.2,A,5,D,214,6145,3.4,A,208,5461,3.8,A,public,,False
+89,1140,"CALIFORNIA STATE UNIVERSITY, LOS ANGELES                         ",CA,8,1,218,3891,5.6,A,3,D,192,4020,4.7,A,211,3463,6.0,A,public,,False
+90,1141,"CALIFORNIA STATE UNIVERSITY, DOMINGUEZ HILLS                     ",CA,8,1,248,3226,7.6,A,3,D,211,3251,6.4,A,215,2784,7.7,A,public,,False
+3598,25554,UNIVERSITY OF TEXAS MD ANDERSON CANCER CENTER                    ,TX,8,1,2,90,2.2,A,5,D,2,102,1.9,A,2,81,2.4,A,public,,False
+91,1142,"CALIFORNIA STATE UNIVERSITY, SAN BERNARDINO                      ",CA,8,1,224,3891,5.7,A,3,D,223,3842,5.8,A,254,3669,6.9,A,public,,False
+92,1143,CALIFORNIA POLYTECHNIC STATE UNIVERSITY                          ,CA,8,1,43,2684,1.6,A,5,D,52,2887,1.8,A,41,2554,1.6,A,public,,False
+93,1144,"CALIFORNIA STATE POLYTECHNIC UNIVERSITY, POMONA                  ",CA,8,1,134,3562,3.7,A,5,D,100,3450,2.8,A,102,3184,3.2,A,public,,False
+94,1146,"CALIFORNIA STATE UNIVERSITY, CHICO                               ",CA,8,1,167,3081,5.4,A,5,D,120,3051,3.9,A,162,2902,5.5,A,public,,False
+95,1147,"CALIFORNIA STATE UNIVERSITY, FRESNO                              ",CA,8,1,234,3809,6.1,P,3,D,181,3712,4.8,P,150,3463,4.3,P,public,,False
+96,1149,HUMBOLDT STATE UNIVERSITY                                        ,CA,8,1,138,1907,7.2,A,5,D,129,1902,6.7,A,164,1773,9.2,A,public,,False
+97,1150,CALIFORNIA STATE UNIVERSITY - SACRAMENTO                         ,CA,8,1,304,5844,5.2,A,5,D,309,5731,5.3,A,298,5071,5.8,A,public,,False
+98,1151,SAN DIEGO STATE UNIVERSITY                                       ,CA,8,1,197,5471,3.6,P,5,D,188,5447,3.4,P,195,5393,3.6,P,public,,False
+99,1153,"CALIFORNIA STATE UNIVERSITY, NORTHRIDGE                          ",CA,8,1,372,7110,5.2,P,3,D,371,6921,5.3,P,338,6467,5.2,P,public,,False
+3508,24600,UNIVERSITY OF PUERTO RICO - MEDICAL SCIENCE CAMPUS               ,PR,8,1,13,398,3.2,P,5,D,16,408,3.9,P,10,344,2.9,P,public,,False
+3507,24544,NORTHEAST OHIO MEDICAL UNIVERSITY                                ,OH,8,1,0,202,0.0,A,5,D,0,209,0.0,A,1,215,0.4,A,public,2014 2013,False
+51,1089,ARKANSAS TECH UNIVERSITY                                         ,AR,8,1,268,2755,9.7,P,5,D,351,2579,13.6,P,404,2351,17.1,P,public,,False
+48,1086,UNIVERSITY OF ARKANSAS AT PINE BLUFF                             ,AR,8,1,185,1036,17.8,A,2,D,321,1245,25.7,A,294,1189,24.7,A,public,,False
+47,1085,UNIVERSITY OF ARKANSAS AT MONTICELLO                             ,AR,8,1,244,1248,19.5,P,5,D,339,1432,23.6,P,320,1284,24.9,P,public,,False
+46,1083,UNIVERSITY OF ARIZONA (THE)                                      ,AZ,8,1,449,6686,6.7,P,5,D,346,6122,5.6,P,384,6390,6.0,P,public,,False
+4704,42485,TEXAS A&M UNIVERSITY-SAN ANTONIO                                 ,TX,8,1,324,3147,10.2,P,5,D,312,2883,10.8,P,330,2581,12.7,S,public,,False
+4703,42439,UNIVERSITY OF TEXAS HEALTH SCIENCE CENTER AT TYLER (THE)         ,TX,8,1,306,3418,8.9,P,5,D,392,3410,11.4,P,378,3397,11.1,P,public,,False
+4702,42421,UNIVERSITY OF NORTH TEXAS AT DALLAS                              ,TX,8,1,576,8562,6.7,P,5,D,691,8740,7.9,P,652,8571,7.6,P,public,,False
+4700,42295,TEXAS A&M UNIVERSITY - CENTRAL TEXAS                             ,TX,8,1,481,5815,8.2,B,5,D,276,3148,8.7,P,205,2665,7.6,P,public,,False
+2,1004,UNIVERSITY OF MONTEVALLO                                         ,AL,8,1,64,793,8.0,A,5,D,57,744,7.6,A,83,805,10.3,A,public,,False
+4685,42087,COLORADO STATE UNIVERSITY - GLOBAL CAMPUS                        ,CO,8,1,106,1983,5.3,A,5,D,32,828,3.8,A,423,8662,4.8,B,public,,False
+3,1005,ALABAMA STATE UNIVERSITY                                         ,AL,8,1,471,2419,19.4,P,2,D,367,2196,16.7,P,334,2137,15.6,P,public,,False
+5,1008,ATHENS STATE UNIVERSITY                                          ,AL,8,1,49,901,5.4,A,5,D,51,959,5.3,A,80,929,8.6,A,public,,False
+6,1009,AUBURN UNIVERSITY                                                ,AL,8,1,139,3676,3.7,P,5,D,160,3727,4.2,P,170,3772,4.5,P,public,,False
+10,1016,UNIVERSITY OF NORTH ALABAMA                                      ,AL,8,1,176,1539,11.4,A,5,D,160,1564,10.2,A,171,1532,11.1,A,public,,False
+12,1020,JACKSONVILLE STATE UNIVERSITY                                    ,AL,8,1,272,2393,11.3,A,5,D,316,2708,11.6,A,253,2631,9.6,A,public,,False
+15,1024,UNIVERSITY OF WEST ALABAMA                                       ,AL,8,1,181,2124,8.5,A,5,D,203,2331,8.7,A,174,2220,7.8,A,public,,False
+4346,41271,"UNIVERSITY OF CALIFORNIA, MERCED                                 ",CA,8,1,30,955,3.1,A,5,D,29,788,3.6,A,28,536,5.2,A,public,,False
+100,1154,SAN FRANCISCO STATE UNIVERSITY                                   ,CA,8,1,316,5859,5.3,A,5,D,232,5664,4.0,A,317,5506,5.7,A,public,,False
+27,1047,TROY UNIVERSITY                                                  ,AL,8,1,840,7314,11.4,P,5,D,900,8222,10.9,P,996,8713,11.4,P,public,,False
+4239,39803,CALIFORNIA STATE UNIVERSITY CHANNEL ISLANDS                      ,CA,8,1,37,1036,3.5,A,5,D,43,968,4.4,A,33,799,4.1,A,public,,False
+4222,39574,NEW COLLEGE OF FLORIDA                                           ,FL,8,1,5,154,3.2,A,5,D,4,141,2.8,A,6,111,5.4,A,public,,False
+30,1052,UNIVERSITY OF ALABAMA AT BIRMINGHAM                              ,AL,8,1,241,4224,5.7,P,5,D,223,4159,5.3,P,245,3937,6.2,P,public,,False
+31,1055,UNIVERSITY OF ALABAMA IN HUNTSVILLE                              ,AL,8,1,82,1511,5.4,A,5,D,77,1464,5.2,A,93,1513,6.1,A,public,,False
+32,1057,UNIVERSITY OF SOUTH ALABAMA                                      ,AL,8,1,311,3809,8.1,P,5,D,284,3625,7.8,P,289,3847,7.5,P,public,,False
+35,1063,UNIVERSITY OF ALASKA FAIRBANKS                                   ,AK,8,1,162,1304,12.4,P,5,D,164,1359,12.0,P,162,1287,12.5,P,public,,False
+36,1065,UNIVERSITY OF ALASKA SOUTHEAST                                   ,AK,8,1,42,446,9.4,P,5,D,34,438,7.7,P,54,465,11.6,P,public,,False
+3943,32603,"CALIFORNIA STATE UNIVERSITY, MONTEREY BAY                        ",CA,8,1,79,1451,5.4,A,3,D,47,1297,3.6,A,55,1092,5.0,A,public,,False
+3942,32553,FLORIDA GULF COAST UNIVERSITY                                    ,FL,8,1,112,2309,4.8,A,5,D,142,2210,6.4,A,88,1888,4.6,A,public,,False
+3932,32343,CHARTER OAK STATE COLLEGE                                        ,CT,8,1,22,372,5.9,A,5,D,19,361,5.2,A,14,320,4.3,A,public,,False
+3914,31703,TEXAS A & M UNIVERSITY - TEXARKANA                               ,TX,8,1,40,411,9.7,A,5,D,35,444,7.8,A,30,357,8.4,A,public,,False
+44,1081,ARIZONA STATE UNIVERSITY                                         ,AZ,8,1,1175,17420,6.7,A,5,D,1131,16222,6.9,A,1096,14964,7.3,A,public,,False
+45,1082,NORTHERN ARIZONA UNIVERSITY                                      ,AZ,8,1,509,6999,7.2,A,5,D,450,6708,6.7,A,463,6336,7.3,A,public,,False
+29,1051,UNIVERSITY OF ALABAMA                                            ,AL,8,1,312,5433,5.7,P,5,D,275,5325,5.1,P,317,5023,6.3,P,public,,False
+2617,9756,UNIVERSITY OF MASSACHUSETTS MEDICAL CENTER                       ,MA,8,1,2,153,1.3,A,5,D,2,176,1.1,A,1,149,0.6,A,public,,False
+101,1155,SAN JOSE STATE UNIVERSITY                                        ,CA,8,1,183,5216,3.5,A,5,D,195,5158,3.7,A,144,4566,3.1,A,public,,False
+103,1157,"CALIFORNIA STATE UNIVERSITY, STANISLAUS                          ",CA,8,1,113,1993,5.6,A,3,D,87,1921,4.5,A,100,1768,5.6,A,public,,False
+2830,11644,UNIVERSITY OF MARYLAND UNIVERSITY COLLEGE                        ,MD,8,1,704,10020,7.0,P,5,D,647,9869,6.5,P,837,10191,8.2,P,public,,False
+2816,11462,UNIVERSITY OF ALASKA ANCHORAGE                                   ,AK,8,1,400,3046,13.1,A,5,D,354,2990,11.8,A,360,2888,12.4,A,public,,False
+2813,11282,OKLAHOMA STATE UNIVERSITY CENTER FOR HEALTH SCIENCES             ,OK,8,1,4,112,3.5,P,5,D,0,101,0.0,P,0,92,0.0,P,public,2013 2012,False
+572,1892,UNIVERSITY OF IOWA                                               ,IA,8,1,148,5390,2.7,P,5,D,150,5367,2.7,P,175,5366,3.2,P,public,,False
+2806,11163,UNIVERSITY OF TEXAS AT TYLER                                     ,TX,8,1,113,1793,6.3,A,5,D,118,1737,6.7,A,140,1654,8.4,A,public,,False
+2805,11161,TEXAS A&M UNIVERSITY - CORPUS CHRISTI                            ,TX,8,1,233,2554,9.1,P,3,D,253,2555,9.9,P,207,2361,8.7,P,public,,False
+299,1480,FLORIDA AGRICULTURAL & MECHANICAL UNIVERSITY                     ,FL,8,1,475,3742,12.6,A,2,D,494,3593,13.7,A,518,3506,14.7,A,public,,False
+300,1481,FLORIDA ATLANTIC UNIVERSITY                                      ,FL,8,1,369,5829,6.3,A,5,D,294,5615,5.2,A,312,5029,6.2,A,public,,False
+307,1489,FLORIDA STATE UNIVERSITY                                         ,FL,8,1,378,7750,4.8,A,5,D,333,7547,4.4,A,371,7309,5.0,A,public,,False
+2768,10819,CONSERVATORIO DE MUSICA DE PUERTO RICO                           ,PR,8,1,9,47,19.1,A,3,D,7,63,11.1,A,8,57,14.0,A,public,,False
+2750,10674,TEXAS TECH UNIVERSITY HEALTH SCIENCES CENTER                     ,TX,8,1,14,1327,1.0,P,5,D,19,1251,1.5,P,21,1118,1.8,P,public,,False
+2711,10374,METROPOLITAN STATE UNIVERSITY                                    ,MN,8,1,149,2716,5.4,A,5,D,143,2498,5.7,A,140,2344,5.9,A,public,,False
+2704,10338,EASTERN VIRGINIA MEDICAL SCHOOL                                  ,VA,8,1,2,257,0.7,A,5,D,1,279,0.3,A,0,250,0.0,A,public,2012,False
+2701,10286,SUNY EMPIRE STATE COLLEGE                                        ,NY,8,1,256,3678,6.9,A,5,D,203,3591,5.6,A,232,3568,6.5,A,public,,False
+2675,10115,UNIVERSITY OF TEXAS AT SAN ANTONIO                               ,TX,8,1,441,7506,5.8,A,3,D,551,7606,7.2,A,658,7607,8.6,A,public,,False
+334,1535,UNIVERSITY OF FLORIDA                                            ,FL,8,1,185,6965,2.6,P,5,D,151,7089,2.1,P,206,6808,3.0,P,public,,False
+336,1537,UNIVERSITY OF SOUTH FLORIDA                                      ,FL,8,1,509,10105,5.0,P,5,D,523,10013,5.2,P,519,9689,5.3,P,public,,False
+2661,10019,UNIVERSITY OF TEXAS SOUTHWESTERN MEDICAL CENTER (THE)            ,TX,8,1,3,374,0.8,P,5,D,3,377,0.7,P,6,356,1.6,P,public,,False
+342,1544,ALBANY STATE UNIVERSITY                                          ,GA,8,1,180,1553,11.5,A,2,D,221,1832,12.0,A,234,1733,13.5,A,public,,False
+344,1546,ARMSTRONG STATE UNIVERSITY                                       ,GA,8,1,197,2149,9.1,A,5,D,144,2118,6.7,A,168,2051,8.1,A,public,,False
+2650,9942,SHAWNEE STATE UNIVERSITY                                         ,OH,8,1,357,1761,20.2,A,5,D,376,1967,19.1,A,425,1957,21.7,A,public,,False
+353,1561,COLUMBUS STATE UNIVERSITY                                        ,GA,8,1,178,2322,7.6,A,5,D,196,2396,8.1,A,189,2148,8.7,A,public,,False
+2647,9930,UNIVERSITY OF TEXAS OF THE PERMIAN BASIN                         ,TX,8,1,59,779,7.5,A,3,D,86,792,10.8,A,64,786,8.1,A,public,,False
+2646,9929,SUNY COLLEGE OF OPTOMETRY                                        ,NY,8,1,0,77,0.0,P,5,D,0,68,0.0,P,0,67,0.0,P,public,ALL,False
+356,1566,FORT VALLEY STATE UNIVERSITY                                     ,GA,8,1,224,1403,15.9,A,2,D,260,1557,16.6,A,284,1402,20.2,A,public,,False
+2632,9841,UNIVERSITY OF NORTH FLORIDA                                      ,FL,8,1,200,3392,5.8,A,5,D,195,3300,5.9,A,142,3001,4.7,A,public,,False
+2622,9768,UNIVERSITY OF NORTH TEXAS HEALTH SCIENCE CENTER AT FORT WORTH    ,TX,8,1,2,453,0.4,P,5,D,6,380,1.5,P,4,339,1.1,P,public,,False
+2835,11678,STATE UNIVERSITY OF NEW YORK POLYTECHNIC INSTITUTE               ,NY,8,1,19,640,2.9,P,5,D,23,649,3.5,P,34,734,4.6,P,public,,False
+2839,11711,UNIVERSITY OF HOUSTON - CLEAR LAKE                               ,TX,8,1,51,1684,3.0,A,5,D,102,1657,6.1,A,120,1618,7.4,A,public,,False
+280,1441,UNIVERSITY OF THE DISTRICT OF COLUMBIA                           ,DC,8,1,204,1251,16.3,P,2,D,185,1185,15.6,P,157,1071,14.6,P,public,,False
+275,1431,UNIVERSITY OF DELAWARE                                           ,DE,8,1,77,3368,2.2,A,5,D,62,3128,1.9,A,76,3052,2.4,A,public,,False
+3222,21922,THOMAS EDISON STATE UNIVERSITY                                   ,NJ,8,1,133,2073,6.4,A,5,D,99,1945,5.0,A,98,1581,6.1,A,public,,False
+3136,21464,INSTITUTE OF AMERICAN INDIAN & ALASKA NATIVE CULTURE & ARTSDEVELO,NM,8,1,18,74,24.3,B,1,D,27,99,27.2,B,11,44,25.0,A,public,,False
+206,1312,"UNIVERSITY OF CALIFORNIA, BERKELEY                               ",CA,8,1,107,5019,2.1,P,5,D,103,5124,2.0,P,157,5273,2.9,P,public,,False
+207,1313,"UNIVERSITY OF CALIFORNIA, DAVIS                                  ",CA,8,1,124,5566,2.2,P,5,D,150,5687,2.6,P,154,5610,2.7,P,public,,False
+208,1314,"UNIVERSITY OF CALIFORNIA, IRVINE                                 ",CA,8,1,82,4548,1.8,A,5,D,95,4573,2.0,A,102,4346,2.3,A,public,,False
+209,1315,"UNIVERSITY OF CALIFORNIA, LOS ANGELES                            ",CA,8,1,145,6880,2.1,P,5,D,140,6908,2.0,P,105,6615,1.5,P,public,,False
+210,1316,"UNIVERSITY OF CALIFORNIA, RIVERSIDE                              ",CA,8,1,130,4310,3.0,A,5,D,117,4161,2.8,A,161,3733,4.3,A,public,,False
+211,1317,"UNIVERSITY OF CALIFORNIA, SAN DIEGO                              ",CA,8,1,118,5436,2.1,P,5,D,116,5740,2.0,P,129,5112,2.5,P,public,,False
+212,1319,"UNIVERSITY OF CALIFORNIA, SAN FRANCISCO                          ",CA,8,1,4,565,0.7,P,5,D,4,691,0.5,P,5,695,0.7,P,public,,False
+213,1320,"UNIVERSITY OF CALIFORNIA, SANTA BARBARA                          ",CA,8,1,86,3799,2.2,A,5,D,91,3817,2.3,A,148,3681,4.0,A,public,,False
+214,1321,"UNIVERSITY OF CALIFORNIA, SANTA CRUZ                             ",CA,8,1,103,3256,3.1,A,5,D,111,3541,3.1,A,109,3125,3.4,A,public,,False
+228,1345,ADAMS STATE UNIVERSITY                                           ,CO,8,1,123,1132,10.8,A,3,D,150,1153,13.0,A,111,1183,9.3,A,public,,False
+231,1348,COLORADO SCHOOL OF MINES                                         ,CO,8,1,7,861,0.8,A,5,D,17,799,2.1,A,6,683,0.8,A,public,,False
+102,1156,SONOMA STATE UNIVERSITY                                          ,CA,8,1,56,1747,3.2,A,5,D,63,1594,3.9,A,56,1561,3.5,A,public,,False
+232,1349,UNIVERSITY OF NORTHERN COLORADO                                  ,CO,8,1,168,3292,5.1,A,5,D,162,3105,5.2,A,152,3069,4.9,A,public,,False
+235,1353,FORT LEWIS COLLEGE                                               ,CO,8,1,98,973,10.0,A,5,D,82,890,9.2,A,77,915,8.4,A,public,,False
+238,1358,COLORADO MESA UNIVERSITY                                         ,CO,8,1,388,2827,13.7,A,5,D,344,2671,12.8,A,355,2469,14.3,A,public,,False
+240,1360,METROPOLITAN STATE UNIVERSITY OF DENVER                          ,CO,8,1,655,6690,9.7,A,5,D,678,6821,9.9,A,668,6573,10.1,A,public,,False
+2974,13231,UNIVERSITY OF HOUSTON - VICTORIA                                 ,TX,8,1,65,1203,5.4,A,5,D,72,1163,6.1,A,58,985,5.8,A,public,,False
+244,1365,COLORADO STATE UNIVERSITY-PUEBLO                                 ,CO,8,1,174,2105,8.2,A,5,D,231,2572,8.9,A,200,2185,9.1,A,public,,False
+246,1370,UNIVERSITY OF COLORADO BOULDER                                   ,CO,8,1,148,4676,3.1,P,5,D,149,4805,3.1,P,133,4774,2.7,P,public,,False
+248,1372,WESTERN STATE COLORADO UNIVERSITY                                ,CO,8,1,37,550,6.7,A,5,D,32,563,5.6,A,31,555,5.5,A,public,,False
+250,1378,CENTRAL CONNECTICUT STATE UNIVERSITY                             ,CT,8,1,171,2795,6.1,A,5,D,136,2767,4.9,A,108,2664,4.0,A,public,,False
+252,1380,WESTERN CONNECTICUT STATE UNIVERSITY                             ,CT,8,1,92,1442,6.3,A,5,D,109,1523,7.1,A,99,1443,6.8,A,public,,False
+264,1406,SOUTHERN CONNECTICUT STATE UNIVERSITY                            ,CT,8,1,176,3009,5.8,A,5,D,179,3079,5.8,A,126,3112,4.0,A,public,,False
+268,1417,UNIVERSITY OF CONNECTICUT                                        ,CT,8,1,141,5800,2.4,P,5,D,125,5589,2.2,P,148,5394,2.7,P,public,,False
+271,1425,EASTERN CONNECTICUT STATE UNIVERSITY                             ,CT,8,1,82,1507,5.4,A,5,D,82,1532,5.3,A,59,1388,4.2,A,public,,False
+273,1428,DELAWARE STATE UNIVERSITY                                        ,DE,8,1,164,1259,13.0,A,2,D,180,1246,14.4,A,142,1184,11.9,A,public,,False
+233,1350,COLORADO STATE UNIVERSITY                                        ,CO,8,1,164,5715,2.8,P,5,D,138,5601,2.4,P,151,5306,2.8,P,public,,False
+590,1915,FORT HAYS STATE UNIVERSITY                                       ,KS,8,1,201,2669,7.5,A,5,D,185,2564,7.2,A,147,2266,6.4,A,public,,False
+684,2044,MAINE MARITIME ACADEMY                                           ,ME,8,1,9,250,3.6,A,5,D,15,231,6.4,A,11,262,4.1,A,public,,False
+601,1927,EMPORIA STATE UNIVERSITY                                         ,KS,8,1,110,1514,7.2,A,5,D,93,1525,6.0,A,114,1622,7.0,A,public,,False
+929,2424,MISSISSIPPI VALLEY STATE UNIVERSITY                              ,MS,8,1,169,1020,16.5,A,2,D,179,988,18.1,A,174,1060,16.4,A,public,,False
+1377,3163,NORTHWESTERN OKLAHOMA STATE UNIVERSITY                           ,OK,8,1,86,589,14.6,A,5,D,63,472,13.3,A,74,550,13.4,A,public,,False
+1382,3168,ROGERS STATE UNIVERSITY                                          ,OK,8,1,179,1410,12.6,A,5,D,143,1293,11.0,A,161,1194,13.4,A,public,,False
+1383,3170,OKLAHOMA STATE UNIVERSITY                                        ,OK,8,1,237,4164,5.6,P,5,D,223,4172,5.3,P,257,4101,6.2,P,public,,False
+928,2423,MISSISSIPPI STATE UNIVERSITY                                     ,MS,8,1,305,4051,7.5,A,5,D,338,4098,8.2,A,285,3595,7.9,A,public,,False
+927,2422,MISSISSIPPI UNIVERSITY FOR WOMEN                                 ,MS,8,1,77,993,7.7,A,5,D,72,951,7.5,A,66,878,7.5,A,public,,False
+1388,3179,SOUTHEASTERN OKLAHOMA STATE UNIVERSITY                           ,OK,8,1,114,956,11.9,A,5,D,126,1017,12.3,A,156,929,16.7,A,public,,False
+1390,3181,SOUTHWESTERN OKLAHOMA STATE UNIVERSITY                           ,OK,8,1,142,1184,11.9,P,5,D,165,1297,12.7,P,216,1351,15.9,P,public,,False
+1392,3184,UNIVERSITY OF OKLAHOMA                                           ,OK,8,1,248,5710,4.3,P,5,D,262,5670,4.6,P,223,5795,3.8,P,public,,False
+1398,3193,EASTERN OREGON UNIVERSITY                                        ,OR,8,1,140,1388,10.0,A,5,D,121,1342,9.0,A,101,1259,8.0,A,public,,False
+1408,3209,WESTERN OREGON UNIVERSITY                                        ,OR,8,1,111,1661,6.6,A,5,D,124,1714,7.2,A,108,1514,7.1,A,public,,False
+1409,3210,OREGON STATE UNIVERSITY                                          ,OR,8,1,217,5582,3.8,P,5,D,189,5176,3.6,P,187,4678,3.9,P,public,,False
+1410,3211,OREGON INSTITUTE OF TECHNOLOGY                                   ,OR,8,1,34,922,3.6,A,5,D,44,865,5.0,A,24,795,3.0,A,public,,False
+1413,3216,PORTLAND STATE UNIVERSITY                                        ,OR,8,1,481,7494,6.4,P,5,D,416,7520,5.5,P,355,6924,5.1,P,public,,False
+1416,3219,SOUTHERN OREGON UNIVERSITY                                       ,OR,8,1,110,1530,7.1,A,5,D,101,1501,6.7,A,91,1412,6.4,A,public,,False
+1420,3223,UNIVERSITY OF OREGON                                             ,OR,8,1,171,4421,3.8,P,5,D,139,4517,3.0,P,187,4039,4.6,P,public,,False
+1459,3277,INDIANA UNIVERSITY OF PENNSYLVANIA                               ,PA,8,1,315,4298,7.3,P,5,D,333,4299,7.7,P,370,4159,8.8,P,public,,False
+1375,3161,NORTHEASTERN STATE UNIVERSITY                                    ,OK,8,1,210,2401,8.7,A,5,D,253,2487,10.1,A,349,2504,13.9,A,public,,False
+1470,3290,LINCOLN UNIVERSITY                                               ,PA,8,1,117,826,14.1,A,2,D,160,947,16.8,A,180,916,19.6,A,public,,False
+935,2440,UNIVERSITY OF MISSISSIPPI                                        ,MS,8,1,355,3999,8.8,P,5,D,298,3907,7.6,P,296,3677,8.0,P,public,,False
+1372,3157,LANGSTON UNIVERSITY                                              ,OK,8,1,189,1004,18.8,A,2,D,218,1170,18.6,A,255,1107,23.0,A,public,,False
+1297,3008,VALLEY CITY STATE UNIVERSITY                                     ,ND,8,1,21,303,6.9,A,5,D,25,326,7.6,A,25,331,7.5,A,public,,False
+1303,3018,BOWLING GREEN STATE UNIVERSITY                                   ,OH,8,1,504,5234,9.6,P,5,D,461,5404,8.5,P,505,5247,9.6,P,public,,False
+1307,3026,CENTRAL STATE UNIVERSITY                                         ,OH,8,1,258,937,27.5,A,2,D,331,1126,29.3,A,297,993,29.9,A,public,,False
+1311,3032,CLEVELAND STATE UNIVERSITY                                       ,OH,8,1,382,4931,7.7,P,5,D,365,4793,7.6,P,390,4718,8.2,P,public,,False
+1326,3051,KENT STATE UNIVERSITY                                            ,OH,8,1,1319,11558,11.4,P,5,D,1311,11839,11.0,P,1404,11704,11.9,P,public,,False
+1334,3077,MIAMI UNIVERSITY                                                 ,OH,8,1,454,4282,10.6,A,5,D,408,4387,9.3,A,545,4554,11.9,A,public,,False
+1335,3078,WRIGHT STATE UNIVERSITY                                          ,OH,8,1,455,4836,9.4,P,5,D,430,5331,8.0,P,524,5458,9.6,P,public,,False
+1341,3090,OHIO STATE UNIVERSITY (THE)                                      ,OH,8,1,594,12058,4.9,P,5,D,621,12416,5.0,P,660,12757,5.1,P,public,,False
+1342,3100,OHIO UNIVERSITY                                                  ,OH,8,1,945,9684,9.7,P,5,D,788,8956,8.7,P,1042,9311,11.1,P,public,,False
+1350,3123,UNIVERSITY OF AKRON (THE)                                        ,OH,8,1,1054,7852,13.4,P,5,D,1122,8477,13.2,P,1062,8379,12.6,P,public,,False
+1351,3125,UNIVERSITY OF CINCINNATI                                         ,OH,8,1,874,10765,8.1,P,5,D,777,10187,7.6,P,795,9848,8.0,P,public,,False
+1353,3131,UNIVERSITY OF TOLEDO                                             ,OH,8,1,611,6004,10.1,P,5,D,628,6349,9.8,P,714,6654,10.7,P,public,,False
+1361,3145,YOUNGSTOWN STATE UNIVERSITY                                      ,OH,8,1,607,4060,14.9,A,5,D,772,4605,16.7,A,981,5081,19.3,A,public,,False
+1365,3150,CAMERON UNIVERSITY                                               ,OK,8,1,212,1436,14.7,A,5,D,254,1509,16.8,A,238,1336,17.8,A,public,,False
+1367,3152,UNIVERSITY OF CENTRAL OKLAHOMA                                   ,OK,8,1,330,3529,9.3,A,5,D,357,3553,10.0,A,308,3503,8.7,A,public,,False
+1369,3154,EAST CENTRAL UNIVERSITY                                          ,OK,8,1,147,1190,12.3,A,5,D,173,1256,13.7,A,190,1237,15.3,A,public,,False
+941,2454,UNIVERSITY OF CENTRAL MISSOURI                                   ,MO,8,1,306,3266,9.3,P,5,D,268,3075,8.7,P,253,2867,8.8,P,public,,False
+936,2441,UNIVERSITY OF SOUTHERN MISSISSIPPI                               ,MS,8,1,519,4558,11.3,P,5,D,529,4697,11.2,P,511,4643,11.0,P,public,,False
+1487,3315,BLOOMSBURG UNIVERSITY OF PENNSYLVANIA                            ,PA,8,1,160,2431,6.5,A,5,D,153,2557,5.9,A,110,2210,4.9,A,public,,False
+1488,3316,CALIFORNIA UNIVERSITY OF PENNSYLVANIA                            ,PA,8,1,230,3137,7.3,A,5,D,209,3349,6.2,A,246,3298,7.4,A,public,,False
+1489,3317,CHEYNEY UNIVERSITY OF PENNSYLVANIA                               ,PA,8,1,183,613,29.8,A,2,D,167,617,27.0,A,153,570,26.8,A,public,,False
+1570,3449,UNIVERSITY OF SOUTH CAROLINA - AIKEN                             ,SC,8,1,59,883,6.6,A,5,D,60,861,6.9,A,54,890,6.0,A,public,,False
+1572,3451,COASTAL CAROLINA UNIVERSITY                                      ,SC,8,1,181,2688,6.7,A,5,D,248,2644,9.3,A,213,2310,9.2,A,public,,False
+1576,3456,WINTHROP UNIVERSITY                                              ,SC,8,1,98,1601,6.1,A,5,D,100,1554,6.4,A,97,1575,6.1,A,public,,False
+1579,3459,BLACK HILLS STATE UNIVERSITY                                     ,SD,8,1,109,1282,8.5,A,5,D,117,1232,9.4,A,99,1235,8.0,A,public,,False
+1581,3463,DAKOTA STATE UNIVERSITY                                          ,SD,8,1,53,696,7.6,A,5,D,35,614,5.7,A,37,664,5.5,A,public,,False
+1583,3466,NORTHERN STATE UNIVERSITY                                        ,SD,8,1,62,662,9.3,A,5,D,67,637,10.5,A,65,678,9.5,A,public,,False
+1586,3470,SOUTH DAKOTA SCHOOL OF MINES & TECHNOLOGY                        ,SD,8,1,19,435,4.3,A,5,D,21,446,4.7,A,21,428,4.9,A,public,,False
+1587,3471,SOUTH DAKOTA STATE UNIVERSITY                                    ,SD,8,1,154,3179,4.8,P,5,D,132,3253,4.0,P,150,3259,4.6,P,public,,False
+1588,3474,UNIVERSITY OF SOUTH DAKOTA                                       ,SD,8,1,133,2473,5.3,P,5,D,133,2651,5.0,P,172,2617,6.5,P,public,,False
+1590,3478,AUSTIN PEAY STATE UNIVERSITY                                     ,TN,8,1,382,3222,11.8,A,5,D,404,3297,12.2,A,368,3242,11.3,A,public,,False
+1599,3487,EAST TENNESSEE STATE UNIVERSITY                                  ,TN,8,1,354,3738,9.4,P,5,D,406,3636,11.1,P,397,3409,11.6,P,public,,False
+1613,3509,UNIVERSITY OF MEMPHIS (THE)                                      ,TN,8,1,566,5984,9.4,A,5,D,549,6112,8.9,A,573,5816,9.8,A,public,,False
+1614,3510,MIDDLE TENNESSEE STATE UNIVERSITY                                ,TN,8,1,745,6818,10.9,A,5,D,675,7019,9.6,A,628,6693,9.3,A,public,,False
+1619,3522,TENNESSEE STATE UNIVERSITY                                       ,TN,8,1,448,3317,13.5,P,2,D,433,3393,12.7,P,366,3026,12.0,P,public,,False
+1620,3523,TENNESSEE TECHNOLOGICAL UNIVERSITY                               ,TN,8,1,130,2450,5.3,A,5,D,151,2447,6.1,A,184,2327,7.9,A,public,,False
+1625,3529,UNIVERSITY OF TENNESSEE - CHATTANOOGA                            ,TN,8,1,158,2529,6.2,P,5,D,187,2549,7.3,P,161,2324,6.9,P,public,,False
+1626,3530,UNIVERSITY OF TENNESSEE                                          ,TN,8,1,262,5609,4.6,P,5,D,273,5689,4.7,P,306,5547,5.5,P,public,,False
+1569,3448,UNIVERSITY OF SOUTH CAROLINA - COLUMBIA                          ,SC,8,1,182,5783,3.1,P,5,D,267,5866,4.5,P,241,5851,4.1,P,public,,False
+1567,3446,SOUTH CAROLINA STATE UNIVERSITY                                  ,SC,8,1,222,1438,15.4,A,2,D,275,1617,17.0,A,311,1607,19.3,A,public,,False
+1562,3438,MEDICAL UNIVERSITY OF SOUTH CAROLINA                             ,SC,8,1,3,743,0.4,P,5,D,6,707,0.8,P,8,751,1.0,P,public,,False
+1560,3435,LANDER UNIVERSITY                                                ,SC,8,1,85,895,9.4,A,5,D,90,912,9.8,A,87,802,10.8,A,public,,False
+1490,3318,CLARION UNIVERSITY OF PENNSYLVANIA                               ,PA,8,1,140,1882,7.4,P,5,D,185,2108,8.7,P,149,1958,7.6,P,public,,False
+1491,3320,EAST STROUDSBURG UNIVERSITY OF PENNSYLVANIA                      ,PA,8,1,171,1962,8.7,A,5,D,127,1980,6.4,A,97,1833,5.2,A,public,,False
+1492,3321,EDINBORO UNIVERSITY OF PENNSYLVANIA                              ,PA,8,1,222,2389,9.2,A,5,D,252,2591,9.7,A,265,2770,9.5,A,public,,False
+1493,3322,KUTZTOWN UNIVERSITY OF PENNSYLVANIA                              ,PA,8,1,172,2735,6.2,A,5,D,183,2868,6.3,A,164,2903,5.6,A,public,,False
+1494,3323,LOCK HAVEN UNIVERSITY OF PENNSYLVANIA                            ,PA,8,1,127,1597,7.9,A,5,D,120,1706,7.0,A,116,1674,6.9,A,public,,False
+1495,3324,MANSFIELD UNIVERSITY OF PENNSYLVANIA                             ,PA,8,1,91,999,9.1,A,5,D,96,1068,8.9,A,94,1166,8.0,A,public,,False
+1496,3325,MILLERSVILLE UNIVERSITY OF PENNSYLVANIA                          ,PA,8,1,158,2352,6.7,A,5,D,126,2417,5.2,A,134,2292,5.8,A,public,,False
+1497,3326,SHIPPENSBURG UNIVERSITY OF PENNSYLVANIA                          ,PA,8,1,117,2145,5.4,A,5,D,115,2170,5.2,A,124,2281,5.4,A,public,,False
+1295,3005,UNIVERSITY OF NORTH DAKOTA                                       ,ND,8,1,120,3307,3.6,A,5,D,143,3308,4.3,A,115,3196,3.5,A,public,,False
+1498,3327,SLIPPERY ROCK UNIVERSITY                                         ,PA,8,1,135,2495,5.4,A,5,D,122,2465,4.9,A,107,2417,4.4,A,public,,False
+1500,3329,PENNSYLVANIA STATE UNIVERSITY (THE)                              ,PA,8,1,1010,19272,5.2,P,5,D,940,19178,4.9,P,1106,19403,5.7,P,public,,False
+1520,3379,UNIVERSITY OF PITTSBURGH - PITTSBURGH                            ,PA,8,1,298,7765,3.8,P,5,D,307,7991,3.8,P,395,9041,4.3,P,public,,False
+1530,3395,PENNSYLVANIA COLLEGE OF TECHNOLOGY                               ,PA,8,1,241,2088,11.5,A,5,D,218,2232,9.7,A,298,2473,12.0,A,public,,False
+1537,3407,RHODE ISLAND COLLEGE                                             ,RI,8,1,164,2078,7.8,A,5,D,128,1941,6.5,A,126,1951,6.4,A,public,,False
+1542,3414,UNIVERSITY OF RHODE ISLAND                                       ,RI,8,1,182,3464,5.2,P,5,D,134,3271,4.0,P,167,3185,5.2,P,public,,False
+1549,3423,"CITADEL, THE MILITARY COLLEGE OF SOUTH CAROLINA                  ",SC,8,1,30,717,4.1,A,5,D,23,755,3.0,A,28,821,3.4,A,public,,False
+1551,3425,CLEMSON UNIVERSITY                                               ,SC,8,1,103,3192,3.2,A,5,D,89,3008,2.9,A,82,2929,2.7,A,public,,False
+1554,3428,COLLEGE OF CHARLESTON                                            ,SC,8,1,52,1989,2.6,A,5,D,99,2010,4.9,A,83,1960,4.2,A,public,,False
+1499,3328,WEST CHESTER UNIVERSITY OF PENNSYLVANIA                          ,PA,8,1,148,3583,4.1,A,5,D,175,3242,5.3,A,123,3208,3.8,A,public,,False
+1294,2997,NORTH DAKOTA STATE UNIVERSITY - FARGO                            ,ND,8,1,111,3352,3.3,P,5,D,104,3227,3.2,P,121,3256,3.7,P,public,,False
+958,2479,LINCOLN UNIVERSITY                                               ,MO,8,1,200,1045,19.1,A,2,D,236,1150,20.5,A,219,1055,20.7,A,public,,False
+1291,2994,MINOT STATE UNIVERSITY                                           ,ND,8,1,65,780,8.3,A,5,D,61,807,7.5,A,56,861,6.5,A,public,,False
+981,2516,UNIVERSITY OF MISSOURI - COLUMBIA                                ,MO,8,1,279,6092,4.5,P,5,D,266,6085,4.3,P,233,5465,4.2,P,public,,False
+1053,2625,WILLIAM PATERSON UNIVERSITY OF NEW JERSEY                        ,NJ,8,1,252,3094,8.1,A,5,D,244,2948,8.2,A,160,2662,6.0,A,public,,False
+1057,2629,"RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY                      ",NJ,8,1,448,13210,3.3,P,3,D,439,13039,3.3,P,428,12077,3.5,P,public,,False
+1061,2642,COLLEGE OF NEW JERSEY (THE)                                      ,NJ,8,1,23,1308,1.7,A,5,D,19,1294,1.4,A,17,1285,1.3,A,public,,False
+1065,2651,EASTERN NEW MEXICO UNIVERSITY                                    ,NM,8,1,226,1460,15.4,A,5,D,245,1413,17.3,A,235,1344,17.4,A,public,,False
+1066,2653,NEW MEXICO HIGHLANDS UNIVERSITY                                  ,NM,8,1,119,816,14.5,A,3,D,111,834,13.3,A,133,827,16.0,A,public,,False
+1067,2654,NEW MEXICO INSTITUTE OF MINING & TECHNOLOGY                      ,NM,8,1,16,246,6.5,A,5,D,11,205,5.3,A,11,209,5.2,A,public,,False
+975,2503,MISSOURI STATE UNIVERSITY                                        ,MO,8,1,275,4489,6.1,A,5,D,286,4341,6.5,A,310,4238,7.3,A,public,,False
+973,2501,SOUTHEAST MISSOURI STATE UNIVERSITY                              ,MO,8,1,254,2643,9.6,A,5,D,234,2562,9.1,A,253,2483,10.1,A,public,,False
+1070,2657,NEW MEXICO STATE UNIVERSITY                                      ,NM,8,1,1006,5427,18.5,A,3,D,1091,5556,19.6,A,1164,5755,20.2,A,public,,False
+970,2496,NORTHWEST MISSOURI STATE UNIVERSITY                              ,MO,8,1,143,1762,8.1,A,5,D,143,1775,8.0,A,138,1750,7.8,A,public,,False
+1072,2663,UNIVERSITY OF NEW MEXICO                                         ,NM,8,1,813,6228,13.0,P,3,D,791,6231,12.6,P,730,5608,13.0,P,public,,False
+1073,2664,WESTERN NEW MEXICO UNIVERSITY                                    ,NM,8,1,135,710,19.0,A,3,D,137,680,20.1,A,165,668,24.7,A,public,,False
+1085,2687,CUNY BROOKLYN COLLEGE                                            ,NY,8,1,123,2119,5.8,A,5,D,94,2128,4.4,A,121,1980,6.1,A,public,,False
+1086,2688,CITY COLLEGE OF NEW YORK - CUNY                                  ,NY,8,1,80,1834,4.3,A,5,D,87,1740,5.0,A,92,1602,5.7,A,public,,False
+1087,2689,CUNY HUNTER COLLEGE                                              ,NY,8,1,95,2416,3.9,A,5,D,95,2407,3.9,A,95,2232,4.2,A,public,,False
+1088,2690,CUNY QUEENS COLLEGE                                              ,NY,8,1,84,1670,5.0,A,5,D,59,1701,3.4,A,76,1683,4.5,A,public,,False
+1051,2622,KEAN UNIVERSITY                                                  ,NJ,8,1,263,3727,7.0,A,5,D,225,3957,5.6,A,226,3655,6.1,A,public,,False
+1050,2621,NEW JERSEY INSTITUTE OF TECHNOLOGY                               ,NJ,8,1,58,1521,3.8,A,5,D,57,1474,3.8,A,60,1445,4.1,A,public,,False
+1048,2617,MONTCLAIR STATE UNIVERSITY                                       ,NJ,8,1,186,4152,4.4,A,5,D,133,4053,3.2,A,101,3827,2.6,A,public,,False
+982,2517,MISSOURI UNIVERSITY OF SCIENCE AND TECHNOLOGY                    ,MO,8,1,56,1281,4.3,A,5,D,53,1234,4.2,A,38,1191,3.1,A,public,,False
+995,2531,MONTANA TECH OF THE UNIVERSITY OF MONTANA                        ,MT,8,1,82,695,11.7,A,5,D,96,716,13.4,A,58,705,8.2,A,public,,False
+996,2532,MONTANA STATE UNIVERSITY BOZEMAN                                 ,MT,8,1,231,3206,7.2,A,5,D,190,3054,6.2,A,151,3083,4.8,A,public,,False
+997,2533,MONTANA STATE UNIVERSITY - NORTHERN                              ,MT,8,1,48,432,11.1,A,5,D,57,438,13.0,A,62,472,13.1,A,public,,False
+999,2536,UNIVERSITY OF MONTANA (THE)                                      ,MT,8,1,438,4063,10.7,P,5,D,417,4216,9.8,P,414,4158,9.9,P,public,,False
+1001,2539,CHADRON STATE COLLEGE                                            ,NE,8,1,50,693,7.2,A,5,D,49,644,7.6,A,67,643,10.4,A,public,,False
+1008,2551,UNIVERSITY OF NEBRASKA - KEARNEY                                 ,NE,8,1,87,1576,5.5,A,5,D,64,1505,4.2,A,64,1403,4.5,A,public,,False
+1010,2554,UNIVERSITY OF NEBRASKA - OMAHA                                   ,NE,8,1,213,3360,6.3,A,5,D,198,3358,5.8,A,169,3317,5.0,A,public,,False
+1013,2559,PERU STATE COLLEGE                                               ,NE,8,1,69,585,11.7,A,5,D,57,552,10.3,A,57,579,9.8,A,public,,False
+1091,2693,CUNY JOHN JAY COLLEGE OF CRIMINAL JUSTICE                        ,NY,8,1,87,1522,5.7,P,3,D,87,1554,5.5,P,104,1597,6.5,P,public,,False
+1016,2565,UNIVERSITY OF NEBRASKA                                           ,NE,8,1,154,4326,3.5,P,5,D,119,4483,2.6,P,161,4522,3.5,P,public,,False
+1019,2568,"UNIVERSITY OF NEVADA , RENO                                      ",NV,8,1,138,2668,5.1,P,5,D,130,2482,5.2,P,132,2400,5.5,P,public,,False
+1020,2569,UNIVERSITY OF NEVADA - LAS VEGAS                                 ,NV,8,1,354,4871,7.2,A,5,D,329,4653,7.0,A,376,4837,7.7,A,public,,False
+1031,2589,UNIVERSITY OF NEW HAMPSHIRE                                      ,NH,8,1,91,3961,2.2,P,5,D,84,3941,2.1,P,78,3862,2.0,P,public,,False
+1032,2590,KEENE STATE COLLEGE                                              ,NH,8,1,57,1457,3.9,A,5,D,56,1431,3.9,A,71,1453,4.8,A,public,,False
+1033,2591,PLYMOUTH STATE UNIVERSITY OF THE UNIVERSITY SYSTEM OF NEW HAMPSHI,NH,8,1,81,1610,5.0,P,5,D,56,1590,3.5,P,74,1467,5.0,P,public,,False
+983,2518,UNIVERSITY OF MISSOURI - KANSAS CITY                             ,MO,8,1,264,3592,7.3,P,5,D,273,3532,7.7,P,255,3505,7.2,P,public,,False
+1043,2609,ROWAN UNIVERSITY                                                 ,NJ,8,1,167,2959,5.6,A,5,D,121,2753,4.3,A,149,4148,3.5,P,public,,False
+1045,2613,NEW JERSEY CITY UNIVERSITY                                       ,NJ,8,1,206,2188,9.4,A,3,D,193,2128,9.0,A,136,1865,7.2,A,public,,False
+1017,2566,WAYNE STATE COLLEGE                                              ,NE,8,1,75,1007,7.4,A,5,D,76,972,7.8,A,77,1066,7.2,A,public,,False
+1627,3531,UNIVERSITY OF TENNESSEE - MARTIN                                 ,TN,8,1,179,1932,9.2,A,5,D,185,1847,10.0,A,193,1814,10.6,A,public,,False
+969,2495,TRUMAN STATE UNIVERSITY                                          ,MO,8,1,30,1041,2.8,A,5,D,31,1010,3.0,A,38,970,3.9,A,public,,False
+1165,2835,STATE UNIVERSITY OF NEW YORK AT ALBANY                           ,NY,8,1,193,3981,4.8,P,5,D,184,4087,4.5,P,188,4067,4.6,P,public,,False
+1226,2907,UNIVERSITY OF NORTH CAROLINA  ASHEVILLE                          ,NC,8,1,48,827,5.8,A,5,D,34,749,4.5,A,36,751,4.7,A,public,,False
+966,2490,MISSOURI WESTERN STATE UNIVERSITY                                ,MO,8,1,228,1613,14.1,A,5,D,300,1788,16.7,A,260,1656,15.7,A,public,,False
+1239,2923,EAST CAROLINA UNIVERSITY                                         ,NC,8,1,304,5682,5.3,P,5,D,301,5770,5.2,P,286,5597,5.1,P,public,,False
+1240,2926,ELIZABETH CITY STATE UNIVERSITY                                  ,NC,8,1,164,903,18.1,A,2,D,164,957,17.1,A,201,921,21.8,A,public,,False
+1242,2928,FAYETTEVILLE STATE UNIVERSITY                                    ,NC,8,1,261,1973,13.2,A,2,D,217,1790,12.1,A,183,1714,10.6,A,public,,False
+1259,2950,NORTH CAROLINA CENTRAL UNIVERSITY                                ,NC,8,1,271,2644,10.2,A,2,D,231,2644,8.7,A,347,2603,13.3,A,public,,False
+1262,2954,UNIVERSITY OF NORTH CAROLINA AT PEMBROKE                         ,NC,8,1,223,1905,11.7,A,5,D,216,1860,11.6,A,277,1939,14.2,A,public,,False
+1272,2972,NORTH CAROLINA STATE UNIVERSITY                                  ,NC,8,1,163,4953,3.2,A,5,D,142,5093,2.7,A,166,4762,3.4,A,public,,False
+1273,2974,UNIVERSITY OF NORTH CAROLINA - CHAPEL HILL                       ,NC,8,1,75,4132,1.8,P,5,D,58,3863,1.5,P,67,4054,1.6,P,public,,False
+1274,2975,UNIVERSITY OF NORTH CAROLINA - CHARLOTTE                         ,NC,8,1,378,6008,6.2,A,5,D,317,5837,5.4,A,303,5419,5.5,A,public,,False
+1275,2976,UNIVERSITY OF NORTH CAROLINA - GREENSBORO                        ,NC,8,1,276,4586,6.0,P,5,D,282,4305,6.5,P,262,4350,6.0,P,public,,False
+1279,2981,WESTERN CAROLINA UNIVERSITY                                      ,NC,8,1,144,2207,6.5,A,5,D,145,2161,6.7,A,149,2101,7.0,A,public,,False
+1282,2984,UNIVERSITY OF NORTH CAROLINA AT WILMINGTON (THE)                 ,NC,8,1,140,2901,4.8,A,5,D,102,2712,3.7,A,118,2637,4.4,A,public,,False
+1284,2986,WINSTON-SALEM STATE UNIVERSITY                                   ,NC,8,1,277,1925,14.3,A,2,D,229,1901,12.0,A,234,1759,13.3,A,public,,False
+1286,2989,DICKINSON STATE UNIVERSITY                                       ,ND,8,1,30,456,6.5,A,5,D,32,538,5.9,A,40,651,6.1,A,public,,False
+964,2488,MISSOURI SOUTHERN STATE UNIVERSITY                               ,MO,8,1,188,1630,11.5,A,5,D,179,1659,10.7,A,194,1683,11.5,A,public,,False
+1290,2993,MAYVILLE STATE UNIVERSITY                                        ,ND,8,1,29,280,10.3,A,5,D,30,276,10.8,A,41,288,14.2,A,public,,False
+1225,2906,APPALACHIAN STATE UNIVERSITY                                     ,NC,8,1,158,3249,4.8,A,5,D,109,3282,3.3,A,107,3084,3.4,A,public,,False
+1224,2905,NORTH CAROLINA AGRICULTURAL & TECHNICAL STATE UNIVERSITY         ,NC,8,1,388,3016,12.8,A,2,D,400,2956,13.5,A,453,3051,14.8,A,public,,False
+1194,2866,FASHION INSTITUTE OF TECHNOLOGY                                  ,NY,8,1,57,1523,3.7,A,5,D,68,1543,4.4,A,89,1584,5.6,A,public,,False
+1187,2858,STATE UNIVERSITY OF NEW YORK AT FARMINGDALE                      ,NY,8,1,74,1223,6.0,A,5,D,66,1243,5.3,A,53,1055,5.0,A,public,,False
+1166,2836,BINGHAMTON UNIVERSITY                                            ,NY,8,1,58,2612,2.2,A,5,D,53,2731,1.9,A,76,2611,2.9,A,public,,False
+1167,2837,STATE UNIVERSITY OF NEW YORK AT BUFFALO                          ,NY,8,1,176,5345,3.2,A,5,D,175,5623,3.1,A,175,5557,3.1,A,public,,False
+1168,2838,STATE UNIVERSITY OF NEW YORK AT STONY BROOK                      ,NY,8,1,141,4285,3.2,P,5,D,141,4308,3.2,P,130,4358,2.9,P,public,,False
+1169,2839,STATE UNIVERSITY OF NEW YORK DOWNSTATE MEDICAL CENTER            ,NY,8,1,5,444,1.1,A,5,D,4,401,0.9,A,4,431,0.9,A,public,,False
+1170,2840,STATE UNIVERSITY OF NEW YORK UPSTATE MEDICAL UNIVERSITY          ,NY,8,1,4,365,1.0,P,5,D,7,365,1.9,P,5,362,1.3,P,public,,False
+1171,2841,SUNY COLLEGE AT BROCKPORT                                        ,NY,8,1,101,2413,4.1,A,5,D,86,2437,3.5,A,93,2489,3.7,A,public,,False
+1172,2842,SUNY COLLEGE AT BUFFALO                                          ,NY,8,1,265,3184,8.3,A,5,D,238,3372,7.0,A,267,3378,7.9,A,public,,False
+1173,2843,SUNY COLLEGE AT CORTLAND                                         ,NY,8,1,53,1915,2.7,A,5,D,52,1990,2.6,A,63,2137,2.9,A,public,,False
+1095,2698,COLLEGE OF STATEN ISLAND/CUNY                                    ,NY,8,1,130,1593,8.1,P,5,D,108,1445,7.4,P,116,1452,7.9,P,public,,False
+1174,2844,SUNY AT FREDONIA                                                 ,NY,8,1,83,1668,4.9,A,5,D,84,1668,5.0,A,79,1663,4.7,A,public,,False
+1176,2846,STATE UNIVERSITY OF NEW YORK AT NEW PALTZ                        ,NY,8,1,69,1725,4.0,A,5,D,63,1772,3.5,A,47,1662,2.8,A,public,,False
+1177,2847,SUNY COLLEGE AT ONEONTA                                          ,NY,8,1,46,1479,3.1,A,5,D,51,1488,3.4,A,48,1535,3.1,A,public,,False
+1178,2848,SUNY COLLEGE AT OSWEGO                                           ,NY,8,1,106,2357,4.4,A,5,D,109,2499,4.3,A,123,2387,5.1,A,public,,False
+1179,2849,STATE UNIVERSITY OF NEW YORK COLLEGE AT PLATTSBURGH              ,NY,8,1,63,1652,3.8,A,5,D,86,1653,5.2,A,96,1694,5.6,A,public,,False
+1180,2850,STATE UNIVERSITY OF NEW YORK COLLEGE AT POTSDAM                  ,NY,8,1,67,1230,5.4,A,5,D,68,1269,5.3,A,51,1253,4.0,A,public,,False
+1181,2851,SUNY COLLEGE OF ENVIRONMENT SCIENCE & FORESTRY                   ,NY,8,1,10,497,2.0,A,5,D,12,485,2.4,A,10,464,2.1,A,public,,False
+1182,2853,SUNY MARITIME COLLEGE                                            ,NY,8,1,13,347,3.7,A,5,D,23,384,5.9,A,19,369,5.1,A,public,,False
+1186,2857,SUNY COLLEGE OF TECHNOLOGY AT DELHI                              ,NY,8,1,105,1126,9.3,A,5,D,124,1204,10.2,A,109,1084,10.0,A,public,,False
+1175,2845,SUNY COLLEGE AT GENESEO                                          ,NY,8,1,23,1162,1.9,A,5,D,24,1223,1.9,A,26,1247,2.0,A,public,,False
+600,1926,PITTSBURG STATE UNIVERSITY                                       ,KS,8,1,180,1896,9.4,A,5,D,179,1947,9.1,A,159,1865,8.5,A,public,,False
+1634,3541,ANGELO STATE UNIVERSITY                                          ,TX,8,1,196,1838,10.6,A,5,D,222,1919,11.5,A,214,1781,12.0,A,public,,False
+915,2403,DELTA STATE UNIVERSITY                                           ,MS,8,1,89,1147,7.7,A,5,D,121,1265,9.5,A,122,1175,10.3,A,public,,False
+779,2190,WORCESTER STATE UNIVERSITY                                       ,MA,8,1,71,1249,5.6,A,5,D,51,1214,4.2,A,68,1139,5.9,A,public,,False
+778,2189,WESTFIELD STATE UNIVERSITY                                       ,MA,8,1,68,1526,4.4,A,5,D,57,1435,3.9,A,35,1322,2.6,A,public,,False
+777,2188,SALEM STATE UNIVERSITY                                           ,MA,8,1,151,2068,7.3,A,5,D,141,2041,6.9,A,156,1989,7.8,A,public,,False
+776,2187,MASSACHUSETTS COLLEGE OF LIBERAL ARTS                            ,MA,8,1,41,519,7.8,A,5,D,36,533,6.7,A,27,577,4.6,A,public,,False
+775,2185,FRAMINGHAM STATE UNIVERSITY                                      ,MA,8,1,48,1131,4.2,A,5,D,61,1025,5.9,A,46,918,5.0,A,public,,False
+774,2184,FITCHBURG STATE UNIVERSITY                                       ,MA,8,1,63,1056,5.9,A,5,D,59,1214,4.8,A,64,1099,5.8,A,public,,False
+1937,4027,UTAH VALLEY UNIVERSITY                                           ,UT,8,1,527,6306,8.3,A,5,D,525,6541,8.0,A,415,5817,7.1,A,public,,False
+773,2183,BRIDGEWATER STATE UNIVERSITY                                     ,MA,8,1,149,2660,5.6,A,5,D,108,2567,4.2,A,128,2473,5.1,A,public,,False
+772,2181,MASSACHUSETTS MARITIME ACADEMY                                   ,MA,8,1,10,328,3.0,A,5,D,6,301,1.9,A,11,259,4.2,A,public,,False
+771,2180,MASSACHUSETTS COLLEGE OF ART AND DESIGN                          ,MA,8,1,15,426,3.5,A,5,D,21,467,4.4,A,37,443,8.3,A,public,,False
+756,2161,UNIVERSITY OF MASSACHUSETTS - LOWELL                             ,MA,8,1,172,3332,5.1,P,5,D,176,3301,5.3,P,152,2842,5.3,P,public,,False
+1961,4508,UNIVERSITY OF COLORADO DENVER                                    ,CO,8,1,157,4656,3.3,P,5,D,164,4899,3.3,P,148,4656,3.1,P,public,,False
+1962,4509,UNIVERSITY OF COLORADO COLORADO SPRINGS                          ,CO,8,1,131,2355,5.5,P,5,D,90,2351,3.8,P,62,2143,2.8,P,public,,False
+720,2106,UNIVERSITY OF MARYLAND - EASTERN SHORE                           ,MD,8,1,194,1295,14.9,A,2,D,170,1243,13.6,A,190,1183,16.0,A,public,,False
+719,2105,UNIVERSITY OF MARYLAND - BALTIMORE COUNTY                        ,MD,8,1,118,2364,4.9,A,5,D,86,2310,3.7,A,104,2091,4.9,A,public,,False
+1994,4759,CUNY YORK COLLEGE                                                ,NY,8,1,39,573,6.8,A,5,D,39,564,6.9,A,20,443,4.5,A,public,,False
+1995,4765,CUNY GRADUATE SCHOOL & UNIVERSITY CENTER                         ,NY,8,1,15,592,2.5,P,5,D,22,594,3.7,P,17,550,3.0,P,public,,False
+790,2210,UNIVERSITY OF MASSACHUSETTS - DARTMOUTH                          ,MA,8,1,172,2519,6.8,P,5,D,130,2372,5.4,P,146,2560,5.7,P,public,,False
+2008,4882,OREGON HEALTH & SCIENCE UNIVERSITY                               ,OR,8,1,6,702,0.8,P,5,D,5,732,0.6,P,5,631,0.7,P,public,,False
+795,2221,UNIVERSITY OF MASSACHUSETTS - AMHERST                            ,MA,8,1,199,5649,3.5,P,5,D,173,5643,3.0,P,227,5578,4.0,P,public,,False
+1916,3981,UNIVERSITY OF NORTH CAROLINA SCHOOL OF THE ARTS                  ,NC,8,1,7,215,3.2,A,5,D,6,202,2.9,A,7,200,3.5,A,public,,False
+1885,3921,UNIVERSITY OF WISCONSIN - PLATTEVILLE                            ,WI,8,1,80,2051,3.9,A,5,D,95,2022,4.6,A,76,1855,4.0,A,public,,False
+1886,3923,UNIVERSITY OF WISCONSIN - RIVER FALLS                            ,WI,8,1,75,1706,4.3,A,5,D,77,1838,4.1,A,80,1849,4.3,A,public,,False
+1887,3924,UNIVERSITY OF WISCONSIN - STEVENS POINT                          ,WI,8,1,95,2421,3.9,A,5,D,84,2219,3.7,A,71,2202,3.2,A,public,,False
+1888,3925,UNIVERSITY OF WISCONSIN - SUPERIOR                               ,WI,8,1,55,897,6.1,A,5,D,50,943,5.3,A,71,873,8.1,A,public,,False
+1889,3926,UNIVERSITY OF WISCONSIN - WHITEWATER                             ,WI,8,1,133,2961,4.4,A,5,D,126,2670,4.7,A,139,2580,5.3,A,public,,False
+820,2260,FERRIS STATE UNIVERSITY                                          ,MI,8,1,310,4243,7.3,P,5,D,265,4192,6.3,P,313,4106,7.6,P,public,,False
+819,2259,EASTERN MICHIGAN UNIVERSITY                                      ,MI,8,1,640,6450,9.9,A,5,D,557,6456,8.6,A,657,6392,10.2,A,public,,False
+1894,3932,UNIVERSITY OF WYOMING                                            ,WY,8,1,117,2304,5.0,P,5,D,97,2269,4.2,P,95,2250,4.2,P,public,,False
+1896,3935,UNIVERSITY OF GUAM                                               ,GU,8,1,58,501,11.5,A,5,D,33,547,6.0,A,20,440,4.5,A,public,,False
+1902,3942,UNIVERSITY OF PUERTO RICO - CENTRAL ADMINISTRATION               ,PR,8,1,197,2558,7.7,P,5,D,293,3260,8.9,P,400,3743,10.6,P,public,,False
+1904,3944,UNIVERSITY OF PUERTO RICO - MAYAGUEZ                             ,PR,8,1,49,862,5.6,A,5,D,54,863,6.2,A,27,513,5.2,A,public,,False
+1905,3946,UNIVERSITY OF THE VIRGIN ISLANDS                                 ,VI,8,1,33,385,8.5,P,2,D,43,416,10.3,P,45,328,13.7,P,public,,False
+1906,3947,"UNIVERSITY OF CALIFORNIA, HASTINGS COLLEGE OF THE LAW            ",CA,8,1,4,389,1.0,A,5,D,3,446,0.6,A,3,426,0.7,A,public,,False
+1908,3954,UNIVERSITY OF CENTRAL FLORIDA                                    ,FL,8,1,629,11966,5.2,A,5,D,538,11096,4.8,A,427,9919,4.3,A,public,,False
+1909,3955,UNIVERSITY OF WEST FLORIDA (THE)                                 ,FL,8,1,216,2793,7.7,A,5,D,179,2468,7.2,A,168,2223,7.5,A,public,,False
+813,2243,CENTRAL MICHIGAN UNIVERSITY                                      ,MI,8,1,330,6734,4.9,A,5,D,301,6814,4.4,A,371,6739,5.5,A,public,,False
+1914,3969,UNIVERSITY OF MINNESOTA - TWIN CITIES                            ,MN,8,1,197,9358,2.1,P,5,D,210,9482,2.2,P,257,9732,2.6,P,public,,False
+796,2222,UNIVERSITY OF MASSACHUSETTS - BOSTON                             ,MA,8,1,227,3722,6.0,A,5,D,204,3781,5.3,A,205,3697,5.5,A,public,,False
+718,2104,"UNIVERSITY OF MARYLAND, BALTIMORE                                ",MD,8,1,25,1650,1.5,P,5,D,15,1677,0.8,P,10,1677,0.5,P,public,,False
+717,2103,"UNIVERSITY OF MARYLAND, COLLEGE PARK                             ",MD,8,1,126,5199,2.4,P,5,D,110,5297,2.0,P,110,5449,2.0,P,public,,False
+716,2102,UNIVERSITY OF BALTIMORE                                          ,MD,8,1,131,1873,6.9,P,5,D,117,2011,5.8,P,94,1691,5.5,P,public,,False
+664,2014,LOUISIANA STATE UNIVERSITY HEALTH SCIENCES CENTER                ,LA,8,1,10,752,1.3,P,5,D,12,767,1.5,P,4,716,0.5,P,public,,False
+663,2013,LOUISIANA STATE UNIVERSITY IN SHREVEPORT                         ,LA,8,1,82,875,9.3,A,5,D,93,987,9.4,A,87,991,8.7,A,public,,False
+660,2010,LOUISIANA STATE UNIVERSITY & AGRICULTURAL & MECHANICAL COLLEGE   ,LA,8,1,216,4132,5.2,P,5,D,208,4174,4.9,P,150,3868,3.8,P,public,,False
+659,2008,LOUISIANA TECH UNIVERSITY                                        ,LA,8,1,99,1387,7.1,A,5,D,103,1517,6.7,A,114,1619,7.0,A,public,,False
+657,2006,GRAMBLING STATE UNIVERSITY                                       ,LA,8,1,290,1733,16.7,A,2,D,300,1689,17.7,A,234,1479,15.8,A,public,,False
+656,2005,NICHOLLS STATE UNIVERSITY                                        ,LA,8,1,176,1622,10.8,A,5,D,159,1509,10.5,A,132,1438,9.1,A,public,,False
+653,2002,WESTERN KENTUCKY UNIVERSITY                                      ,KY,8,1,518,5270,9.8,A,5,D,629,5559,11.3,A,637,5347,11.9,A,public,,False
+651,1999,UNIVERSITY OF LOUISVILLE                                         ,KY,8,1,270,4436,6.0,P,5,D,338,4642,7.2,P,337,4503,7.4,P,public,,False
+643,1989,UNIVERSITY OF KENTUCKY                                           ,KY,8,1,260,4836,5.3,P,5,D,214,4808,4.4,P,260,4649,5.5,P,public,,False
+638,1977,MURRAY STATE UNIVERSITY                                          ,KY,8,1,223,2368,9.4,A,5,D,206,2443,8.4,A,249,2388,10.4,A,public,,False
+637,1976,MOREHEAD STATE UNIVERSITY                                        ,KY,8,1,187,2372,7.8,A,5,D,201,2501,8.0,A,238,2435,9.7,A,public,,False
+631,1968,KENTUCKY STATE UNIVERSITY                                        ,KY,8,1,210,1018,20.6,A,2,D,183,1036,17.6,A,198,896,22.0,A,public,,False
+628,1963,EASTERN KENTUCKY UNIVERSITY                                      ,KY,8,1,463,4549,10.1,A,5,D,475,4473,10.6,A,532,4540,11.7,A,public,,False
+617,1950,WICHITA STATE UNIVERSITY                                         ,KS,8,1,286,3553,8.0,A,5,D,246,3570,6.8,A,230,3453,6.6,A,public,,False
+616,1949,WASHBURN UNIVERSITY - TOPEKA                                     ,KS,8,1,277,2210,12.5,P,5,D,263,2278,11.5,P,280,2362,11.8,P,public,,False
+615,1948,UNIVERSITY OF KANSAS                                             ,KS,8,1,246,5032,4.8,P,5,D,237,5528,4.2,P,255,5747,4.4,P,public,,False
+602,1928,KANSAS STATE UNIVERSITY                                          ,KS,8,1,282,4776,5.9,P,5,D,232,4630,5.0,P,254,4770,5.3,P,public,,False
+665,2015,UNIVERSITY OF NEW ORLEANS (THE)                                  ,LA,8,1,180,2049,8.7,A,5,D,175,2191,7.9,A,178,2357,7.5,A,public,,False
+667,2017,MCNEESE STATE UNIVERSITY                                         ,LA,8,1,195,1758,11.0,A,5,D,224,1805,12.4,A,221,1816,12.1,A,public,,False
+668,2020,UNIVERSITY OF LOUISIANA AT MONROE                                ,LA,8,1,126,1706,7.3,P,5,D,156,1797,8.6,P,171,1805,9.4,P,public,,False
+669,2021,NORTHWESTERN STATE UNIVERSITY                                    ,LA,8,1,275,2384,11.5,A,5,D,240,2225,10.7,A,235,2159,10.8,A,public,,False
+2024,4951,UNIVERSITY OF TEXAS HEALTH SCIENCE CENTER AT HOUSTON             ,TX,8,1,6,836,0.7,P,5,D,7,836,0.8,P,7,744,0.9,P,public,,False
+2025,4952,UNIVERSITY OF TEXAS MEDICAL BRANCH AT GALVESTON                  ,TX,8,1,4,762,0.5,P,5,D,8,761,1.0,P,8,658,1.2,P,public,,False
+715,2099,TOWSON UNIVERSITY                                                ,MD,8,1,182,4218,4.3,A,5,D,143,4145,3.4,A,154,3937,3.9,A,public,,False
+2037,5015,UNIVERSITY OF WISCONSIN - PARKSIDE                               ,WI,8,1,144,1343,10.7,P,5,D,124,1262,9.8,P,157,1357,11.5,P,public,,False
+714,2095,SAINT MARY'S COLLEGE OF MARYLAND                                 ,MD,8,1,4,298,1.3,A,5,D,10,326,3.0,A,10,370,2.7,A,public,,False
+711,2091,SALISBURY UNIVERSITY                                             ,MD,8,1,65,1858,3.4,A,5,D,54,1707,3.1,A,72,1653,4.3,A,public,,False
+708,2083,MORGAN STATE UNIVERSITY                                          ,MD,8,1,386,2334,16.5,A,2,D,324,2500,12.9,A,381,2245,16.9,A,public,,False
+700,2072,FROSTBURG STATE UNIVERSITY                                       ,MD,8,1,106,1375,7.7,A,5,D,96,1247,7.6,A,115,1262,9.1,A,public,,False
+1884,3920,UNIVERSITY OF WISCONSIN - OSHKOSH                                ,WI,8,1,141,2919,4.8,A,5,D,111,2813,3.9,A,111,2769,4.0,A,public,,False
+698,2068,COPPIN STATE UNIVERSITY                                          ,MD,8,1,195,1063,18.3,A,2,D,165,1136,14.5,A,205,1144,17.9,A,public,,False
+689,2054,UNIVERSITY OF SOUTHERN MAINE                                     ,ME,8,1,161,2373,6.7,P,5,D,153,2567,5.9,P,145,2396,6.0,P,public,,False
+688,2053,UNIVERSITY OF MAINE                                              ,ME,8,1,130,2338,5.5,A,5,D,132,2609,5.0,A,123,2590,4.7,A,public,,False
+984,2519,UNIVERSITY OF MISSOURI - SAINT LOUIS                             ,MO,8,1,252,3720,6.7,P,5,D,283,3787,7.4,P,290,3788,7.6,P,public,,False
+681,2040,UNIVERSITY OF MAINE - FARMINGTON                                 ,ME,8,1,53,663,7.9,A,5,D,35,640,5.4,A,39,631,6.1,A,public,,False
+675,2031,UNIVERSITY OF LOUISIANA AT LAFAYETTE                             ,LA,8,1,211,2638,7.9,A,5,D,203,2598,7.8,A,195,2555,7.6,A,public,,False
+673,2026,SOUTHERN UNIVERSITY AT NEW ORLEANS                               ,LA,8,1,122,1037,11.7,A,2,D,160,1202,13.3,A,135,1133,11.9,A,public,,False
+672,2025,SOUTHERN UNIVERSITY AND AGRICULTURAL & MECHANICAL COLG AT BATON R,LA,8,1,330,2703,12.2,P,2,D,318,2742,11.5,P,275,2385,11.5,P,public,,False
+671,2024,SOUTHEASTERN LOUISIANA UNIVERSITY                                ,LA,8,1,309,3254,9.4,A,5,D,293,3221,9.0,A,246,3178,7.7,A,public,,False
+693,2062,BOWIE STATE UNIVERSITY                                           ,MD,8,1,206,1689,12.1,A,2,D,178,1624,10.9,A,204,1678,12.1,A,public,,False
+921,2410,JACKSON STATE UNIVERSITY                                         ,MS,8,1,451,3143,14.3,A,2,D,407,3053,13.3,A,359,2811,12.7,A,public,,False
+1883,3919,UNIVERSITY OF WISCONSIN - LACROSSE                               ,WI,8,1,44,2183,2.0,A,5,D,35,2078,1.6,A,39,2060,1.8,A,public,,False
+1881,3915,UNIVERSITY OF WISCONSIN - STOUT                                  ,WI,8,1,89,2332,3.8,P,5,D,85,2442,3.4,P,93,2446,3.8,P,public,,False
+1696,3624,STEPHEN F AUSTIN STATE UNIVERSITY                                ,TX,8,1,306,3418,8.9,A,5,D,392,3410,11.4,A,378,3397,11.1,A,public,,False
+1697,3625,SUL ROSS STATE UNIVERSITY                                        ,TX,8,1,124,902,13.7,A,3,D,127,837,15.1,A,122,881,13.8,A,public,,False
+851,2307,OAKLAND UNIVERSITY                                               ,MI,8,1,216,4500,4.8,A,5,D,195,4601,4.2,A,212,4282,4.9,A,public,,False
+848,2301,NORTHERN MICHIGAN UNIVERSITY                                     ,MI,8,1,275,2496,11.0,A,5,D,263,2631,9.9,A,254,2640,9.6,A,public,,False
+1701,3630,PRAIRIE VIEW AGRICULTURAL & MECHANICAL UNIVERSITY                ,TX,8,1,326,2817,11.5,A,2,D,447,2921,15.3,A,576,2916,19.7,A,public,,False
+1702,3631,TARLETON STATE UNIVERSITY                                        ,TX,8,1,219,3304,6.6,A,5,D,276,3148,8.7,A,205,2665,7.6,A,public,,False
+1703,3632,TEXAS A&M UNIVERSITY                                             ,TX,8,1,175,7529,2.3,P,5,D,353,8593,4.1,P,363,8546,4.2,P,public,,False
+1709,3639,TEXAS A&M UNIVERSITY - KINGSVILLE                                ,TX,8,1,324,3147,10.2,A,3,D,312,2883,10.8,A,330,2581,12.7,A,public,,False
+1711,3642,TEXAS SOUTHERN UNIVERSITY                                        ,TX,8,1,288,3398,8.4,A,2,D,547,3972,13.7,A,535,3469,15.4,A,public,,False
+1712,3644,TEXAS TECH UNIVERSITY                                            ,TX,8,1,387,6209,6.2,A,5,D,332,6077,5.4,A,347,5743,6.0,A,public,,False
+1714,3646,TEXAS WOMAN'S UNIVERSITY                                         ,TX,8,1,217,3985,5.4,A,5,D,211,3977,5.3,A,243,3736,6.5,A,public,,False
+1718,3652,UNIVERSITY OF HOUSTON                                            ,TX,8,1,232,7807,2.9,P,5,D,409,7888,5.1,P,469,7472,6.2,P,public,,False
+1720,3656,UNIVERSITY OF TEXAS AT ARLINGTON                                 ,TX,8,1,566,9173,6.1,A,5,D,554,8848,6.2,A,569,8290,6.8,A,public,,False
+1721,3658,UNIVERSITY OF TEXAS AT AUSTIN                                    ,TX,8,1,204,8233,2.4,P,5,D,274,8197,3.3,P,301,8261,3.6,P,public,,False
+1722,3659,UNIVERSITY OF TEXAS HEALTH SCIENCE CENTER AT SAN ANTONIO         ,TX,8,1,17,864,1.9,P,3,D,14,832,1.6,P,20,811,2.4,P,public,,False
+1723,3661,UNIVERSITY OF TEXAS AT EL PASO                                   ,TX,8,1,575,4991,11.5,A,3,D,525,4896,10.7,A,472,4617,10.2,A,public,,False
+843,2293,LAKE SUPERIOR STATE UNIVERSITY                                   ,MI,8,1,47,684,6.8,A,5,D,65,749,8.6,A,76,754,10.0,A,public,,False
+1689,3615,TEXAS STATE UNIVERSITY                                           ,TX,8,1,349,7661,4.5,A,5,D,507,8068,6.2,A,600,7299,8.2,A,public,,False
+855,2314,SAGINAW VALLEY STATE UNIVERSITY                                  ,MI,8,1,206,2746,7.5,A,5,D,174,2783,6.2,A,200,2793,7.1,A,public,,False
+1686,3612,UNIVERSITY OF HOUSTON - DOWNTOWN                                 ,TX,8,1,224,3456,6.4,A,3,D,379,3464,10.9,A,377,3158,11.9,A,public,,False
+1681,3606,SAM HOUSTON STATE UNIVERSITY                                     ,TX,8,1,270,4608,5.8,A,5,D,333,4136,8.0,A,330,3817,8.6,A,public,,False
+911,2396,ALCORN STATE UNIVERSITY                                          ,MS,8,1,261,1599,16.3,A,2,D,277,1554,17.8,A,229,1472,15.5,A,public,,False
+910,2394,WINONA STATE UNIVERSITY                                          ,MN,8,1,92,2226,4.1,A,5,D,85,2161,3.9,A,88,2119,4.1,A,public,,False
+906,2388,UNIVERSITY OF MINNESOTA  DULUTH                                  ,MN,8,1,72,2696,2.6,P,5,D,77,2744,2.8,P,74,2641,2.8,P,public,,False
+1650,3565,TEXAS A&M UNIVERSITY - COMMERCE                                  ,TX,8,1,236,3193,7.3,A,5,D,250,2903,8.6,A,276,2719,10.1,A,public,,False
+899,2377,ST. CLOUD STATE UNIVERSITY                                       ,MN,8,1,181,3844,4.7,A,5,D,172,4090,4.2,A,231,4234,5.4,A,public,,False
+898,2375,SOUTHWEST MINNESOTA STATE UNIVERSITY                             ,MN,8,1,66,936,7.0,A,5,D,54,952,5.6,A,63,945,6.6,A,public,,False
+893,2367,MINNESOTA STATE UNIVERSITY MOORHEAD                              ,MN,8,1,97,2022,4.7,A,5,D,121,2247,5.3,A,130,2183,5.9,A,public,,False
+889,2360,"MINNESOTA STATE UNIVERSITY, MANKATO                              ",MN,8,1,186,3874,4.8,A,5,D,162,3879,4.1,A,172,3858,4.4,A,public,,False
+842,2292,MICHIGAN TECHNOLOGICAL UNIVERSITY                                ,MI,8,1,25,1224,2.0,P,5,D,27,1346,2.0,P,51,1332,3.8,P,public,,False
+1662,3581,LAMAR UNIVERSITY                                                 ,TX,8,1,282,4108,6.8,A,5,D,410,3923,10.4,A,400,3337,11.9,A,public,,False
+1670,3592,MIDWESTERN STATE UNIVERSITY                                      ,TX,8,1,105,1504,6.9,A,5,D,115,1462,7.8,A,123,1481,8.3,A,public,,False
+867,2330,WESTERN MICHIGAN UNIVERSITY                                      ,MI,8,1,380,6093,6.2,A,5,D,370,6204,5.9,A,367,5936,6.1,A,public,,False
+1672,3594,UNIVERSITY OF NORTH TEXAS                                        ,TX,8,1,576,8562,6.7,A,5,D,691,8740,7.9,A,652,8571,7.6,A,public,,False
+866,2329,WAYNE STATE UNIVERSITY                                           ,MI,8,1,566,7314,7.7,P,5,D,504,7970,6.3,P,727,8022,9.0,P,public,,False
+1675,3599,UNIVERSITY OF TEXAS - RIO GRANDE VALLEY                          ,TX,8,1,188,3693,5.0,A,3,D,266,3615,7.3,A,356,3364,10.5,A,public,,False
+864,2327,UNIVERSITY OF MICHIGAN - FLINT                                   ,MI,8,1,154,2419,6.3,A,5,D,135,2399,5.6,A,184,2346,7.8,A,public,,False
+863,2326,UNIVERSITY OF MICHIGAN - DEARBORN                                ,MI,8,1,115,2048,5.6,A,5,D,94,2026,4.6,A,115,1999,5.7,A,public,,False
+862,2325,UNIVERSITY OF MICHIGAN - ANN ARBOR                               ,MI,8,1,83,6208,1.3,P,5,D,77,6101,1.2,P,98,5996,1.6,P,public,,False
+872,2336,BEMIDJI STATE UNIVERSITY                                         ,MN,8,1,81,1495,5.4,A,5,D,101,1569,6.4,A,87,1522,5.7,A,public,,False
+1882,3917,UNIVERSITY OF WISCONSIN - EAU CLAIRE                             ,WI,8,1,61,2498,2.4,A,5,D,68,2499,2.7,A,64,2307,2.7,A,public,,False
+1727,3665,WEST TEXAS A&M UNIVERSITY                                        ,TX,8,1,184,2013,9.1,A,5,D,195,1976,9.8,A,201,1868,10.7,A,public,,False
+1734,3675,UNIVERSITY OF UTAH                                               ,UT,8,1,180,5541,3.2,P,5,D,194,5752,3.3,P,171,5218,3.2,P,public,,False
+1805,3771,CENTRAL WASHINGTON UNIVERSITY                                    ,WA,8,1,186,3036,6.1,A,5,D,180,3005,5.9,A,194,2908,6.6,A,public,,False
+1808,3775,EASTERN WASHINGTON UNIVERSITY                                    ,WA,8,1,168,3216,5.2,A,5,D,154,3089,4.9,A,156,2944,5.2,A,public,,False
+1829,3798,UNIVERSITY OF WASHINGTON - SEATTLE                               ,WA,8,1,245,8999,2.7,P,5,D,223,8705,2.5,P,239,8648,2.7,P,public,,False
+1831,3800,WASHINGTON STATE UNIVERSITY                                      ,WA,8,1,242,6167,3.9,P,5,D,203,6103,3.3,P,200,5883,3.3,P,public,,False
+1833,3802,WESTERN WASHINGTON UNIVERSITY                                    ,WA,8,1,75,2979,2.5,A,5,D,61,2880,2.1,A,84,2809,2.9,A,public,,False
+1840,3810,CONCORD UNIVERSITY                                               ,WV,8,1,122,830,14.6,A,5,D,120,800,15.0,A,129,731,17.6,A,public,,False
+1842,3812,FAIRMONT STATE UNIVERSITY                                        ,WV,8,1,199,1492,13.3,A,5,D,217,1527,14.2,A,229,1605,14.2,A,public,,False
+1799,3765,NORFOLK STATE UNIVERSITY                                         ,VA,8,1,322,2378,13.5,A,2,D,323,2555,12.6,A,318,2209,14.3,A,public,,False
+1844,3815,MARSHALL UNIVERSITY                                              ,WV,8,1,328,3220,10.1,P,5,D,302,3153,9.5,P,380,3283,11.5,P,public,,False
+1850,3823,WEST LIBERTY UNIVERSITY                                          ,WV,8,1,69,765,9.0,A,5,D,74,697,10.6,A,84,803,10.4,A,public,,False
+1851,3826,WEST VIRGINIA STATE UNIVERSITY                                   ,WV,8,1,143,770,18.5,P,2,D,125,809,15.4,P,151,905,16.6,P,public,,False
+1852,3827,WEST VIRGINIA UNIVERSITY                                         ,WV,8,1,585,7017,8.3,P,5,D,537,7193,7.4,P,615,7215,8.5,P,public,,False
+828,2268,GRAND VALLEY STATE UNIVERSITY                                    ,MI,8,1,247,6032,4.0,A,5,D,205,6080,3.3,A,229,5820,3.9,A,public,,False
+1876,3895,UNIVERSITY OF WISCONSIN - MADISON                                ,WI,8,1,88,5735,1.5,P,5,D,70,5821,1.2,P,89,5911,1.5,P,public,,False
+1877,3896,UNIVERSITY OF WISCONSIN - MILWAUKEE                              ,WI,8,1,558,7629,7.3,A,5,D,495,7859,6.2,A,436,7736,5.6,A,public,,False
+1879,3899,UNIVERSITY OF WISCONSIN - GREEN BAY                              ,WI,8,1,84,1787,4.7,A,5,D,87,1791,4.8,A,59,1663,3.5,A,public,,False
+1849,3822,SHEPHERD UNIVERSITY                                              ,WV,8,1,102,1140,8.9,A,5,D,107,1121,9.5,A,78,1014,7.6,A,public,,False
+841,2290,MICHIGAN STATE UNIVERSITY                                        ,MI,8,1,294,8387,3.5,P,5,D,305,8369,3.6,P,341,8392,4.0,P,public,,False
+1798,3764,VIRGINIA STATE UNIVERSITY                                        ,VA,8,1,396,2245,17.6,A,2,D,318,2156,14.7,A,281,1859,15.1,A,public,,False
+1790,3749,GEORGE MASON UNIVERSITY                                          ,VA,8,1,122,6032,2.0,A,5,D,128,5965,2.1,A,90,5513,1.6,A,public,,False
+1735,3677,UTAH STATE UNIVERSITY                                            ,UT,8,1,271,5044,5.3,P,5,D,292,5214,5.6,P,231,4552,5.0,P,public,,False
+1736,3678,SOUTHERN UTAH UNIVERSITY                                         ,UT,8,1,97,1635,5.9,A,5,D,93,1665,5.5,A,103,1596,6.4,A,public,,False
+1738,3680,WEBER STATE UNIVERSITY                                           ,UT,8,1,299,4084,7.3,A,5,D,269,4132,6.5,A,216,3686,5.8,A,public,,False
+1741,3683,CASTLETON UNIVERSITY                                             ,VT,8,1,61,672,9.0,A,5,D,51,641,7.9,A,49,649,7.5,A,public,,False
+1746,3688,JOHNSON STATE COLLEGE                                            ,VT,8,1,62,619,10.0,A,5,D,76,656,11.5,A,81,690,11.7,A,public,,False
+1747,3689,LYNDON STATE COLLEGE                                             ,VT,8,1,46,494,9.3,A,5,D,50,448,11.1,A,90,526,17.1,A,public,,False
+1753,3696,UNIVERSITY OF VERMONT AND STATE AGRICULTURAL COLLEGE             ,VT,8,1,84,2580,3.2,P,5,D,75,2541,2.9,P,98,2611,3.7,P,public,,False
+1755,3698,VERMONT TECHNICAL COLLEGE                                        ,VT,8,1,26,598,4.3,P,5,D,24,603,3.9,P,33,596,5.5,P,public,,False
+1792,3754,VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVERSITY                ,VA,8,1,65,4523,1.4,P,5,D,76,4539,1.6,P,99,4541,2.1,P,public,,False
+1759,3705,COLLEGE OF WILLIAM & MARY                                        ,VA,8,1,12,1139,1.0,P,5,D,10,1168,0.8,P,8,1196,0.6,P,public,,False
+1769,3719,LONGWOOD UNIVERSITY                                              ,VA,8,1,38,942,4.0,A,5,D,30,959,3.1,A,35,876,3.9,A,public,,False
+1771,3721,JAMES MADISON UNIVERSITY                                         ,VA,8,1,57,2819,2.0,A,5,D,60,2847,2.1,A,63,2695,2.3,A,public,,False
+1776,3728,OLD DOMINION UNIVERSITY                                          ,VA,8,1,347,5528,6.2,P,5,D,245,5108,4.7,P,269,5212,5.1,P,public,,False
+1777,3732,RADFORD UNIVERSITY                                               ,VA,8,1,98,2166,4.5,A,5,D,100,2233,4.4,A,92,2180,4.2,A,public,,False
+1780,3735,VIRGINIA COMMONWEALTH UNIVERSITY                                 ,VA,8,1,267,6565,4.0,P,5,D,234,6493,3.6,P,286,6275,4.5,P,public,,False
+1787,3745,UNIVERSITY OF VIRGINIA                                           ,VA,8,1,37,2742,1.3,P,5,D,27,2877,0.9,P,47,2743,1.7,P,public,,False
+1788,3746,UNIVERSITY OF MARY WASHINGTON                                    ,VA,8,1,28,952,2.9,A,5,D,17,880,1.9,A,19,813,2.3,A,public,,False
+1760,3706,CHRISTOPHER NEWPORT UNIVERSITY                                   ,VA,8,1,31,971,3.1,A,5,D,21,932,2.2,A,29,890,3.2,A,public,,False
+0,1002,ALABAMA AGRICULTURAL & MECHANICAL UNIVERSITY                     ,AL,8,1,332,1753,18.9,A,2,D,300,1812,16.5,A,326,1895,17.2,A,public,,False
+2578,9509,CHARLES A. JONES CAREER AND EDUCATION CENTER                     ,CA,11,1,15,115,13.0,A,5,D,11,113,9.7,A,5,46,10.8,A,public,,False
+2424,8269,HILLYARD TECHNICAL CENTER                                        ,MO,11,1,7,60,11.6,A,5,D,5,53,9.4,B,4,45,8.8,B,public,,False
