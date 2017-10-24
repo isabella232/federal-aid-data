@@ -20,6 +20,8 @@ _Numbers from q3 2017 fiscal year_
 #### Public/private/proprietary
 Nine out of 10 of the schools with the highest default rates are proprietary, for-profit schools. Though, on average, public schools have the highest default rates.
 
+![avg_borrow_by_age.png](https://github.com/nprapps/federal-aid-data/blob/master/exports/img/default_rates_by_school_type.png?raw=true)
+
 From the 10 public schools with the lowest numbers, seven are health-science schools. On the flip side, from the 10 public school with the highest default rates, **nine out of 10** schools are community colleges.
 
 Not sure if there's an interesting visualization in this, but I can keep looking at the numbers and get more expansive data if it's interesting.
