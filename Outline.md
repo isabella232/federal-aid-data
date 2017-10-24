@@ -37,5 +37,6 @@ If the location data makes sense to use, here are two different takes:
 ![borrower-avg-by-state.png](https://github.com/nprapps/federal-aid-data/blob/master/exports/img/borrower-avg-by-state.png?raw=true)
 
 ![total-debt-by-state-adj.png](https://github.com/nprapps/federal-aid-data/blob/master/exports/img/total-debt-by-state-adj.png?raw=true)
+_Note: By state is adjusted for population_
 
 *Note: After talking it through with Aly, she doesn't think it makes much since to cross reference the location data with something like educational attainment. So, if it makes sense to use the data as is, we can. If not, we can drop it.
